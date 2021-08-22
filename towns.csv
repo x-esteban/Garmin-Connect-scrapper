@@ -1,0 +1,8130 @@
+nombre,poblacion
+Madrid,3334730
+Barcelona,1664182
+València,800215
+Sevilla,691395
+Zaragoza,681877
+Málaga,578460
+Murcia,459403
+Palma,422587
+Las Palmas de Gran Canaria,381223
+Bilbao,350184
+Alacant,337482
+Córdoba,326039
+Valladolid,299265
+Vigo,296692
+Gijón,271717
+L'Hospitalet de Llobregat,269382
+Vitoria-Gasteiz,253996
+A Coruña,247604
+Elx,234765
+Granada,233648
+Terrassa,223627
+Badalona,223166
+Oviedo,219910
+Sabadell,216520
+Cartagena,216108
+Jerez de la Frontera,213105
+Móstoles,210309
+Santa Cruz de Tenerife,209194
+Iruña,203944
+Almería,201322
+Alcalá de Henares,197562
+Fuenlabrada,194514
+Leganés,191114
+San Sebastián,188240
+Getafe,185180
+Burgos,176418
+Albacete,174336
+Castelló de la Plana,174264
+Santander,173375
+Alcorcón,172384
+San Cristóbal de La Laguna,158911
+Logroño,152485
+Badajoz,150984
+Marbella,147633
+Salamanca,144825
+Huelva,143837
+Lleida,140403
+Tarragona,136496
+Dos Hermanas,135050
+Parla,133482
+Torrejón de Ardoz,132853
+Mataró,129661
+León,124028
+Algeciras,123078
+Santa Coloma de Gramenet,120443
+Alcobendas,118417
+Cádiz,115439
+Jaén,112757
+Reus,106168
+Ourense,105643
+Girona,103369
+Telde,102791
+Barakaldo,101486
+Lugo,98519
+Roquetas de Mar,98433
+Santiago de Compostela,97848
+Cáceres,96255
+Las Rozas de Madrid,96113
+Lorca,95515
+San Fernando,95001
+Sant Cugat del Vallès,92977
+San Sebastián de los Reyes,91224
+Rivas-Vaciamadrid,90973
+Cornellà de Llobregat,89936
+El Puerto de Santa María,88703
+Guadalajara,87484
+Pozuelo de Alarcón,87165
+Toledo,85811
+Mijas,85397
+Chiclana de la Frontera,85150
+Torrevieja,84667
+Sant Boi de Llobregat,84500
+Torrent,83962
+El Ejido,83758
+Talavera de la Reina,83663
+Pontevedra,83260
+Fuengirola,82837
+Arona,82777
+Vélez-Málaga,82365
+Coslada,81391
+Rubí,78591
+Orihuela,78505
+Manresa,78245
+Palencia,78144
+Avilés,77791
+Getxo,77770
+Valdemoro,77270
+Gandia,75798
+Alcalá de Guadaíra,75533
+Ciudad Real,75504
+Santa Lucía de Tirajana,74602
+Molina de Segura,73095
+Majadahonda,72155
+Paterna,71035
+Benidorm,70450
+Estepona,70228
+Sanlúcar de Barrameda,69205
+Torremolinos,69166
+Benalmádena,69144
+Vilanova i la Geltrú,67733
+Castelldefels,67460
+Viladecans,67197
+Sagunt,67173
+Ferrol,65560
+El Prat de Llobregat,65385
+Arrecife,64645
+Ponferrada,64509
+Collado Villalba,64378
+La Línea de la Concepción,63630
+Irun,62910
+Granollers,62419
+Zamora,60988
+Aranjuez,60332
+Mérida,59548
+Alcoi,59354
+Sant Vicent del Raspeig,58978
+Motril,58460
+Ávila,58369
+Cerdanyola del Vallès,57855
+Linares,57353
+Boadilla del Monte,56734
+Arganda del Rey,56678
+Cuenca,54621
+Huesca,53956
+San Bartolomé de Tirajana,53397
+Pinto,53325
+Elda,52813
+Segovia,52057
+Colmenar Viejo,51938
+Calvià,51710
+Mollet del Vallès,51600
+Torrelavega,51597
+Siero,51509
+Vila-real,51293
+Granadilla de Abona,51233
+Eivissa,51128
+Utrera,50962
+Adeje,49030
+Rincón de la Victoria,48768
+Tres Cantos,48326
+Vic,47630
+Figueres,47235
+Esplugues de Llobregat,47150
+Gavà,47057
+Puertollano,46607
+Mairena del Aljarafe,46555
+Santurtzi,46069
+Portugalete,45746
+Sant Feliu de Llobregat,45467
+Alzira,44938
+Manacor,44527
+Mislata,44320
+Dénia,42827
+Lucena,42733
+Alcantarilla,42345
+La Orotava,42187
+Puerto del Rosario,41808
+Puerto Real,41700
+Antequera,41318
+Alhaurín de la Torre,41170
+Basauri,40847
+Igualada,40742
+Vilafranca del Penedès,40154
+Blanes,39914
+Écija,39893
+Plasencia,39860
+Soria,39821
+San Fernando de Henares,39566
+Errenteria,39540
+Santa Eulària des Riu,39358
+Langreo,39183
+Ripollet,39179
+Lloret de Mar,39089
+La Rinconada,39062
+Narón,39056
+Burjassot,38632
+Los Palacios y Villafranca,38548
+El Vendrell,38373
+Arucas,38334
+Llucmajor,37752
+Marratxí,37724
+Vilagarcía de Arousa,37565
+Mieres,37537
+Sant Adrià de Besòs,37447
+Don Benito,37284
+Tudela,37042
+Montcada i Reixac,36803
+Los Realejos,36727
+Andújar,36615
+Oleiros,36534
+Torre-Pacheco,36464
+Teruel,36240
+Tomelloso,36168
+Olot,35926
+Ontinyent,35761
+Miranda de Ebro,35760
+Águilas,35722
+Azuqueca de Henares,35407
+Cieza,35283
+la Vila Joiosa,35199
+Burriana,35052
+Yecla,34834
+Cambrils,34734
+Galapagar,34497
+Úbeda,34329
+Sant Joan Despí,34267
+Petrer,34241
+Villena,34155
+Almendralejo,33855
+Ronda,33730
+Inca,33679
+Tortosa,33439
+Barberà del Vallès,33334
+Santa Pola,33303
+Aranda de Duero,33187
+San Javier,33129
+Arroyomolinos,32935
+Mazarrón,32839
+Arteixo,32738
+Totana,32529
+Castro-Urdiales,32270
+Aldaia,32204
+Salt,32138
+Ames,32104
+Leioa,32013
+Agüimes,31914
+Ingenio,31694
+la Vall d'Uixó,31681
+Níjar,31666
+San Roque,31571
+Carballo,31429
+Manises,31240
+Sant Pere de Ribes,31111
+Coria del Río,30908
+Arcos de la Frontera,30818
+Alcázar de San Juan,30766
+Culleredo,30685
+Ciutadella de Menorca,30588
+San Andrés del Rabanedo,30549
+Puerto de la Cruz,30492
+Camargo,30320
+Valdepeñas,30252
+Hellín,30200
+Xirivella,30197
+Durango,30118
+Navalcarnero,29985
+Puente Genil,29943
+Alaquàs,29711
+Xàtiva,29623
+Maó-Mahón,29592
+Illescas,29558
+Sitges,29553
+Crevillent,29536
+Galdakao,29427
+Rota,29282
+Redondela,29241
+el Campello,28930
+Carmona,28834
+Vinaròs,28833
+Martorell,28772
+Catarroja,28608
+Premià de Mar,28531
+Salou,28526
+Candelaria,28383
+Sant Vicenç dels Horts,28268
+Villaviciosa de Odón,28148
+Xàbia,28016
+Pineda de Mar,27984
+Lepe,27880
+Eibar,27769
+Sant Josep de sa Talaia,27732
+Morón de la Frontera,27633
+Calafell,27601
+Lebrija,27578
+Sant Andreu de la Barca,27569
+Sueca,27566
+Camas,27560
+Sestao,27452
+Algemesí,27430
+Benicarló,27363
+La Oliva,27234
+Seseña,27066
+Sant Antoni de Portmany,27033
+Vícar,26899
+Ribeira,26848
+Almassora,26742
+Cártama,26738
+Cangas,26582
+Paiporta,26514
+Santa Perpètua de Mogoda,25999
+Jumilla,25994
+Molins de Rei,25940
+San Pedro del Pinatar,25932
+Almuñécar,25927
+Paracuellos de Jarama,25917
+Villanueva de la Serena,25752
+Novelda,25741
+Piélagos,25731
+Caravaca de la Cruz,25688
+Mutxamel,25645
+Tomares,25455
+Adra,25412
+Alhaurín el Grande,25358
+Oliva,25224
+Villarrobledo,25116
+Ciempozuelos,25104
+Quart de Poblet,25062
+Onda,24980
+la Pobla de Vallbona,24858
+Alboraya,24741
+Bétera,24604
+Cambre,24594
+Calahorra,24531
+Erandio,24530
+Almansa,24511
+Almonte,24507
+Castellar del Vallès,24488
+Valls,24477
+Gáldar,24370
+Sant Joan d'Alacant,24367
+Martos,24343
+Armilla,24340
+Marín,24242
+Tacoronte,24201
+Olesa de Montserrat,24144
+Torrelodones,23902
+El Masnou,23831
+Los Barrios,23777
+Mairena del Alcor,23698
+Mejorada del Campo,23639
+Ibi,23564
+Llíria,23482
+Zarautz,23360
+Calp,23326
+Icod de los Vinos,23316
+Palafrugell,23244
+Ponteareas,22940
+Conil de la Frontera,22775
+Laguna de Duero,22765
+Riba-roja de Túria,22761
+Montilla,22739
+Teguise,22703
+Coín,22673
+Altea,22558
+Barbate,22556
+Vila-seca,22555
+Cullera,22521
+Priego de Córdoba,22367
+Pilar de la Horadada,22347
+Maracena,22306
+Esparreguera,22302
+Castrillón,22273
+Bormujos,22180
+Alhama de Murcia,22160
+Villanueva de la Cañada,22115
+Sant Feliu de Guíxols,22097
+Mondragón,22073
+Moncada,22021
+Moguer,21867
+Guía de Isora,21796
+San Juan de Aznalfarache,21774
+Las Torres de Cotillas,21753
+Alcalá la Real,21709
+San Miguel de Abona,21621
+Las Gabias,21543
+Aljaraque,21474
+Eguesibar,21418
+Alfafar,21395
+Isla Cristina,21393
+Pájara,21349
+Picassent,21263
+Almoradí,21208
+Nerja,21144
+Amposta,21115
+Ayamonte,21104
+Vilassar de Mar,21035
+Palma del Río,20928
+Manlleu,20912
+Algete,20864
+Alcúdia,20819
+Aspe,20804
+Los Llanos de Aridane,20760
+Güímar,20662
+Tías,20628
+La Unión,20538
+Arroyo de la Encomienda,20537
+Mogán,20487
+Hernani,20438
+Carcaixent,20436
+Baza,20430
+Loja,20419
+Medina del Campo,20416
+Requena,20405
+Les Franqueses del Vallès,20364
+A Estrada,20351
+Cabra,20347
+Lalín,20207
+Sant Quirze del Vallès,20195
+Barañain,20167
+O Porriño,20100
+Calatayud,20092
+Cartaya,20083
+Banyoles,20053
+l'Alfàs del Pi,20042
+Tolosa,19816
+Roses,19807
+Puçol,19737
+Humanes de Madrid,19701
+San Martín de la Vega,19633
+Burlata,19541
+Arahal,19533
+Amorebieta-Etxano,19529
+Moaña,19452
+Huércal-Overa,19432
+Archena,19428
+La Zubia,19330
+Marchena,19329
+El Viso del Alcor,19324
+Calella,19277
+Chipiona,19246
+Callosa de Segura,19127
+San Bartolomé,19099
+Silla,19078
+Parets del Vallès,19071
+Baena,19045
+Albolote,18962
+Atarfe,18960
+Boiro,18884
+Utebo,18822
+Malgrat de Mar,18772
+Villaquilambre,18684
+Sant Just Desvern,18670
+Teo,18632
+Lora del Río,18630
+Lasarte-Oria,18594
+San Lorenzo de El Escorial,18532
+Guadix,18436
+Cardedeu,18424
+Santa Brígida,18394
+Benicàssim,18364
+l'Eliana,18362
+Monforte de Lemos,18347
+Felanitx,18202
+Tarifa,18183
+la Nucia,18163
+Sant Celoni,18136
+Palamós,18135
+El Astillero,18134
+Llodio,18118
+Manzanares,17962
+Torrox,17943
+Huércal de Almería,17917
+Daimiel,17916
+Caldes de Montbui,17812
+Benavente,17787
+Nigrán,17745
+Mungia,17665
+Osuna,17621
+Bailén,17548
+Tordera,17519
+Castilleja de la Cuesta,17516
+El Rosario,17496
+Balaguer,17472
+Monzón,17469
+Tàrrega,17445
+Sanxenxo,17414
+Villanueva del Pardillo,17396
+Tui,17323
+Tavernes de la Valldigna,17254
+Pozoblanco,17204
+Barbastro,17174
+Navalmoral de la Mata,17163
+Gernika-Lumo,17105
+Poio,17073
+Yaiza,17040
+Mula,17021
+Vera,16996
+Ejea de los Caballeros,16984
+Hondarribia,16881
+Bermeo,16864
+Canovelles,16829
+Zafra,16810
+Fuente Álamo de Murcia,16787
+Berga,16760
+Rojales,16671
+La Garriga,16668
+Pollença,16658
+Montornès del Vallès,16644
+Ubrique,16605
+Los Alcázares,16590
+Albal,16577
+Torredembarra,16567
+Guadarrama,16560
+La Algaba,16503
+Manilva,16439
+El Escorial,16365
+Las Cabezas de San Juan,16358
+Santomera,16270
+Sada,16186
+Massamagrell,16163
+Piera,16134
+Pasaia,16035
+Alcañiz,16006
+Arenys de Mar,15941
+Guardamar del Segura,15849
+Ermua,15847
+Espartinas,15824
+San Martín del Rey Aurelio,15817
+Baeza,15791
+Puerto Lumbreras,15780
+Cubelles,15770
+Carlet,15740
+Santa Cruz de la Palma,15695
+Churriana de la Vega,15689
+Tuineje,15596
+La Roda,15527
+Corvera de Asturias,15525
+Tarancón,15505
+Montijo,15504
+Miguelturra,15498
+Lliçà d'Amunt,15469
+La Solana,15419
+Chiva,15414
+Viveiro,15391
+Punta Umbría,15355
+Fraga,15353
+Vallirana,15312
+Santa Fe,15222
+La Carolina,15160
+Azpeitia,15106
+Zizur Nagusia,15088
+Mos,15063
+Arnedo,15015
+Benetússer,15000
+Santa Úrsula,14953
+Sant Carles de la Ràpita,14953
+Palau-solità i Plegamans,14892
+Corbera de Llobregat,14882
+Canet de Mar,14865
+Alpedrete,14839
+Cehegín,14769
+Santa Marta de Tormes,14730
+Gondomar,14702
+Andoain,14691
+Meco,14670
+Bergara,14659
+Mollerussa,14649
+Villaviciosa,14470
+Cuevas del Almanzora,14455
+Torelló,14400
+Villalbilla,14392
+Bollullos Par del Condado,14387
+Ogíjares,14348
+Noia,14274
+Torredelcampo,14142
+Sopela,14120
+O Carballiño,14089
+Vilalba,14079
+La Carlota,14079
+Estella-Lizarra,13991
+Pilas,13952
+Sanlúcar la Mayor,13943
+Beasain,13938
+Santa María de Guía de Gran Canaria,13897
+Alginet,13827
+Sa Pobla,13764
+Cambados,13721
+Llanera,13695
+Torrijos,13684
+Verín,13647
+Sóller,13634
+Torredonjimeno,13632
+La Llagosta,13587
+Tomiño,13566
+Cunit,13533
+Canals,13516
+Llanes,13473
+San Agustín del Guadalix,13466
+Cuarte de Huerva,13450
+O Barco de Valdeorras,13431
+Gines,13428
+Badia del Vallès,13415
+Aguilar de la Frontera,13382
+Santa Coloma de Farners,13363
+Sarria,13338
+Moralzarzal,13334
+Campo de Criptana,13312
+Nules,13236
+Godella,13131
+Jaca,13129
+Álora,13112
+Santa Cruz de Bezana,13088
+Betanzos,13053
+Abarán,13022
+Antigua,12972
+Guillena,12903
+Laviana,12882
+Fene,12868
+Alovera,12860
+Sant Sadurní d'Anoia,12841
+Santa Margalida,12797
+Valdemorillo,12772
+Valverde del Camino,12750
+Gibraleón,12737
+Villafranca de los Barros,12673
+Ordes,12625
+Vejer de la Frontera,12622
+Vilanova del Camí,12596
+Berja,12563
+Béjar,12559
+Castellbisbal,12539
+Abrera,12538
+Argentona,12536
+Teror,12522
+Salobreña,12513
+Brenes,12501
+Estepa,12497
+Albatera,12474
+Mont-roig del Camp,12460
+Ocaña,12437
+El Casar,12415
+Velilla de San Antonio,12380
+Santanyí,12373
+Coria,12366
+Ciudad Rodrigo,12261
+Arrigorriaga,12225
+Monòver,12212
+La Seu d'Urgell,12206
+Montgat,12200
+Alcalá del Río,12186
+Capdepera,12158
+Villamartín,12134
+Baiona,12129
+Cangas del Narcea,12124
+l'Alcúdia,12107
+Albox,12083
+Socuéllamos,12079
+Huétor Vega,12035
+Bolaños de Calatrava,12019
+Ceutí,12007
+Benifaió,11989
+Valle de Trápaga-Trapagaran,11975
+Bueu,11950
+La Puebla del Río,11920
+Olivenza,11912
+Formentera,11904
+Torroella de Montgrí,11836
+Son Servera,11817
+Medina Sidonia,11773
+Palos de la Frontera,11742
+Etxebarri,11691
+Fuensalida,11655
+Yuncos,11646
+Jódar,11634
+Azkoitia,11627
+Pallejà,11622
+Picanya,11606
+Deltebre,11578
+Elgoibar,11570
+Haro,11557
+Bullas,11553
+Cocentaina,11520
+Oñati,11497
+Peligros,11492
+Beniel,11465
+Utiel,11458
+Andratx,11433
+Vegas del Genil,11432
+A Laracha,11406
+Valdés,11394
+Calonge i Sant Antoni,11331
+Mancha Real,11328
+Aranguren,11306
+Benissa,11288
+Tegueste,11287
+Campos,11283
+Santiago del Teide,11281
+Teulada,11278
+Benaguasil,11256
+La Bisbal d'Empordà,11159
+Barbadás,11158
+Quintanar de la Orden,11148
+Sant Andreu de Llavaneres,11133
+Castelló d'Empúries,11100
+Sonseca,11082
+Castell-Platja d'Aro,11030
+Laredo,11023
+Santoña,11019
+Rianxo,11013
+Sant Joan de Vilatorrada,10998
+Meliana,10970
+La Puebla de Cazalla,10932
+Bollullos de la Mitación,10931
+Antsoain,10836
+Lardero,10813
+Ripoll,10803
+La Palma del Condado,10801
+Los Corrales de Buelna,10767
+Brunete,10760
+La Roca del Vallès,10754
+Astorga,10741
+Cantillana,10736
+Lena,10701
+Villacarrillo,10673
+Cabanillas del Campo,10657
+Berriozar,10651
+Tafalla,10621
+Peñarroya-Pueblonuevo,10561
+Tarazona,10558
+Bargas,10535
+Alberic,10519
+O Grove,10518
+Ordizia,10503
+Alcaudete,10483
+Castalla,10461
+Premià de Dalt,10441
+Griñón,10435
+l'Alcora,10417
+Aller,10413
+Cassà de la Selva,10410
+Huétor Tájar,10399
+Sedaví,10391
+Pulpí,10358
+Daganzo de Arriba,10337
+Madridejos,10334
+Oiartzun,10309
+Carreño,10301
+La Bañeza,10290
+Fortuna,10289
+Gozón,10282
+Amurrio,10264
+Atarrabia,10245
+L'Escala,10244
+Vilanova de Arousa,10239
+Santa Margarida de Montbui,10225
+Alcàsser,10196
+Gelves,10193
+Pego,10133
+Calasparra,10133
+Zumaia,10111
+As Pontes de García Rodríguez,10068
+Íllora,10065
+Caspe,10026
+A Guarda,10025
+Llinars del Vallès,10018
+Foz,10016
+Caudete,10005
+Mengíbar,9997
+Salvaterra de Miño,9990
+Consuegra,9970
+Alella,9904
+Rute,9898
+Pinos Puente,9894
+Vilamarxant,9891
+El Álamo,9862
+Ribadeo,9860
+Sax,9859
+Mora,9819
+Massanassa,9782
+Zumarraga,9781
+Caldas de Reis,9775
+Sant Vicenç de Castellet,9767
+Fuente Palmera,9766
+Villarrubia de los Ojos,9762
+Alguazas,9761
+Binéfar,9742
+Alcarràs,9707
+Grado,9703
+Cuéllar,9659
+Fernán-Núñez,9651
+Xinzo de Limia,9637
+Santa Maria de Palautordera,9630
+Palafolls,9613
+Alfaro,9611
+Miajadas,9527
+Garrucha,9520
+Alhendín,9509
+Buñol,9498
+Burela,9498
+Matadepera,9496
+Villacañas,9489
+Tocina,9486
+Puigcerdà,9486
+Abanto y Ciérvana-Abanto Zierbena,9471
+Alaior,9467
+Olivares,9466
+Pizarra,9444
+Alcanar,9434
+San Juan del Puerto,9411
+Masquefa,9402
+Sevilla la Nueva,9393
+Valsequillo de Gran Canaria,9377
+Santa Comba,9362
+Bigues i Riells,9358
+Cervera,9350
+Orpesa,9339
+A Pobra do Caramiñal,9318
+Muro de Alcoy,9315
+Montoro,9293
+El Molar,9287
+San Antonio de Benagéber,9286
+San Sebastián de la Gomera,9258
+Sentmenat,9235
+Colmenarejo,9230
+Tavernes Blanques,9224
+Tinéu,9199
+Jerez de los Caballeros,9196
+Torrejón de la Calzada,9194
+La Mojonera,9191
+Sabiñánigo,9185
+Salceda de Caselas,9173
+Santa María de Cayón,9167
+La Victoria de Acentejo,9158
+Rafelbunyol,9149
+Porto do Son,9142
+Solsona,9137
+Arenys de Munt,9121
+Segorbe,9097
+El Espinar,9086
+Cervelló,9077
+Vilassar de Dalt,9072
+La Matanza de Acentejo,9059
+Cistérniga,9016
+Umbrete,9000
+Soto del Real,8981
+Almussafes,8979
+Reinosa,8946
+Tiana,8945
+El Sauzal,8940
+Manzanares el Real,8936
+Trujillo,8912
+Almagro,8905
+Catral,8898
+Loeches,8897
+Silleda,8861
+Sant Fost de Campsentelles,8853
+Palomares del Río,8843
+Sant Fruitós de Bages,8837
+Montmeló,8831
+Suances,8827
+Binissalem,8756
+Tordesillas,8745
+Sant Llorenç des Cardassar,8742
+Cheste,8735
+el Puig de Santa Maria,8718
+Padul,8694
+San Martín de Valdeiglesias,8679
+Villanueva de Córdoba,8671
+Toro,8665
+El Cuervo de Sevilla,8656
+Llagostera,8647
+L'Ametlla del Vallès,8646
+Tudela de Duero,8620
+Bembibre,8598
+Colindres,8598
+Zuera,8576
+Santiponce,8538
+Hoyo de Manzanares,8529
+Polinyà,8504
+Herencia,8456
+Zalla,8450
+Villablino,8444
+Muros,8427
+Reocín,8399
+Ondarroa,8395
+Campillos,8387
+Ortuella,8385
+Padrón,8366
+Villamediana de Iregua,8359
+Cabezón de la Sal,8358
+Tona,8356
+Noain (Elortzibar),8354
+Monforte del Cid,8346
+Navia,8322
+Legazpi,8321
+l'Olleria,8320
+Santa Coloma de Cervelló,8268
+Aracena,8255
+Montserrat,8188
+Archidona,8168
+Chantada,8157
+Colmenar de Oreja,8154
+Cenes de la Vega,8153
+la Pobla de Farnals,8128
+Olías del Rey,8120
+Arico,8111
+Carboneras,8105
+Corella,8100
+La Almunia de Doña Godina,8091
+Roquetes,8079
+Villanueva del Arzobispo,8078
+Los Santos de Maimona,8075
+Nájera,8072
+San Fulgencio,8071
+Olvera,8062
+Cintruénigo,8026
+Pinoso,8025
+Monachil,8007
+Artà,7984
+Pravia,7984
+Arévalo,7960
+Vidreres,7951
+Rociana del Condado,7939
+Almodóvar del Río,7932
+Redován,7926
+Brión,7923
+Malagón,7881
+Pedreguer,7881
+Caldes de Malavella,7872
+Trigueros,7862
+La Puebla de Montalbán,7858
+Baztan,7850
+Morata de Tajuña,7847
+Villaverde del Río,7842
+Torres de la Alameda,7833
+Moratalla,7804
+Valencina de la Concepción,7776
+Castro del Río,7767
+Pontedeume,7753
+Benahavís,7748
+Azuaga,7747
+Moya,7746
+Balmaseda,7722
+Quintanar del Rey,7714
+Tobarra,7709
+Sant Esteve Sesrovires,7696
+Marchamalo,7684
+Peñíscola,7683
+Santa Margarida i els Monjos,7676
+Gerena,7674
+Gelida,7670
+El Boalo,7663
+Abadiño,7658
+Bornos,7654
+El Paso,7623
+Santpedor,7604
+Onil,7600
+Medio Cudeyo,7577
+es Castell,7572
+Vega de San Mateo,7569
+Cee,7550
+Cúllar Vega,7547
+Viladecavalls,7545
+Muskiz,7536
+Oroso,7533
+Dolores,7531
+La Rambla,7529
+Callosa d'en Sarrià,7522
+Centelles,7513
+La Aldea de San Nicolás,7508
+Santa María del Camí,7486
+Cobeña,7486
+Alsasua,7465
+Berriobeiti,7457
+Foios,7452
+Almàssera,7438
+Firgas,7438
+Camarma de Esteruelas,7437
+Villarejo de Salvanés,7433
+Cabrils,7432
+Soutomaior,7426
+Santa Eulàlia de Ronçana,7426
+Melide,7419
+Talayuela,7395
+Muro,7394
+Cox,7386
+Montblanc,7379
+Valverde de la Virgen,7377
+Elorrio,7375
+Albuñol,7353
+Cazorla,7352
+Andorra,7345
+Bujalance,7320
+Posadas,7318
+Lekeitio,7317
+Rocafort,7314
+Begues,7300
+Pedro Muñoz,7285
+Uharte,7278
+Carbajosa de la Sagrada,7251
+Guissona,7248
+Breña Alta,7247
+Lorquí,7246
+Benacazón,7222
+Torreperogil,7222
+Berango,7217
+Villamayor,7212
+Cercedilla,7205
+Huéscar,7195
+Alagón,7154
+Fuentes de Andalucía,7152
+Dúrcal,7111
+Collado Mediano,7105
+Finestrat,7103
+Aretxabaleta,7103
+Banyeres de Mariola,7090
+Ondara,7076
+Villa del Río,7067
+Maçanet de la Selva,7066
+Castelló,7054
+Montellano,7053
+Astigarraga,7029
+Trebujena,7016
+San Clemente,7015
+Benalup-Casas Viejas,6986
+Villa de Otura,6982
+Vimianzo,6963
+Argamasilla de Alba,6955
+Puerto Serrano,6942
+Bigastro,6909
+Náquera,6897
+Bunyola,6895
+Guareña,6888
+Casares,6883
+Xixona,6879
+Piloña,6875
+L'Ametlla de Mar,6866
+Paradas,6857
+Tauste,6847
+Vacarisses,6832
+Almacelles,6826
+Fuente el Saz de Jarama,6807
+Negreira,6788
+Roda de Berà,6785
+Urretxu,6782
+Mojácar,6778
+Burguillos,6766
+Canet d'En Berenguer,6765
+Marmolejo,6763
+Aguilar de Campoo,6749
+Güeñes,6736
+Sallent,6735
+Sant Lluís,6735
+Derio,6730
+Turís,6722
+Fuente del Maestre,6714
+Moncofa,6707
+Hinojosa del Duque,6707
+Jimena de la Frontera,6707
+Moraleja,6696
+Cedeira,6676
+Constantí,6665
+Villa del Prado,6661
+Bergondo,6661
+Taradell,6640
+Las Pedroñeras,6639
+Alcalà de Xivert,6638
+Villanueva de la Torre,6631
+Arbúcies,6608
+Vandellòs i l'Hospitalet de l'Infant,6603
+Museros,6596
+Villanueva del Ariscal,6591
+Briviesca,6582
+Sant Joan de Labritja,6576
+Riudoms,6569
+Blanca,6569
+Argés,6563
+Algarrobo,6556
+Vélez-Rubio,6546
+Valdoviño,6542
+Cubas de la Sagra,6539
+Ulldecona,6525
+Jaraíz de la Vera,6503
+Lliçà de Vall,6497
+Roda de Ter,6490
+Carral,6473
+Villamuriel de Cerrato,6469
+Herrera,6464
+Nuevo Baztán,6454
+Sant Vicenç de Montalt,6452
+Guadalix de la Sierra,6440
+Tinajo,6434
+Teià,6427
+Campo Real,6420
+Venta de Baños,6401
+Moià,6383
+Villares de la Reina,6369
+Sant Feliu de Codines,6363
+Miraflores de la Sierra,6362
+La Puebla de Alfindén,6358
+O Pereiro de Aguiar,6350
+San Adrián,6344
+Arenas de San Pedro,6344
+Íscar,6341
+San Miguel de Salinas,6313
+O Rosal,6289
+Miño,6277
+Santo Domingo de la Calzada,6276
+Alpicat,6266
+Olula del Río,6256
+Allariz,6245
+Gata de Gorgos,6243
+Zaratán,6235
+Sils,6219
+Cangas de Onís,6209
+Sant Antoni de Vilamajor,6208
+Tarazona de la Mancha,6187
+Urnieta,6185
+Almensilla,6175
+Usurbil,6173
+Les Borges Blanques,6173
+Calamonte,6170
+Peñaranda de Bracamonte,6161
+Porcuna,6156
+Outes,6155
+Pedrezuela,6150
+Lloseta,6122
+Lezo,6103
+Abanilla,6097
+Orio,6091
+Almenara,6090
+Aznalcóllar,6083
+Torrelles de Llobregat,6073
+Bonares,6060
+Navarcles,6057
+Mota del Cuervo,6055
+Los Villares,6020
+Navàs,6018
+Arzúa,6011
+Casarrubios del Monte,5995
+Almodóvar del Campo,5983
+Viator,5978
+María de Huerva,5970
+La Canonja,5956
+Azkoien,5951
+Coristanco,5950
+Súria,5948
+Membrilla,5942
+Polanco,5942
+Vilaboa,5919
+Motilla del Palancar,5917
+Albaida,5914
+Tremp,5911
+Gójar,5909
+Guadassuar,5902
+La Muela,5894
+Gorliz,5891
+Los Yébenes,5882
+Villabona,5876
+Becerril de la Sierra,5875
+Guardo,5872
+Alhama de Granada,5867
+Constantina,5864
+Argamasilla de Calatrava,5841
+Puebla de la Calzada,5834
+Lazkao,5830
+Ares,5829
+Isla Mayor,5825
+Valga,5824
+Breña Baja,5821
+Tossa de Mar,5818
+Algaida,5793
+Castuera,5784
+Órgiva,5784
+Benigànim,5779
+Arroyo de la Luz,5766
+Artés,5762
+Huelma,5744
+Llerena,5743
+Medina de Pomar,5734
+Cartes,5731
+Xeraco,5720
+Montehermoso,5718
+Sant Hilari Sacalm,5703
+Cerdedo-Cotobade,5697
+Móra d'Ebre,5695
+Ribadesella,5688
+La Selva del Camp,5683
+Anglès,5654
+Dosrius,5652
+Celanova,5644
+La Sénia,5640
+Aldeamayor de San Martín,5634
+Ortigueira,5633
+Esquivias,5628
+Torrejón del Rey,5623
+Betxí,5618
+Alaró,5617
+Guijuelo,5616
+Vielha e Mijaran,5611
+L'Arboç,5609
+Agaete,5599
+Arafo,5593
+Prado del Rey,5590
+Porreres,5576
+Torreblanca,5574
+Salteras,5564
+Celrà,5561
+Yeles,5555
+Chauchina,5552
+La Guancha,5540
+Palazuelos de Eresma,5538
+Ponte Caldelas,5533
+Arjona,5515
+Algodonales,5506
+Vilanova del Vallès,5503
+Ponteceso,5497
+Guitiriz,5490
+Alfacar,5488
+Macael,5480
+Aceuchal,5478
+Almazán,5477
+Ugena,5467
+Pulianas,5466
+Deba,5460
+Paterna de Rivera,5453
+Benejúzar,5435
+Casariche,5429
+Sant Pol de Mar,5428
+Vilafant,5421
+Chinchón,5413
+Agramunt,5411
+Abegondo,5398
+Borriol,5397
+San Cibrao das Viñas,5395
+Alameda,5387
+San Vicente de Alcántara,5377
+Valencia de Alcántara,5373
+Malpica de Bergantiños,5352
+Capellades,5342
+Nueva Carteya,5341
+Cigales,5328
+Librilla,5325
+Meaño,5322
+Méntrida,5320
+Es Mercadal,5316
+Parres,5315
+Talavera la Real,5314
+Montefrío,5313
+Mutriku,5309
+Villanueva del Trabuco,5308
+Altafulla,5307
+Alburquerque,5293
+Yepes,5288
+Santa Cristina d'Aro,5287
+Real Sitio de San Ildefonso,5285
+Ayora,5283
+Mollina,5276
+Nava,5276
+Valencia de Don Juan,5272
+Simancas,5267
+Haría,5263
+Entrambasaguas,5260
+Corral de Almaguer,5246
+Peal de Becerro,5240
+La Campana,5238
+Sarrià de Ter,5229
+Alcalá de los Gazules,5226
+Bellpuig,5218
+Mugardos,5215
+Outeiro de Rei,5210
+Camariñas,5209
+Moral de Calatrava,5208
+Vila de Cruces,5208
+Cájar,5205
+Almadén,5200
+Moraleja de Enmedio,5200
+Quesada,5196
+Gualchos,5190
+Añover de Tajo,5176
+Nerva,5169
+Alba de Tormes,5166
+Pedrera,5158
+Las Navas del Marqués,5146
+Noreña,5145
+Alcover,5144
+A Cañiza,5122
+Iznalloz,5120
+Esporles,5113
+l'Alcúdia de Crespins,5113
+Marina de Cudeyo,5106
+Ribadumia,5105
+Beas de Segura,5100
+Oza-Cesuras,5096
+ses Salines,5096
+Oliva de la Frontera,5086
+Sariegos,5084
+Castro de Rei,5073
+La Puebla de Almoradiel,5073
+Valverde,5069
+Markina-Xemein,5068
+Polop,5064
+Los Montesinos,5061
+Peñafiel,5054
+Alcalá del Valle,5043
+Salvatierra,5038
+Burgo de Osma-Ciudad de Osma,5038
+Candeleda,5025
+Neda,5023
+Ribadavia,5012
+Cerceda,5008
+Vedra,5007
+Cacabelos,4996
+Bescanó,4991
+Numancia de la Sagra,4985
+La Guardia de Jaén,4983
+Borja,4978
+Mocejón,4963
+Benamejí,4963
+Carranque,4953
+Gironella,4946
+Zangoza,4933
+A Illa de Arousa,4932
+Cudillero,4922
+Ferreries,4908
+Salas,4900
+Castilblanco de los Arroyos,4899
+Miengo,4891
+Sollana,4881
+Villafranca de los Caballeros,4876
+San Juan de la Rambla,4873
+Garachico,4869
+Villanueva de los Infantes,4869
+Nambroca,4862
+Villafranca de Córdoba,4860
+Villa de Mazo,4859
+Campanario,4854
+Torrelaguna,4854
+Els Pallaresos,4850
+Villanueva del Río y Minas,4847
+Lodosa,4837
+Fregenal de la Sierra,4836
+El Viso de San Juan,4828
+Martorelles,4820
+Cabeza del Buey,4808
+Agost,4794
+Miguel Esteban,4788
+Buenavista del Norte,4786
+Enguera,4777
+Llançà,4775
+Meis,4754
+Cabrera de Mar,4747
+Los Silos,4743
+Pozo Alcón,4731
+Villanueva de Gállego,4728
+Ajalvir,4721
+El Coronil,4717
+Urduliz,4712
+el Verger,4709
+Canyelles,4699
+Fisterra,4697
+Torrefarrera,4694
+Fuente de Cantos,4687
+Cazalla de la Sierra,4684
+Porqueres,4677
+Cuntis,4665
+Sotillo de la Adrada,4653
+O Pino,4652
+Cardona,4639
+Madrigueras,4634
+Valle Gran Rey,4630
+Aielo de Malferit,4625
+Arboleas,4624
+Autol,4623
+Bellreguard,4618
+Doña Mencía,4615
+Santaella,4614
+Calera y Chozas,4608
+Medina de Rioseco,4606
+Santovenia de Pisuerga,4604
+Malpartida de Plasencia,4602
+Cortegana,4602
+Tazacorte,4601
+Muxía,4596
+Aznalcázar,4588
+Valdetorres de Jarama,4581
+Berriz,4580
+La Luisiana,4578
+Quintana de la Serena,4574
+El Catllar,4557
+Rafal,4553
+Fuentes de Ebro,4549
+Sondika,4547
+Sant Pere de Vilamajor,4544
+Casas-Ibáñez,4544
+Collbató,4544
+Ontígola,4540
+Navas de San Juan,4528
+Rois,4505
+Recas,4504
+Fuente Obejuna,4501
+Casar de Cáceres,4499
+Benahadux,4481
+Hornachuelos,4480
+Ribamontán al Mar,4478
+Villamanrique de la Condesa,4477
+Montalbán de Córdoba,4467
+Alquerías del Niño Perdido,4464
+Santisteban del Puerto,4463
+el Poble Nou de Benitatxell,4452
+la Pobla Llarga,4452
+Los Molinos,4433
+San José del Valle,4433
+Calamocha,4429
+Mondariz,4410
+Vilches,4409
+Navalvillar de Pela,4403
+Cospeito,4395
+Zas,4393
+Torrejón de Velasco,4386
+Fabero,4386
+Fuente Vaqueros,4384
+Piedrabuena,4379
+Épila,4372
+Valmojado,4371
+Villalonga,4370
+Robledo de Chavela,4364
+El Carpio,4363
+Plentzia,4353
+Pioz,4352
+Beas,4341
+Igorre,4337
+Iniesta,4320
+Sigüenza,4319
+Bárcena de Cicero,4319
+Ampuero,4319
+Moixent,4307
+Cobisa,4306
+Villatorres,4298
+Puig-reig,4295
+Serranillos del Valle,4291
+Hostalric,4291
+A Rúa,4283
+Formentera del Segura,4268
+Viana,4260
+Cabrerizos,4254
+Castejón,4251
+Ibarra,4248
+El Saucejo,4235
+Cadrete,4235
+Valdeolmos-Alalpardo,4232
+Santillana del Mar,4229
+Cervo,4218
+Monesterio,4216
+Cabana de Bergantiños,4216
+Boqueixón,4206
+Chinchilla de Monte-Aragón,4205
+Yunquera de Henares,4205
+Orduña,4192
+Yebes,4189
+Sariñena,4184
+Frontera,4184
+San Andrés y Sauces,4182
+El Tiemblo,4180
+La Roda de Andalucía,4175
+El Papiol,4172
+Valverde de Leganés,4167
+Sant Climent de Llobregat,4160
+Riells i Viabrea,4153
+Albuixech,4151
+Ugao-Miraballes,4148
+Boecillo,4148
+Villanueva de Algaidas,4148
+L'Aldea,4147
+Moraña,4147
+Orkoien,4145
+Bocairent,4142
+Adamuz,4137
+Iznájar,4134
+Murchante,4131
+Consell,4125
+Santa Marta,4124
+Niebla,4116
+Beriáin,4113
+Eskoriatza,4106
+Chozas de Canales,4104
+Pechina,4103
+Yuncler,4098
+Camponaraya,4097
+San Vicente de la Barquera,4095
+Cúllar,4091
+Santa Cruz de la Zarza,4089
+Santa Cruz de Mudela,4085
+Camarena,4082
+Arriate,4082
+Arroyo de San Serván,4080
+Selva,4080
+Malpartida de Cáceres,4076
+Pinseque,4070
+Villamalea,4070
+Dalías,4066
+Curtis,4053
+Castillo de Locubín,4049
+Albalat dels Sorells,4036
+Sineu,4030
+Caniles,4021
+La Lastrilla,4020
+Talamanca de Jarama,4012
+Villarcayo de Merindad de Castilla la Vieja,4011
+Erriberri,3981
+Santa Amalia,3975
+La Pobla de Mafumet,3971
+Cómpeta,3967
+Hinojos,3961
+Borox,3958
+Hervás,3957
+Cascante,3952
+Los Corrales,3938
+Olivella,3935
+Villaescusa,3933
+Alosno,3933
+Sant Gregori,3928
+Vegadeo,3926
+Cizur,3924
+Soraluze-Placencia de las Armas,3923
+Pradejón,3910
+El Pont de Vilomara i Rocafort,3907
+Carnota,3899
+Begur,3891
+Villaluenga de la Sagra,3887
+Rincón de Soto,3886
+Sabiote,3886
+Polán,3872
+Espera,3869
+Montemayor,3856
+Jun,3853
+Val do Dubra,3851
+Lantejuela,3846
+Casarrubuelos,3845
+Pliego,3843
+Mazaricos,3841
+Balenyà,3840
+Azagra,3840
+Cedillo del Condado,3826
+Calanda,3822
+Ojén,3816
+Renedo de Esgueva,3814
+Minas de Riotinto,3812
+Valle de Mena,3805
+As Neves,3803
+Sotu'l Barcu,3800
+Quart,3798
+Almogía,3792
+Turre,3781
+la Font d'en Carròs,3778
+Cariño,3775
+Zestoa,3772
+Olèrdola,3768
+Cabezón de Pisuerga,3763
+Breda,3762
+San Bartolomé de la Torre,3761
+El Franco,3760
+Creixell,3758
+Bera,3753
+La Robla,3752
+Teba,3744
+El Morell,3742
+La Torre de Claramunt,3741
+Ribaforada,3738
+Bonrepòs i Mirambell,3738
+L'Espluga de Francolí,3736
+Alameda de la Sagra,3734
+Magán,3731
+Valleseco,3727
+Gilena,3727
+Tapia,3726
+Castellbell i el Vilar,3719
+Tabernas,3717
+Santa Bàrbara,3715
+Moriles,3701
+Campoo de Enmedio,3696
+Alhama de Almería,3691
+Valdepeñas de Jaén,3679
+Ólvega,3675
+Òdena,3668
+Iurreta,3665
+Friol,3664
+Calaf,3656
+Biar,3655
+Lopera,3652
+Noblejas,3652
+Olmedo,3646
+la Llosa de Ranes,3642
+Peñaflor,3639
+O Saviñao,3634
+La Bisbal del Penedès,3631
+Calzada de Calatrava,3630
+Casabermeja,3629
+Barro,3623
+Chiloeches,3623
+La Villa de Don Fadrique,3623
+Moclín,3622
+Monterroso,3613
+Cuevas de San Marcos,3601
+Altura,3601
+Pedrola,3587
+Pozuelo de Calatrava,3586
+Godelleta,3584
+Sant Julià de Ramis,3576
+Arjonilla,3571
+Navahermosa,3564
+Cantalejo,3562
+Faura,3553
+Santa Susanna,3548
+Tíjola,3548
+Zalamea de la Serena,3545
+Seva,3544
+Quijorna,3541
+Sant Hipòlit de Voltregà,3540
+Mondoñedo,3539
+Hornachos,3537
+Villar del Arzobispo,3536
+Rus,3531
+Lanjarón,3530
+Sant Jaume d'Enveja,3527
+Mendavia,3526
+Elche de la Sierra,3520
+Los Molares,3518
+Touro,3516
+Láchar,3513
+Las Ventas de Retamosa,3510
+Horcajo de Santiago,3504
+Lemoa,3504
+Juneda,3501
+Herrera del Duque,3489
+Iruña de Oca,3488
+Tamarite de Litera,3487
+Barcarrota,3483
+Albelda de Iregua,3481
+Vilafranca de Bonany,3466
+Porzuna,3465
+Paterna del Campo,3457
+Milagro,3450
+Sant Cebrià de Vallalta,3438
+Alcoletge,3435
+Munera,3429
+O Corgo,3422
+Villaconejos,3422
+A Baña,3415
+Cijuela,3415
+Vinalesa,3412
+Oyón-Oion,3410
+Flix,3410
+Colmenar,3409
+Talarrubias,3406
+Gilet,3404
+La Zarza,3402
+Artesa de Segre,3400
+Pantoja,3394
+A Fonsagrada,3389
+Sencelles,3370
+El Rubio,3369
+Villalba del Alcor,3366
+Graus,3365
+Cantoria,3365
+Carracedelo,3364
+Villanueva del Fresno,3364
+Villanueva del Rosario,3362
+Almenar,3357
+Cariñena,3355
+Santa Oliva,3353
+Alcolea del Río,3347
+Castropol,3342
+Vilobí d'Onyar,3333
+Catoira,3331
+Albalat de la Ribera,3326
+Palas de Rei,3326
+Cañada Rosal,3325
+La Jonquera,3320
+Sierra de Yeguas,3318
+Antas,3315
+Pedrajas de San Esteban,3314
+Benalúa,3310
+Forcarei,3308
+Santa Cruz del Retamar,3302
+Alcorisa,3298
+Humilladero,3297
+Simat de la Valldigna,3297
+Cuaña,3296
+Benijófar,3293
+Castellar,3292
+Espejo,3289
+Burguillos de Toledo,3288
+Villanueva de la Concepción,3288
+Alfara del Patriarca,3282
+Santa Olalla,3279
+L'Ampolla,3277
+Xove,3277
+Escalona,3276
+Zamudio,3275
+Cabanas,3274
+Jamilena,3271
+San Mateo de Gállego,3269
+Lousame,3268
+Sant Martí Sarroca,3261
+Lucena del Puerto,3261
+Tordoia,3259
+Mojados,3258
+Ribera del Fresno,3256
+Rosselló,3237
+Belalcázar,3235
+Molina de Aragón,3233
+Sant Joan de Moró,3232
+Campdevànol,3232
+Sant Joan de les Abadesses,3224
+Sant Salvador de Guardiola,3221
+Cebolla,3209
+Fuente el Fresno,3208
+Banyeres del Penedès,3207
+Colunga,3205
+Albaida del Aljarafe,3201
+Villaviciosa de Córdoba,3200
+Daimús,3196
+Camarles,3194
+Balsareny,3192
+Serra,3187
+Cortes,3178
+Villanueva de Alcardete,3172
+Quiroga,3169
+Cànoves i Samalús,3156
+Cebreros,3152
+Fuenmayor,3143
+Sant Julià de Vilatorta,3140
+Monistrol de Montserrat,3139
+Les Masies de Voltregà,3132
+Pepino,3128
+Algorfa,3125
+la Vilavella,3125
+La Pola de Gordón,3120
+Moraleda de Zafayona,3117
+Villanueva del Río Segura,3111
+Móra la Nova,3108
+Balanegra,3105
+Subirats,3104
+Casasimarro,3103
+Santa María del Páramo,3101
+Carrión de Calatrava,3099
+Gandesa,3096
+Vallada,3096
+La Vall d'en Bas,3093
+Puebla de Guzmán,3092
+Navacerrada,3091
+Cistierna,3090
+Periana,3089
+Corbera,3088
+San Cristóbal de Segovia,3080
+Badolatosa,3079
+Coles,3075
+Busot,3075
+Burguillos del Cerro,3066
+Cortes de la Frontera,3065
+Vilablareix,3063
+Frigiliana,3062
+Huévar del Aljarafe,3060
+Castellar de la Frontera,3057
+Aroche,3054
+Zalamea la Real,3054
+Pontecesures,3053
+Oia,3049
+Cadalso de los Vidrios,3047
+Benamocarra,3046
+Zaldibar,3045
+Sant Joan les Fonts,3044
+La Pobla de Segur,3043
+Terradillos,3041
+Fuensanta de Martos,3038
+Villanueva de la Reina,3038
+Gádor,3034
+Alguaire,3029
+Ágreda,3026
+Zizurkil,3025
+Caldes d'Estrac,3021
+Novés,3019
+Trazo,3013
+Gálvez,3012
+Toreno,3012
+Begíjar,3009
+Utrillas,3006
+Navarrés,3004
+Mallén,3004
+La Palma de Cervelló,2992
+Laxe,2990
+Perales de Tajuña,2990
+Vallgorguina,2988
+Montuïri,2987
+Valdilecha,2982
+Els Hostalets de Pierola,2980
+La Puebla de los Infantes,2980
+Cabanes,2978
+Begonte,2978
+Luque,2976
+Villarejo de Órbigo,2975
+Aldea del Fresno,2973
+Morales del Vino,2971
+Castañeda,2968
+Aiara,2968
+Torralba de Calatrava,2966
+Navas del Rey,2966
+Pazos de Borbén,2965
+Leitza,2965
+A Pastoriza,2963
+Saldaña,2958
+Montroy,2956
+Zurgena,2956
+San Esteban de Gormaz,2956
+Petra,2942
+Navarrete,2935
+Dumbría,2935
+Alegría-Dulantzi,2935
+Barreiros,2925
+Cañete de las Torres,2923
+Belmez,2921
+Santiago-Pontones,2911
+Torrejoncillo,2910
+Montbrió del Camp,2909
+Portas,2906
+Velada,2903
+Los Gallardos,2902
+Vélez de Benaudalla,2890
+Gares,2889
+Villablanca,2885
+La Pobla de Montornès,2884
+Villafranca,2883
+Vallehermoso,2879
+Alonsotegi,2879
+Ramales de la Victoria,2877
+Pegalajar,2875
+Ricla,2869
+Yunquera,2869
+Xaló,2868
+Sant Esteve de Palautordera,2864
+Marcilla,2864
+Calatorao,2860
+Güéjar Sierra,2857
+Vall d'Alba,2856
+Villafranca del Bierzo,2855
+El Tanque,2852
+Puente Viesgo,2845
+Maceda,2839
+Castilleja de Guzmán,2833
+Castellvell del Camp,2828
+Ibros,2827
+El Perelló,2826
+Villanueva de los Castillejos,2825
+Fasnia,2818
+Viana do Bolo,2818
+Pedro Abad,2815
+Pedralba,2814
+Illueca,2809
+Becerreá,2807
+Jarandilla de la Vera,2805
+Catadau,2804
+Valle de Carranza,2803
+Caparroso,2801
+San Martín del Tesorillo,2801
+Torrenueva Costa,2796
+Getaria,2796
+Pozo Cañada,2791
+San Sadurniño,2784
+Andosilla,2784
+Casinos,2780
+el Genovés,2778
+Golmayo,2778
+Agoitz,2777
+Zahínos,2774
+Molvízar,2772
+Villanubla,2769
+Calañas,2768
+Alfarràs,2765
+Aldeanueva de Ebro,2760
+Val de San Vicente,2758
+Lobón,2756
+Dodro,2750
+Nava de la Asunción,2747
+Villamayor de Gállego,2745
+Lesaka,2744
+Setenil de las Bodegas,2741
+Piles,2740
+Villarta de San Juan,2739
+Guarromán,2739
+Tielmes,2736
+La Cabrera,2736
+Falset,2735
+Esteribar,2726
+Castellanos de Moriscos,2724
+Riogordo,2723
+El Bonillo,2723
+Valdelacalzada,2721
+Linyola,2717
+Losar de la Vera,2717
+Taboada,2716
+Uceda,2715
+els Poblets,2714
+Xilxes,2714
+Gurb,2713
+Maside,2709
+Monda,2697
+Cadaqués,2695
+Los Santos de la Humosa,2694
+Mondéjar,2686
+Voto,2686
+Miramar,2685
+Cambil,2683
+Pelayos de la Presa,2676
+Puebla de Sancho Pérez,2676
+Bakio,2676
+Santa Coloma de Queralt,2672
+Fornells de la Selva,2670
+Torrenueva,2667
+Poblete,2667
+Martín de la Jara,2665
+Fuente de Piedra,2662
+Llombai,2653
+Orozko,2650
+Campanet,2648
+Ponts,2644
+Orellana la Vieja,2641
+Güevéjar,2640
+Navalagamella,2637
+Bedmar y Garcíez,2633
+Guntín,2628
+Oropesa,2626
+Sant Jaume dels Domenys,2624
+Dueñas,2624
+Horche,2622
+Salar,2621
+Anna,2615
+Yeste,2614
+Guadalcanal,2608
+Hondón de las Nieves,2606
+Orgaz,2605
+Villamanta,2605
+Pruna,2605
+Prats de Lluçanès,2604
+Solana de los Barros,2601
+Deifontes,2600
+Menasalbas,2600
+Castroverde,2595
+Marinaleda,2592
+Granja de Rocamora,2591
+Cartelle,2589
+Noja,2588
+Láncara,2584
+Arbo,2576
+Baños de la Encina,2576
+Cella,2571
+Sopuerta,2570
+Aitona,2567
+Gallur,2566
+Chozas de Abajo,2561
+Lillo,2561
+Vallromanes,2558
+Massalfassar,2555
+Morcín,2555
+Alcuéscar,2554
+Puntallana,2553
+Castellterçol,2548
+La Gineta,2548
+Carrión de los Céspedes,2547
+Zújar,2544
+La Adrada,2539
+Lerma,2537
+el Real de Gandia,2531
+Bustarviejo,2522
+Villasequilla,2522
+Villamayor de Santiago,2521
+Monterrei,2520
+Ugíjar,2517
+El Viso,2517
+la Pobla del Duc,2515
+Casarabonela,2514
+Villarrubia de Santiago,2514
+Calldetenes,2513
+Aiguafreda,2512
+Torreblascopedro,2508
+Tijarafe,2507
+Ardales,2506
+Favara,2504
+Polinyà de Xúquer,2503
+Valle de Abdalajís,2502
+Carcastillo,2502
+Etxarri Aranatz,2497
+Mesía,2497
+Madroñera,2496
+Carbonero el Mayor,2494
+Guadiana,2492
+la Romana,2492
+Huesa,2490
+Monreal del Campo,2487
+Besalú,2487
+El Burgo de Ebro,2486
+Ablitas,2484
+Fustiñana,2483
+Baralla,2482
+Villatobas,2482
+Urda,2477
+Almoines,2477
+Sahagún,2477
+Lominchar,2475
+Galápagos,2475
+Fuente-Álamo,2474
+Chella,2472
+Sant Pere de Torelló,2470
+Albinyana,2468
+Algarinejo,2467
+Pantón,2457
+Alberite,2457
+Vitigudino,2445
+Lezama,2445
+Funes,2444
+Benavides,2440
+Sorbas,2436
+Manuel,2436
+Valderrobres,2435
+El Provencio,2432
+Valtierra,2430
+Sant Llorenç d'Hortons,2428
+Los Navalmorales,2420
+Sant Llorenç Savall,2417
+Morella,2416
+Chapinería,2414
+Liérganes,2407
+Fontanar,2406
+Espiel,2405
+Vilallonga del Camp,2405
+Cornellà del Terri,2399
+Torrelles de Foix,2398
+A Lama,2397
+Aiegi,2395
+Llorenç del Penedès,2395
+Pals,2395
+Loiu,2394
+Alfoz de Lloredo,2394
+Dos Torres,2394
+Rodeiro,2393
+Pina de Ebro,2391
+Agullent,2388
+Paderne,2383
+Castellet i la Gornal,2382
+Sant Pere de Riudebitlles,2380
+Brihuega,2378
+Almudévar,2377
+Portillo,2373
+Carcabuey,2371
+Almedinilla,2370
+Mediona,2369
+Covelo,2368
+San Felices de Buelna,2367
+Torres de Segre,2366
+Cobeja,2366
+Grijota,2362
+La Garrovilla,2357
+Rafelguaraf,2355
+Toén,2353
+El Pla de Santa Maria,2348
+El Palmar de Troya,2343
+Gerindote,2339
+Alfajarín,2339
+Falces,2336
+Bell-lloc d'Urgell,2335
+Amer,2332
+Berlanga,2331
+El Barco de Ávila,2330
+Guriezo,2330
+El Cerro de Andévalo,2327
+Balazote,2327
+Llutxent,2326
+Monterrubio de la Serena,2326
+Abadín,2322
+Las Mesas,2317
+Sant Quintí de Mediona,2317
+Cervera del Río Alhama,2308
+Purullena,2306
+Agolada,2304
+Ribamontán al Monte,2303
+Frades,2302
+Zuia,2300
+Fresno de Torote,2299
+Camprodon,2298
+Castelló de Rugat,2298
+Llubí,2298
+Amoeiro,2296
+Idiazabal,2293
+Benissanó,2291
+Galar,2290
+Avinyó,2289
+La Victoria,2289
+Escacena del Campo,2287
+Arroyo del Ojanco,2287
+Arguedas,2287
+Villanueva de la Jara,2282
+Guaro,2280
+Alcaucín,2279
+Mequinenza,2279
+Santa Eugènia de Berga,2278
+Cervera de Pisuerga,2277
+Medellín,2275
+Benimodo,2272
+Folgueroles,2265
+Ossa de Montiel,2262
+Alpera,2261
+Bellvís,2260
+Benamaurel,2260
+Dosbarrios,2260
+Jabugo,2260
+Sober,2260
+Ajofrín,2259
+El Pont de Suert,2257
+Torremejía,2257
+Viso del Marqués,2256
+Encinas Reales,2254
+Valverde del Fresno,2250
+Fuentes de León,2248
+Irurtzun,2247
+Maria de la Salut,2245
+Aínsa-Sobrarbe,2242
+Venturada,2241
+Oria,2239
+Puebla de Don Fadrique,2238
+Bellvei,2237
+Albatàrrec,2236
+La Puerta de Segura,2234
+Orba,2232
+Portillo de Toledo,2231
+Carrizo,2224
+Boborás,2223
+Chucena,2223
+Siles,2220
+Avià,2220
+Higuera la Real,2219
+Benifairó de les Valls,2213
+La Guardia,2213
+Villarrasa,2211
+Aldeatejada,2210
+La Granada,2208
+Real,2207
+Riudarenes,2204
+Puntagorda,2203
+Quatretonda,2202
+A Pontenova,2201
+Minglanilla,2198
+Villafranca del Cid,2197
+Xeresa,2197
+Buñuel,2195
+L'Esquirol,2186
+La Pobla de Claramunt,2185
+Benasque,2184
+Torregrossa,2179
+Alfoz de Quintanadueñas,2179
+Valdefresno,2173
+Doñinos de Salamanca,2172
+Almorox,2170
+Roa,2167
+El Palau d'Anglesola,2166
+La Coronada,2165
+Beniarbeig,2159
+Puente de Génave,2159
+Lecrín,2156
+Sort,2154
+Sant Quirze de Besora,2154
+Valdáliga,2150
+Sant Joan,2145
+Penagos,2142
+La Pueblanueva,2142
+Bagà,2140
+Carballedo,2139
+Lourenzá,2139
+El Bosque,2137
+Fuentidueña de Tajo,2136
+Tolox,2136
+Callús,2129
+Cabezuela del Valle,2129
+Santo Tomé,2129
+El Hoyo de Pinares,2129
+Arbeca,2126
+Comillas,2124
+Vinyols i els Arcs,2124
+Larraga,2123
+Zafarraya,2120
+Castellgalí,2119
+Manzanilla,2118
+Riaza,2117
+Torre del Bierzo,2114
+Montejícar,2110
+El Bruc,2110
+Arnuero,2106
+Villar del Rey,2106
+Valle del Zalabí,2105
+Fines,2104
+San Isidro,2103
+Antzuola,2102
+Santovenia de la Valdoncina,2100
+Mazcuerras,2093
+Dílar,2092
+Sant Pere Pescador,2090
+San Cristovo de Cea,2089
+Ullastrell,2089
+Cenicero,2086
+Meruelo,2086
+Anoeta,2085
+Carabaña,2081
+Bienvenida,2081
+Fitero,2080
+Villar del Olmo,2079
+Yátova,2079
+Quel,2078
+Riudellots de la Selva,2071
+Piedralaves,2070
+Valderrubio,2066
+Villanueva de la Vera,2062
+Viana de Cega,2062
+Alozaina,2061
+La Codosera,2061
+Sant Vicenç de Torelló,2058
+Les Borges del Camp,2056
+Viñuela,2055
+San Leonardo de Yagüe,2054
+Los Navalucillos,2050
+Cadreita,2045
+Ezcaray,2045
+Vega de Espinareda,2044
+Puigpunyent,2044
+Corvera de Toranzo,2042
+Aldeanueva de la Vera,2042
+Montealegre del Castillo,2041
+Aia,2039
+Cenicientos,2038
+Larrabetzu,2037
+Loriguilla,2035
+Aguadulce,2035
+Carrión de los Condes,2035
+La Albuera,2035
+Cuadros,2035
+Villanueva de la Fuente,2033
+Serón,2033
+Campos del Río,2032
+la Font de la Figuera,2027
+Alajeró,2026
+Navaconcejo,2024
+El Campillo,2024
+Santa Olalla del Cala,2022
+Villanueva Mesía,2021
+Castril,2020
+Navaluenga,2018
+Jabalquinto,2017
+Beniparrell,2015
+A Pobra de Trives,2014
+Grazalema,2013
+Valldemossa,2009
+El Pedroso,2009
+Pueblonuevo del Guadiana,2008
+Obejo,2008
+Maella,2008
+Cogollos de la Vega,2007
+Bellver de Cerdanya,2005
+El Vellón,2004
+Garrovillas de Alconétar,2004
+Sierra de Fuentes,1998
+Jacarilla,1998
+Bareyo,1994
+Crecente,1994
+Valdeganga,1990
+Nogueira de Ramuín,1988
+Salas de los Infantes,1987
+Fiñana,1984
+O Valadouro,1978
+Granja de Torrehermosa,1977
+Ontur,1976
+Mendaro,1976
+Nava del Rey,1975
+Albalate del Arzobispo,1972
+Logrosán,1971
+Candamu,1969
+Tembleque,1966
+Daroca,1965
+Benferri,1965
+Càlig,1961
+Valencia del Ventoso,1960
+Buitrago del Lozoya,1959
+Boimorto,1959
+Artana,1955
+Navalcán,1955
+Fuensaldaña,1954
+Sant Mateu,1952
+La Cellera de Ter,1950
+Quinto,1949
+Almargen,1947
+Seròs,1946
+Monturque,1943
+Cabrales,1941
+Antas de Ulla,1940
+Castellví de Rosanes,1933
+Noalejo,1932
+Limpias,1928
+Barlovento,1926
+Higuera de Vargas,1925
+San Román de los Montes,1921
+Legutio,1921
+Herrera de Pisuerga,1914
+A Merca,1912
+Monfero,1907
+Vallfogona de Balaguer,1906
+Batea,1901
+Peralada,1898
+El Pinar de El Hierro,1894
+El Barraco,1893
+Paredes de Nava,1892
+Muros de Nalón,1887
+Tejeda,1883
+Huétor de Santillán,1882
+La Iruela,1879
+Vélez-Blanco,1874
+Selaya,1873
+Guadahortuna,1872
+Belmonte,1870
+Castellar de Santiago,1862
+Siruela,1861
+Oltza Zendea,1860
+Santa Marina del Rey,1860
+Villagonzalo Pedernales,1859
+Cabañas de la Sagra,1857
+Alange,1856
+Les Preses,1855
+Golmés,1855
+Coirós,1853
+Vilamarín,1852
+Irura,1852
+Segura de León,1851
+Villaseca de la Sagra,1851
+Marines,1848
+Riosa,1848
+Mundaka,1845
+Cortes de Baza,1844
+Oliana,1843
+Olesa de Bonesvalls,1840
+Puebla de Obando,1839
+Les Regueres,1839
+Ribera de Arriba,1837
+Naut Aran,1836
+Aranga,1834
+Onzonilla,1832
+Fuentealbilla,1831
+Vilafamés,1829
+Olocau,1828
+Guadalupe,1828
+Càrcer,1827
+Villaturiel,1826
+Almáchar,1817
+Boñar,1816
+El Carpio de Tajo,1816
+Canena,1814
+Cazalegas,1813
+Vilamartín de Valdeorras,1812
+Ceclavín,1812
+Toral de los Vados,1812
+Fuenlabrada de los Montes,1811
+Almoharín,1811
+Ezcabarte,1811
+A Peroxa,1810
+Villaralbo,1810
+San Justo de la Vega,1807
+les Coves de Vinromà,1806
+Brozas,1804
+Segura de la Sierra,1803
+Vilardevós,1802
+Piedrahíta,1802
+Zarza de Granadilla,1800
+Artziniega,1800
+Barrax,1799
+Zaidín,1798
+El Burgo,1792
+Orcera,1791
+Villahermosa,1790
+Chillón,1790
+Riola,1790
+Almonaster la Real,1788
+Argoños,1788
+Colmenar del Arroyo,1785
+Guadamur,1784
+La Malahá,1784
+Alforja,1783
+Xermade,1783
+Cabra del Santo Cristo,1782
+Belorado,1780
+Campo Lameiro,1778
+Socovos,1778
+Aliseda,1777
+Arcos,1775
+Hermigua,1775
+Arcas,1775
+Vallmoll,1774
+Cubillos del Sil,1768
+Alegia,1768
+Beniarjó,1767
+Santesteban,1763
+Ateca,1762
+Soses,1761
+Bordils,1761
+Ribes de Freser,1760
+Híjar,1754
+Camuñas,1752
+Campillo de Arenas,1751
+Fuencaliente de la Palma,1751
+Usagre,1751
+Batres,1750
+Zigoitia,1749
+Cumbres Mayores,1749
+Huete,1748
+Meira,1748
+Lerín,1746
+Cuevas del Campo,1744
+Mansilla de las Mulas,1743
+San Pablo de los Montes,1743
+La Riera de Gaià,1742
+El Toboso,1741
+Ribadedeva,1741
+Paradela,1739
+Grañén,1738
+Avión,1736
+Zarzalejo,1734
+Villalobón,1734
+Daya Nueva,1733
+Moraleja del Vino,1732
+Sobrado,1730
+Garafía,1730
+Ador,1730
+El Gastor,1729
+Almaraz,1726
+Coca,1726
+Oliva de Mérida,1725
+Rascafría,1725
+Arquillos,1722
+Polopos,1722
+Salvaleón,1721
+Oímbra,1720
+El Casar de Escalona,1718
+Vilaflor de Chasna,1715
+Madrigalejo,1712
+Les Planes d'Hostoles,1712
+Palma de Gandía,1709
+La Secuita,1708
+Alanís,1706
+Avinyonet del Penedès,1697
+Gordexola,1697
+Rosal de la Frontera,1697
+Ataun,1696
+Forallac,1695
+Pinofranqueado,1692
+Artajona,1691
+Beneixama,1690
+Montizón,1689
+Lahiguera,1686
+Belmonte de Tajo,1683
+Huerta de Valdecarábanos,1683
+Mont-ras,1680
+Canillas de Aceituno,1680
+Malpica de Tajo,1680
+Bimenes,1679
+Lobios,1678
+Ultzama,1674
+Padrenda,1671
+La Torre de Esteban Hambrán,1670
+Montánchez,1668
+Cualedro,1668
+Gatika,1665
+Arenas de Iguña,1665
+Purchena,1664
+Tibi,1662
+Alcaudete de la Jara,1660
+Alfoz,1659
+Alconchel,1659
+Agudo,1657
+O Vicedo,1656
+Torreorgaz,1656
+Quartell,1655
+Murillo de Río Leza,1652
+Fresnedillas de la Oliva,1651
+Espinosa de los Monteros,1651
+Santiurde de Toranzo,1646
+Covaleda,1644
+Ascó,1644
+Avinyonet de Puigventós,1641
+Santa Eugènia,1641
+Zaldibia,1637
+Montaverner,1635
+Darro,1634
+Cifuentes,1634
+Cañete la Real,1633
+A Pobra do Brollón,1632
+Valdestillas,1632
+Busturia,1632
+Aldea del Rey,1631
+Zaratamo,1631
+Castropodame,1629
+Pol,1623
+Asparrena,1623
+Salinas,1620
+Tivissa,1619
+Cañamero,1618
+Allande,1615
+Santa Pau,1614
+Villacarriedo,1612
+Riotuerto,1611
+Massalavés,1610
+La Alberca de Záncara,1608
+Salvatierra de los Barros,1607
+Sisante,1605
+Binaced,1605
+Quintanar de la Sierra,1603
+Cilleros,1602
+Fornelos de Montes,1598
+Cuevas del Becerro,1597
+Pozohondo,1593
+Alp,1593
+Villanueva de Perales,1592
+Valdeavero,1591
+Corcubión,1590
+Gaucín,1589
+Brea de Aragón,1589
+Hermandad de Campoo de Suso,1588
+Casserres,1588
+Fuentesaúco,1587
+Valderas,1586
+Barxeta,1586
+Frailes,1585
+Baños de Río Tobía,1585
+El Montmell,1582
+Hazas de Cesto,1580
+Castellví de la Marca,1575
+Lekunberri,1574
+Viver,1572
+Lumbrales,1571
+Alfarp,1571
+Bélmez de la Moraleda,1569
+Sayalonga,1568
+Quismondo,1564
+Ledaña,1561
+Albesa,1561
+Villalón de Campos,1561
+Madrigal de la Vera,1561
+Asteasu,1561
+Jérica,1559
+Guadalcázar,1559
+Benifairó de la Valldigna,1558
+Benirredrà,1555
+Teverga,1554
+Ramirás,1551
+Melgar de Fernamental,1548
+Gualba,1548
+Ledesma,1547
+Entrena,1545
+Santiso,1544
+Deierri,1543
+Las Navas de la Concepción,1542
+Sarral,1538
+Ivars d'Urgell,1537
+Artesa de Lleida,1535
+Belvís de la Jara,1535
+Benamargosa,1535
+O Incio,1533
+Barrika,1533
+Honrubia,1531
+Chelva,1531
+Añora,1530
+Mancor de la Vall,1528
+Láujar de Andarax,1527
+Torija,1527
+Soto de la Vega,1526
+Belchite,1526
+Leiro,1525
+Zegama,1524
+Sacedón,1523
+Zierbena,1520
+Benavent de Segrià,1518
+Bastida,1517
+Garrafe de Torío,1513
+Mora de Rubielos,1512
+Navalafuente,1511
+Humanes,1511
+Guijo de Galisteo,1507
+Serradilla,1507
+Molledo,1507
+Rábade,1505
+Villadiego,1500
+Carballeda de Valdeorras,1499
+Bande,1498
+l'Alqueria de la Comtessa,1496
+El Real de la Jara,1494
+Las Valeras,1494
+Istán,1494
+Segura,1494
+Baños de Molgas,1493
+Pulgar,1491
+Olazagutía,1490
+Pinos Genil,1490
+Chirivel,1489
+Piornal,1483
+Villacastín,1483
+Cabrera d'Anoia,1482
+Pedroche,1482
+Villamantilla,1482
+Boal,1482
+Mayorga,1478
+Sallent de Gállego,1477
+Gurrea de Gállego,1476
+Minaya,1475
+Villalba de los Barros,1475
+Biescas,1474
+Cardeña,1471
+Alcaracejos,1470
+Fogars de la Selva,1469
+Fontcoberta,1469
+El Castillo de las Guardas,1468
+Muxika,1468
+Muíños,1466
+Palenciana,1465
+Cádiar,1465
+Es Migjorn Gran,1463
+Corbins,1462
+Riós,1461
+Villanueva de Tapia,1460
+Esparragalejo,1460
+Fonollosa,1459
+Puente de Domingo Flórez,1458
+Villalpando,1457
+Caso,1457
+Soneja,1456
+Hontanares de Eresma,1456
+Palau-saverdera,1456
+La Roca de la Sierra,1455
+Laguardia,1454
+Arcos de Jalón,1454
+Rioja,1453
+Benaoján,1453
+Bóveda,1450
+Lubrín,1449
+Dima,1448
+Villanueva del Duque,1448
+Casas de Don Pedro,1447
+Congosto,1446
+Torres de Berrellén,1443
+Alfamén,1443
+Aramaio,1442
+Estivella,1441
+Sant Feliu de Pallerols,1437
+Belmonte de Miranda,1437
+Castellnou de Bages,1437
+Lloret de Vistalegre,1437
+Casavieja,1434
+Llívia,1431
+Algar,1428
+Navata,1427
+Villalbilla de Burgos,1423
+Torrelavit,1422
+Legorreta,1421
+O Irixo,1420
+Escalonilla,1420
+Altorricón,1420
+Merindad de Río Ubierna,1418
+Taboadela,1417
+Gata,1417
+Font-rubí,1414
+Portomarín,1412
+Alcántara,1411
+Chilluévar,1410
+Ibeas de Juarros,1405
+Muel,1401
+Madrigal de las Altas Torres,1399
+Peñas de San Pedro,1394
+Peraleda de la Mata,1393
+Espirdo,1389
+Alcolea de Calatrava,1387
+Urkabustaiz,1386
+Miralcamp,1385
+Erriberabeitia,1383
+Rubiá,1383
+Santa Eulàlia de Riuprimer,1383
+Galaroza,1382
+Ahigal,1381
+Zahara,1379
+Alaejos,1379
+La Guijarrosa,1379
+El Ronquillo,1377
+Trujillanos,1376
+Albudeite,1375
+Xunqueira de Ambía,1374
+Torres,1372
+Paderne de Allariz,1372
+Torrecaballeros,1372
+Jadraque,1370
+Cuevas Bajas,1370
+Cardeñadijo,1369
+San Cristóbal de Entreviñas,1369
+Traiguera,1367
+Anglesola,1365
+Condado de Treviño,1363
+Gamiz-Fika,1362
+Mahora,1362
+Montemolín,1361
+Térmens,1360
+Vallbona d'Anoia,1357
+Puebla de Sanabria,1356
+Rafelcofer,1355
+Fuerte del Rey,1355
+Lagartera,1354
+Villar de Rena,1353
+Cabanillas,1351
+Abenójar,1351
+Puigverd de Lleida,1349
+Segurilla,1349
+Villoria,1345
+O Páramo,1344
+Casatejada,1344
+Campillo de Llerena,1343
+Sant Iscle de Vallalta,1342
+Almoster,1341
+Riópar,1341
+Alcàntera de Xúquer,1341
+Titulcia,1341
+Lozoyuela-Navas-Sieteiglesias,1340
+Irixoa,1340
+Cantimpalos,1340
+Castrelo de Miño,1340
+Trillo,1338
+Cabañas Raras,1335
+Atxondo,1335
+Rosalejo,1334
+Estremera,1334
+Pozo de Guadalajara,1332
+Zorita,1332
+Potes,1332
+Lezuza,1332
+Cárcheles,1332
+Comares,1330
+Otxandio,1330
+Costitx,1329
+La Parra,1327
+Torrente de Cinca,1327
+Monterrubio de Armuña,1326
+Algueña,1326
+Casas de Juan Núñez,1326
+Bolbaite,1324
+Alcaraz,1324
+Majadas,1322
+Castilléjar,1321
+Santa María de la Alameda,1321
+Mañón,1319
+Lucena del Cid,1315
+Sant Julià del Llor i Bonmatí,1313
+Sádaba,1311
+Encinasola,1310
+Almadén de la Plata,1307
+Burujón,1307
+Navas de Oro,1305
+Atzeneta del Maestrat,1304
+Barx,1303
+Alcalalí,1302
+Colomera,1302
+Belver de Cinca,1301
+Almoguera,1300
+Macastre,1300
+Pastriz,1300
+Cuerva,1299
+Lumbier,1299
+Cillorigo de Liébana,1299
+Cabeza la Vaca,1298
+Orusco de Tajuña,1295
+Cervantes,1294
+Montiel,1294
+Ròtova,1293
+Higuera de la Sierra,1291
+Tous,1287
+Anchuelo,1286
+Villar de Olalla,1285
+La Fuente de San Esteban,1285
+Vilar de Barrio,1283
+Sartaguda,1281
+Navas del Madroño,1280
+Vila-rodona,1276
+Lakuntza,1275
+La Vall de Bianya,1275
+El Pla del Penedès,1275
+Carballeda de Avia,1271
+"Cruïlles, Monells i Sant Sadurní de l'Heura",1270
+Matallana de Torío,1270
+Jimena,1269
+Corçà,1268
+Campillo de Altobuey,1265
+Perafort,1264
+Loranca de Tajuña,1264
+Trasmiras,1263
+Mirandilla,1262
+Itza,1262
+Figueruelas,1262
+Mejorada,1261
+Jerte,1260
+Mas de las Matas,1258
+Lemoiz,1258
+Ormaiztegi,1258
+Páramo del Sil,1255
+Sariego,1254
+La Zarza-Perrunal,1253
+Algámitas,1253
+Ricote,1253
+Nuñomoral,1252
+Chimeneas,1251
+Moclinejo,1251
+Berriatua,1251
+La Fuliola,1250
+Landete,1249
+Abla,1248
+Samos,1246
+Torre de Miguel Sesmero,1246
+Montalbán,1245
+Zeanuri,1245
+Mazarambroz,1244
+Hondón de los Frailes,1242
+Almendral,1239
+Coripe,1238
+Rueda,1237
+Llers,1237
+Torà,1237
+A Gudiña,1236
+Riotorto,1235
+Villagonzalo,1234
+Carrascal de Barregas,1231
+Velilla del Río Carrión,1230
+María,1230
+Alborache,1229
+Campotéjar,1229
+Sant Martí de Tous,1228
+Rairiz de Veiga,1228
+Albocàsser,1227
+Laukiz,1227
+Peñamellera Baja,1227
+Baleira,1226
+Trijueque,1226
+El Puente del Arzobispo,1225
+Laza,1223
+A Capela,1221
+Villatuerta,1220
+La Haba,1219
+Alfarrasí,1219
+Areatza,1216
+Fuente de Pedro Naharro,1215
+Puebla de Alcocer,1212
+la Pobla Tornesa,1212
+Vilasantar,1211
+Pelabravo,1210
+Aldeadávila de la Ribera,1209
+Vilarmaior,1209
+Cañada,1208
+Albalat dels Tarongers,1208
+Ibias,1207
+Baltanás,1206
+Castro Caldelas,1204
+Okondo,1203
+Olost,1202
+Riolobos,1201
+Valdepolo,1200
+Zarza la Mayor,1199
+Bellcaire d'Urgell,1199
+Camporrobles,1198
+Sandiás,1198
+Venta del Moro,1198
+Liendo,1196
+Alcalá del Júcar,1194
+Cenizate,1194
+Corte de Peleas,1191
+Villanueva de Duero,1189
+Riudecols,1189
+Canjáyar,1189
+Carrizosa,1188
+Quirós,1187
+Moeche,1186
+Orce,1185
+Osorno la Mayor,1185
+Nigüelas,1185
+Sant Martí de Centelles,1184
+Abrucena,1183
+Piñor,1183
+Vilanova de Bellpuig,1183
+Ayllón,1182
+Caminomorisco,1181
+Villayón,1180
+Burgohondo,1180
+Valdetorres,1179
+Nerpio,1178
+Alcolea de Cinca,1177
+Arenas,1177
+Ullà,1177
+Medina de las Torres,1176
+Cabra del Camp,1175
+Barruelo de Santullán,1174
+Mallabia,1173
+Cheles,1173
+Valle de la Serena,1172
+Pozuelo del Rey,1172
+San Pedro,1171
+Huéneja,1170
+Verges,1169
+La Peza,1167
+Calvarrasa de Abajo,1166
+Tórtola de Henares,1165
+Fermoselle,1164
+Villadangos del Páramo,1163
+Ribesalbes,1163
+Puigpelat,1163
+Lanaja,1163
+Paymogo,1162
+Atzeneta d'Albaida,1162
+Puebla de Don Rodrigo,1162
+Vilamalla,1161
+Sesma,1161
+Siete Aguas,1159
+Cala,1159
+Antella,1157
+Melón,1156
+Soba,1155
+Montesa,1155
+Xerta,1154
+Pradoluengo,1151
+Liétor,1150
+Cercs,1150
+Fuente Carreteros,1148
+Sarrión,1148
+Relleu,1148
+Riudecanyes,1146
+Horta de Sant Joan,1146
+Leciñena,1146
+Sarreaus,1145
+Valle de Santa Ana,1143
+Figaró-Montmany,1142
+Benabarre,1142
+El Pedernoso,1140
+Casas de Fernando Alonso,1140
+Benissanet,1140
+Valdefuentes,1139
+Pedro Martínez,1138
+Tuéjar,1137
+Fuentes de Oñoro,1136
+Cardeñajimeno,1136
+Sobradiel,1136
+Higueruela,1135
+Senyera,1134
+Serinyà,1133
+Elgeta,1131
+Flaçà,1130
+Llaurí,1130
+Montillana,1129
+Bustillo del Páramo,1129
+Villamanrique,1128
+Los Arcos,1127
+Trabada,1127
+La Pedraja de Portillo,1126
+Sabero,1123
+Cofrentes,1123
+Igüeña,1123
+Villasabariego,1123
+Gimenells i el Pla de la Font,1120
+Sástago,1119
+Valenzuela,1118
+Villaralto,1118
+Corral de Calatrava,1117
+Rotglà i Corberà,1117
+Vilajuïga,1116
+Feria,1115
+Valverde del Majano,1115
+Bossòst,1115
+A Bola,1113
+Magallón,1112
+Traspinedo,1111
+Agulo,1110
+Riba-roja d'Ebre,1110
+Arbizu,1109
+Fabara,1109
+Entrimo,1109
+San Carlos del Valle,1109
+Vegas del Condado,1109
+San Asensio,1108
+Albaladejo,1108
+Toques,1107
+Sinarcas,1105
+Cárcar,1104
+Esgos,1103
+Serrada,1103
+Píñar,1103
+Vilobí del Penedès,1102
+Villalgordo del Júcar,1102
+Casalarreina,1102
+Villamañán,1102
+La Joyosa,1101
+Ariza,1100
+Cenlle,1100
+Albalate de Cinca,1099
+Beniarrés,1099
+Sorihuela del Guadalimar,1098
+Tornavacas,1098
+Sumacàrcer,1097
+Agoncillo,1096
+Zeberio,1095
+Mendigorria,1094
+Monteagudo,1093
+Somiedo,1093
+La Pobla de Lillet,1093
+Villanueva de San Juan,1090
+Vilanova de la Barca,1088
+Duruelo de la Sierra,1088
+Cerdido,1087
+Búger,1087
+Carcaboso,1085
+Valverde de Júcar,1084
+Casar de Palomero,1084
+Valdeaveruelo,1084
+As Somozas,1083
+Gérgal,1080
+Benidoleig,1078
+Botarell,1077
+Torremocha de Jarama,1075
+Berastegi,1075
+Trescasas,1074
+Remolinos,1074
+Santa Cristina de la Polvorosa,1073
+Dozón,1073
+Nevada,1072
+Masdenverge,1071
+Galera,1071
+La Alberca,1071
+Torrecillas de la Tiesa,1070
+Cortegada,1070
+Escatrón,1067
+Morata de Jalón,1066
+Alfarnate,1065
+Alcañices,1065
+Valdecaballeros,1065
+Ainzón,1064
+Navia de Suarna,1063
+Portbou,1063
+Benassal,1063
+Las Ventas con Peña Aguilera,1062
+Laguna de Negrillos,1061
+Bedia,1061
+Campaspero,1060
+Potries,1060
+La Seca,1059
+Nalda,1057
+Cabranes,1057
+Benalúa de las Villas,1054
+Algímia d'Alfara,1053
+Villabrágima,1053
+Los Guájares,1053
+El Robledo,1053
+San Amaro,1052
+Jayena,1052
+Santa Eulalia,1050
+Artenara,1049
+Benlloc,1048
+Benicull de Xúquer,1048
+Valverde de Mérida,1047
+Santa Elena de Jamuz,1047
+Llanera de Ranes,1047
+As Nogais,1047
+Navalmanzano,1047
+Viladrau,1047
+Santo Domingo-Caudilla,1046
+Solórzano,1046
+Calders,1045
+Folgoso de la Ribera,1045
+Boltaña,1045
+Coreses,1044
+Santa Bárbara de Casa,1043
+Gavarda,1042
+Isona i Conca Dellà,1042
+Torrecampo,1040
+San Lorenzo de la Parrilla,1040
+Arróniz,1038
+Sant Guim de Freixenet,1037
+Ademuz,1037
+Cañaveral,1036
+Bodonal de la Sierra,1036
+Nívar,1036
+Partaloa,1035
+Kanpezu,1034
+Montferrer i Castellbò,1034
+Matapozuelos,1033
+Castañar de Ibor,1033
+San Cristóbal de la Cuesta,1031
+Aledo,1031
+Montesquiu,1030
+Bonete,1029
+Rionansa,1029
+Quintanilla de Onésimo,1026
+Fuencaliente,1024
+Santa Maria d'Oló,1024
+Quart de les Valls,1024
+Illas,1023
+Fortaleny,1020
+La Vall de Boí,1019
+Macotera,1019
+Palmera,1018
+La Pesga,1018
+Ayerbe,1017
+Magaz de Pisuerga,1015
+Villanueva del Rey,1015
+A Mezquita,1013
+Albanchez de Mágina,1011
+Alhama de Aragón,1011
+Ruente,1011
+Arenas de San Juan,1011
+Otívar,1011
+Palomeque,1011
+Sant Cugat Sesgarrigues,1009
+El Pinell de Brai,1008
+Bermillo de Sayago,1007
+Folgoso do Courel,1007
+Astudillo,1006
+Albarracín,1006
+Santibáñez de la Peña,1005
+Alhambra,1005
+Villalpardo,1005
+Corbera d'Ebre,1003
+Oña,1003
+Bàscara,1001
+Elciego,1001
+Torre de Juan Abad,1000
+Petrés,999
+Esparragosa de la Serena,998
+Castellserà,996
+Gelsa,996
+San Vicente de la Sonsierra,996
+Brazatortas,995
+Ourol,995
+Carpio,994
+Villafufre,994
+Fondón,994
+Vilabertran,993
+Fontellas,993
+Víznar,993
+Hospital de Órbigo,991
+Ítrabo,991
+San Jorge,990
+Sierra Engarcerán,988
+Turcia,986
+Aigües,986
+Turégano,986
+Gaubea,986
+Vilanova de Segrià,985
+Fernán Caballero,985
+Bédar,984
+Arratzua-Ubarrundia,984
+Cortes y Graena,982
+la Llosa,982
+Galende,982
+Olius,981
+Bujaraloz,980
+Os de Balaguer,980
+Beas de Granada,980
+Quero,980
+Valdelaguna,979
+Les Cabanyes,979
+Maruri-Jatabe,978
+Fonelas,978
+Calaceite,978
+Nonaspe,978
+A Arnoia,977
+Taberno,974
+Sanchonuño,973
+Les,971
+Beariz,970
+Pedrafita do Cebreiro,969
+Alpujarra de la Sierra,969
+Villardompardo,968
+Cabanes,968
+Parcent,967
+Sepúlveda,967
+Uruñuela,967
+Cervià de Ter,966
+Cabuérniga,965
+Arrankudiaga,965
+Valdemanco,963
+Sasamón,962
+Arakil,962
+Santa María la Real de Nieva,961
+Sant Llorenç de Morunys,960
+Allo,960
+Corrales del Vino,959
+Fontanars dels Alforins,959
+les Useres,959
+Valdevimbre,958
+Ribafrecha,958
+El Port de la Selva,958
+Castrelo do Val,958
+Olaberria,957
+Maguilla,957
+Rasines,955
+Luceni,955
+Jérez del Marquesado,955
+Chiclana de Segura,955
+Torquemada,954
+Morales de Toro,954
+Cózar,952
+Monfarracinos,951
+L'Armentera,951
+Cáseda,951
+Valderredible,950
+Cantalapiedra,950
+Montejaque,949
+Torremayor,949
+El Arenal,948
+Tardienta,948
+Castellfollit de la Roca,947
+Quéntar,947
+Arroyomolinos de León,947
+Cornudella de Montsant,944
+Escañuela,944
+Linares de Riofrío,944
+Otero de Herreros,943
+Mombeltrán,942
+Roales,942
+Iznatoraf,942
+Baltar,942
+Guardiola de Berguedà,941
+Barajas de Melo,940
+Obanos,940
+Freila,939
+Valdeolea,939
+Castrocalbón,938
+Perales del Puerto,938
+Monroy,938
+Maluenda,937
+Higuera de la Serena,936
+Amezketa,935
+Villamena,934
+Ribera d'Urgellet,932
+Alagón del Río,932
+Gradefes,931
+Ribas de Sil,931
+Calera de León,930
+Albalate de Zorita,930
+Camaleño,930
+Oteiza,930
+Biota,930
+Aiguamúrcia,930
+Castelldans,930
+Montagut i Oix,930
+Udías,928
+Larraun,928
+Jete,927
+Retuerta del Bullaque,927
+Garganta la Olla,926
+La Fatarella,926
+La Nava de Santiago,926
+Villamiel de Toledo,926
+El Borge,922
+La Granja d'Escarp,922
+Santibáñez de Vidriales,922
+Alar del Rey,921
+Castillo de Bayuela,920
+Villada,920
+El Real de San Vicente,919
+Pacs del Penedès,918
+Castellnovo,918
+Babilafuente,917
+Llocnou d'En Fenollet,916
+Galisteo,916
+Castilblanco,915
+Verea,912
+Rossell,912
+Villamanín,911
+Maials,909
+Valle de Tobalina,909
+Arcicóllar,908
+El Valle,907
+Forua,907
+Palacios del Sil,907
+Iznate,907
+Esparragosa de Lares,906
+Villagarcía de la Torre,906
+Aldover,905
+La Llacuna,903
+l'Énova,902
+Ariany,902
+Tivenys,902
+Verdú,902
+Huerta de Rey,901
+Eljas,901
+Santorcaz,899
+La Puebla de Híjar,899
+Vall-llobrega,897
+Cordobilla de Lácara,897
+Priego,896
+Peñalsordo,896
+L'Aleixar,893
+Lalueza,892
+Letur,892
+Puerto Lápice,891
+Santa Elena,890
+Santa Maria de Martorelles,890
+Vimbodí i Poblet,890
+Corullón,887
+Mira,886
+Zagra,885
+Sant Bartomeu del Grau,884
+Longares,883
+Barcience,883
+Degaña,881
+Barrundia,881
+Hoyos,880
+Tiétar,879
+Mozoncillo,879
+Fresno el Viejo,878
+Barbens,878
+Domingo Pérez de Granada,878
+Los Cortijos,877
+Lantarón,877
+Allin,874
+Lora de Estepa,873
+Sant Jaume de Llierca,871
+Santacara,870
+Vegaviana,868
+Pezuela de las Torres,867
+El Pinar,865
+Lapuebla de Labarca,865
+Escurial,865
+Talayuelas,864
+Ahillones,863
+Agullana,863
+Miranda de Arga,863
+Alfondeguilla,862
+Molinaseca,862
+Noez,861
+Candelario,860
+La Sotonera,859
+Olvan,858
+Pastrana,858
+Abades,857
+Montemayor de Pililla,857
+A Veiga,857
+Novetlè,857
+"Saus, Camallera i Llampaies",856
+Nombela,854
+Garriguella,853
+Saucedilla,852
+El Torno,851
+Cuacos de Yuste,851
+Fonz,851
+O Bolo,850
+Petín,849
+Ulea,849
+Vinuesa,847
+Ventalló,846
+Huércanos,846
+Lladó,844
+Alcolea,844
+Villarta,843
+Manzaneda,843
+Berlanga de Duero,842
+Villarquemado,841
+La Cumbre,841
+El Almendro,840
+Sudanell,840
+Galdames,838
+San Pedro de Mérida,838
+Nuez de Ebro,838
+Villafranca de Ebro,838
+Mohedas de Granadilla,838
+Ruesga,836
+Trabazos,835
+Vilademuls,835
+Jalance,834
+Castronuño,833
+Horcajo de los Montes,833
+Jorba,833
+Ballobar,833
+Cantalpino,833
+Quer,830
+Llíber,830
+Llera,829
+Basaburua,828
+Arroyomolinos,828
+Villaquejida,827
+la Vall de Laguar,827
+Etxalar,827
+Valderrueda,827
+Casas de Haro,827
+Acedera,826
+Novallas,825
+Maspujols,823
+Villanueva del Campo,823
+Porqueira,823
+Casas de Benítez,823
+Fuentepelayo,822
+Tornabous,822
+Uleila del Campo,822
+Solosancho,820
+Quintanilla Vivar,820
+Lupión,820
+Villarramiel,818
+Tortellà,818
+Vega de Infanzones,818
+La Mata,817
+Valle de Hecho,817
+Alía,816
+Grandas de Salime,815
+Sobrescobio,814
+Campo Lugar,814
+Algatocín,814
+Menàrguens,813
+Molinicos,813
+Benquerencia de la Serena,812
+Casas del Monte,811
+Els Alamús,811
+Lanzahíta,811
+Almonacid de Toledo,810
+Camarasa,810
+Rellinars,809
+Gautegiz Arteaga,808
+Ea,808
+Ausejo,808
+Bogarra,807
+Alcolea de Tajo,807
+Talaván,806
+Lumpiaque,806
+San Sebastián de los Ballesteros,804
+Esterri d'Àneu,804
+Cazalilla,803
+Acehúche,802
+Albuñuelas,802
+Ribatejada,801
+Escucha,801
+Tales,801
+Panticosa,800
+Castelserás,800
+Llamas de la Ribera,800
+Sant Feliu de Buixalleu,797
+Massanes,796
+Estadilla,796
+Zufre,796
+Torre Alháquime,796
+Carboneras de Guadazaón,795
+Yunclillos,795
+Vilar de Santos,794
+Oibar,794
+Torremocha,793
+Erro,793
+Castrillo del Val,793
+Villarino de los Aires,792
+Escúzar,791
+Uharte Arakil,789
+Pedro Bernardo,787
+Fortià,787
+Cabanillas de la Sierra,785
+Fuentespina,785
+Carme,785
+Tamames,784
+Orxeta,784
+Frómista,784
+Fuendejalón,784
+Les Valls de Valira,784
+Los Hinojosos,784
+Tardajos,783
+Rasquera,783
+El Garrobo,782
+Etxebarria,782
+Ribera Alta,782
+Sancti-Spíritus,782
+Pueblonuevo de Miramontes,782
+Castrojeriz,782
+Tierz,781
+Escalante,781
+San Miguel del Cinca,780
+Aizarnazabal,779
+Layos,777
+El Berrueco,777
+Boquiñeni,776
+Fondarella,776
+Tiñosillos,775
+Don Álvaro,775
+Valdemaqueda,775
+Arganza,774
+Betancuria,773
+Tejeda de Tiétar,773
+Soto y Amío,773
+Priaranza del Bierzo,773
+Las Herencias,772
+Organyà,771
+Cortes de Pallás,771
+Trespaderne,771
+Torres de Albánchez,770
+Jarafuel,769
+Navaleno,768
+Lobeira,768
+Carmena,768
+Bernuy de Porreros,766
+San Martín de Trevejo,766
+Aiguaviva,765
+Ginestar,764
+Manchita,764
+Cañete,764
+Castejón de Sos,764
+Diezma,764
+Villoruela,763
+Almuradiel,761
+Abengibre,761
+Sant Miquel de Fluvià,761
+Lúcar,760
+Sant Jordi Desvalls,760
+La Torre de Cabdella,759
+Canillas de Albaida,759
+Alájar,759
+Albons,759
+Òrrius,758
+Vila-sacra,758
+Navalperal de Pinares,757
+Camarzana de Tera,755
+Os Blancos,755
+Meñaka,754
+Santa Magdalena de Pulpis,754
+Vilalba Sasserra,753
+Almonacid de la Sierra,753
+Igualeja,752
+Baños de Montemayor,751
+Xunqueira de Espadanedo,751
+Fonfría,750
+Rielves,749
+Briones,749
+Fontiveros,749
+Villavieja de Yeltes,748
+Sidamon,748
+Cabrillanes,747
+Villagarcía del Llano,747
+Vega de Pas,746
+L'Albi,744
+Gor,744
+Alconera,743
+Santa Eufemia,743
+Riego de la Vega,743
+La Portella,743
+Castellcir,742
+Becerril de Campos,742
+Santibáñez el Bajo,741
+Tábara,740
+Carratraca,740
+Bugarra,739
+Totalán,737
+Turleque,736
+Calzadilla de los Barros,736
+Trevélez,736
+La Galera,736
+Calvos de Randín,735
+Torrelameu,735
+Vila-sana,734
+Onís,734
+Borrassà,733
+Arraia-Maeztu,733
+Artea,733
+Belvís de Monroy,733
+Daya Vieja,731
+Mélida,731
+Santas Martas,729
+Cantavieja,729
+Ispaster,729
+Canet d'Adri,729
+Vilabella,729
+Aldeanueva del Camino,727
+Pratdip,726
+San Martín de Montalbán,726
+Benilloba,726
+Castrocontrigo,725
+Eslida,725
+Valencia del Mombuey,725
+Puebla de la Reina,724
+Benifallet,723
+Corpa,723
+Ruiloba,722
+Huecas,722
+Sabiñán,722
+Quintana del Castillo,721
+Garray,721
+Samper de Calanda,721
+Villamontán de la Valduerna,720
+Navajas,720
+Les Masies de Roda,719
+Boceguillas,719
+Cimanes del Tejar,719
+Vega de Liébana,719
+Campos del Paraíso,718
+San Esteban del Valle,718
+Nava de Arévalo,718
+Granátula de Calatrava,717
+Torre-Cardela,716
+La Granadella,716
+Sanchidrián,714
+Ariño,714
+Gomesende,714
+Catí,714
+La Morera,714
+Campofrío,713
+Llambilles,713
+Hormigos,712
+Bérchules,712
+Vallelado,712
+Albondón,712
+Améscoa Baja,711
+Caudete de las Fuentes,711
+Modúbar de la Emparedada,710
+Lantziego,709
+Fuenteheridos,709
+Albelda,708
+Chañe,708
+Punxín,708
+Sant Climent Sescebes,707
+Villamanrique de Tajo,707
+Merindad de Montija,707
+Proaza,707
+Miravet,706
+Cabezas Rubias,706
+Donemiliaga,706
+Villalba de Duero,705
+Torroella de Fluvià,703
+Monistrol de Calders,702
+El Burgo Ranero,702
+Palacios de la Sierra,701
+Sotorribas,700
+la Salzadella,700
+Puentes Viejas,699
+Villanueva de Bogas,699
+Montederramo,699
+Artzentales,699
+La Bóveda de Toro,699
+Garciaz,699
+Torrico,698
+Maçanet de Cabrenys,698
+Guadalmez,697
+Almonacid de Zorita,696
+Bràfim,695
+Igriés,695
+Mijares,694
+Fuenterrobles,694
+Encinedo,690
+Calzada de Valdunciel,690
+Sanet y Negrals,690
+Siétamo,689
+Goizueta,689
+Dehesas Viejas,688
+Sant Pau de Segúries,688
+Emperador,688
+Xert,688
+Albanchez,687
+Deleitosa,687
+Santa María de los Llanos,686
+Puebla del Príncipe,686
+Bonastre,685
+Aniñón,684
+Luna,684
+Langa de Duero,683
+Llanos del Caudillo,683
+Planes,682
+Medinaceli,682
+Pétrola,681
+Fuente del Arco,681
+Albatana,679
+Bèlgida,679
+Fornalutx,679
+Albarreal de Tajo,679
+Bellcaire d'Empordà,678
+Fuenteguinaldo,678
+Táliga,678
+Osso de Cinca,678
+Camós,677
+Fresnillo de las Dueñas,677
+Alhabia,677
+Válor,677
+El Herrumblar,677
+Castellote,676
+la Jana,676
+Canet lo Roig,676
+Santiago de Calatrava,675
+Valenzuela de Calatrava,674
+Benaocaz,673
+El Picazo,673
+Domeño,673
+El Perdigón,673
+Murillo el Cuende,673
+Bárcena de Pie de Concha,672
+Villamejil,672
+Palomas,671
+La Taha,670
+Campoo de Yuso,670
+Puebla del Maestre,670
+El Poal,670
+Fuentelapeña,669
+Torres Torres,669
+Albalá,669
+Mestanza,669
+Picón,668
+Itsasondo,668
+La Calahorra,668
+Sevilleja de la Jara,668
+Benimuslem,667
+San Cristóbal de la Polantera,667
+Fuente-Tójar,666
+Aldealengua,666
+Almunia de San Juan,666
+Berbinzana,666
+Sunbilla,665
+Castellnou de Seana,665
+Illana,664
+Alborea,664
+Gomezserracín,664
+Los Blázquez,664
+Alcabón,664
+Quesa,663
+Cervià de les Garrigues,662
+Murillo el Fruto,662
+Chulilla,662
+Mirabel,661
+Urdiain,661
+Cogeces del Monte,659
+San Miguel del Arroyo,659
+Caudiel,659
+Nogales,658
+Aulesti,657
+Ventas de Huelma,657
+Montalbo,655
+Burganes de Valverde,654
+Mucientes,653
+Terrinches,653
+Arenas del Rey,653
+Galindo y Perahuy,653
+Quiruelas de Vidriales,652
+Puebla de Lillo,652
+Arapiles,651
+Hontoria del Pinar,650
+Castrillo de la Vega,650
+Villaumbrales,650
+Etxauri,649
+Villabuena del Puente,649
+el Ràfol d'Almúnia,648
+Villazala,647
+Alcadozo,647
+Villariezo,645
+Valdeobispo,644
+Peñalba,644
+Cabezuela,644
+Montgai,643
+Cogollos de Guadix,642
+Rialp,641
+Sant Martí de Llémena,641
+Laguna Dalga,640
+Noceda del Bierzo,640
+Castilleja del Campo,640
+El Peral,640
+Casillas,640
+Sant Martí de Riucorb,639
+Cedrillas,639
+Benavites,638
+Alcanadre,638
+Calicasas,638
+Triacastela,637
+Holguera,637
+Mondariz-Balneario,637
+la Torre de les Maçanes,636
+Hinojosa de Duero,636
+Tiebas-Muruarte de Reta,636
+Felix,636
+Fuentes de Nava,636
+Riofrío de Aliste,635
+Zuheros,635
+Rubielos de Mora,635
+Alpuente,635
+Geldo,633
+Esplús,632
+Chillarón de Cuenca,632
+Navezuelas,632
+Aliaguilla,632
+Muntanyola,632
+Solivella,632
+Lécera,631
+Igantzi,631
+Sant Quirze Safaja,631
+Quintela de Leirado,630
+Aldeire,630
+Alcazarén,630
+Valoria la Buena,630
+Deià,630
+Hoya-Gonzalo,630
+Ibarrangelu,629
+Férez,629
+Alija del Infantado,629
+Espinosa de Henares,629
+San Martín de Pusa,629
+Amieva,628
+Castellanos de Villiquera,628
+Dólar,628
+Beneixida,627
+San Emiliano,627
+Villagatón,627
+Castellolí,626
+Helechosa de los Montes,626
+Trasierra,625
+Torvizcón,625
+Manganeses de la Polvorosa,624
+Aguarón,624
+Tàrbena,623
+San Pedro Manrique,623
+Matilla de los Caños del Río,623
+Alcampell,623
+Játar,623
+Riello,622
+Villaharta,621
+Vilalba dels Arcs,621
+Uncastillo,621
+Espeluy,620
+Villamayor de Calatrava,620
+Teresa de Cofrentes,619
+Paniza,619
+Muras,619
+Lizartza,617
+Cútar,616
+Caminreal,615
+Muelas del Pan,615
+San Silvestre de Guzmán,614
+Higuera de Calatrava,614
+Valdepiélagos,614
+Barásoain,613
+l'Atzúbia,611
+Capmany,611
+Torre del Burgo,611
+Alcublas,611
+Massalcoreig,610
+Rena,610
+Ambite,609
+Alboloduy,609
+Sant Mateu de Bages,608
+Burgelu,608
+Arantza,608
+Torrefeta i Florejacs,607
+Marugán,606
+Ampudia,606
+Villamuelas,606
+Valdaracete,605
+Membrío,605
+Sant Feliu Sasserra,605
+Los Santos,605
+Encinas de Abajo,605
+Pasarón de la Vera,604
+Cabezón de Liébana,604
+Torresandino,604
+Igea,603
+Bertizarana,603
+Taramundi,602
+El Far d'Empordà,602
+Aldea del Cano,602
+Almarza,602
+Torrecilla de los Ángeles,601
+Ezkio-Itsaso,601
+La Torre de l'Espanyol,601
+Berrobi,601
+Pollos,601
+Marçà,600
+La Nou de Gaià,600
+Aceituna,600
+Luena,600
+La Fueva,600
+Navamorcuende,598
+Godall,598
+San Nicolás del Puerto,596
+El Villar de Arnedo,596
+Villares de Órbigo,596
+Estépar,596
+Talarn,595
+Valdealgorfa,595
+Añorbe,595
+Hornos,594
+Villaverde de Íscar,591
+Carboneros,591
+Ayna,591
+Dicastillo,591
+Maello,590
+Génave,590
+Grisén,590
+Luyego,590
+Prades,588
+Arenales de San Gregorio,588
+Herrerías,587
+Vega de Valcarce,587
+Torremenga,587
+Montecorto,586
+Monzón de Campos,586
+Montichelvo,585
+La Riba,585
+Cetina,583
+Villapalacios,583
+Senija,583
+Muniesa,583
+l'Orxa,582
+El Romeral,582
+El Fresno,582
+Villar del Pedroso,582
+Villargordo del Cabriel,582
+Almanza,581
+Àger,580
+Arrieta,580
+Sant Boi de Lluçanès,580
+Lozoya,580
+Alquife,580
+Bienservida,579
+Sardón de Duero,579
+Motilleja,578
+Montellà i Martinet,578
+Errezil,578
+Camarenilla,577
+Sella,577
+Sedella,576
+Villaluenga de la Vega,574
+Benicolet,574
+Calvarrasa de Arriba,573
+Paracuellos de Jiloca,573
+Perdiguera,572
+Palomares del Campo,572
+Ponga,572
+Morelábor,572
+Alloza,572
+Valverde de Llerena,570
+Cogollos,570
+Alamedilla,569
+Vilanova d'Alcolea,569
+Morales de Rey,569
+Ataquines,569
+Alfara de la Baronia,569
+Montamarta,569
+Ciruelos,569
+Alpartir,568
+Cacín,568
+Juslapeña,568
+Cobreros,568
+Sos del Rey Católico,567
+el Palomar,567
+Aguilafuente,566
+Las Tres Villas,565
+Vilanova d'Escornalbou,565
+Garlitos,565
+Santa María del Campo Rus,565
+Montanejos,564
+Agres,564
+Mas de Barberans,564
+Saceruela,564
+Lanteira,564
+Lucainena de las Torres,564
+Lucillos,563
+Gavilanes,563
+Peralta de Alcofea,563
+Capileira,563
+Casas de Ves,563
+Buniel,563
+Villanueva de las Torres,562
+Aldeacentenera,561
+Gumiel de Izán,561
+Torrequemada,560
+Vilagrassa,560
+Ardón,560
+Salorino,560
+Canfranc,558
+Ohanes,558
+Las Labores,558
+Acebo,557
+Sotoserrano,557
+Pau,557
+Cervera del Maestre,557
+Villar del Buey,556
+Fornes,556
+Rozas de Puerto Real,555
+Vilaplana,555
+Llocnou de Sant Jeroni,554
+La Almolda,554
+Bercianos del Páramo,554
+Bot,554
+Cretas,554
+Casas del Castañar,552
+Entrín Bajo,552
+Fruiz,552
+Cristina,551
+Casas de Millán,550
+Guils de Cerdanya,549
+Ruidera,549
+Valdeverdeja,549
+Vilaller,549
+Salomó,549
+Oristà,549
+Gestalgar,548
+Zarza de Montánchez,548
+Pozal de Gallinas,547
+San Esteban de Litera,547
+Torrejón el Rubio,546
+Parada de Sil,546
+Sancedo,546
+Nueno,546
+Paüls,545
+Abartzuza,544
+Ortigosa del Monte,544
+Malpartida de la Serena,543
+Alcoba,542
+Covarrubias,541
+Campins,541
+Cerezo de Río Tirón,541
+Valencia de las Torres,540
+Coll de Nargó,540
+Pradilla de Ebro,540
+Castelló de Farfanya,539
+Patones,539
+Ibahernando,538
+Broto,538
+Villaminaya,537
+Els Prats de Rei,537
+Campllong,537
+Darnius,537
+Santiuste de San Juan Bautista,536
+Olombrada,536
+Corteconcepción,536
+Llanars,535
+San Bartolomé de Pinares,534
+Cieza,534
+Rajadell,534
+El Granado,532
+Mosqueruela,532
+Torre de Santa María,532
+Iruraiz-Gauna,532
+Villaobispo de Otero,532
+Santa Cruz del Comercio,531
+Guardamar de la Safor,531
+Beceite,531
+Carucedo,531
+Bicorp,529
+Azuara,529
+Pontons,528
+Sorvilán,527
+Crémenes,527
+Garcia,527
+la Vall de Gallinera,527
+Bidania-Goiatz,525
+Carmonita,524
+Puigdàlber,524
+Suera,524
+Vilariño de Conso,524
+Banyalbufar,523
+Jubrique,523
+Figueroles,523
+Magacela,523
+Calzada de Oropesa,523
+Araitz,523
+Revillarruz,523
+Mañaria,522
+Guijo de Granadilla,522
+Roperuelos del Páramo,522
+Hinojosas de Calatrava,522
+La Vellés,522
+Navas de Jorquera,521
+Topas,521
+Belianes,520
+La Nava de Ricomalillo,519
+La Losa,519
+Cogolludo,519
+Querol,518
+Montearagón,518
+Costur,518
+Novillas,517
+Santa María del Campo,517
+Aguaviva,516
+Peñaranda de Duero,516
+Vilviestre del Pinar,516
+Manzanera,516
+Pont de Molins,516
+Saro,516
+Arrúbal,516
+Valdelugueros,515
+Santa Cruz de los Cáñamos,515
+Pereruela,515
+Loporzano,514
+Alcóntar,514
+Robres,514
+Enix,514
+Villalba del Rey,513
+Villaverde de Medina,513
+Macharaviaya,513
+Albares,513
+Ribeira de Piquín,513
+Fuentenovilla,513
+Mazaleón,511
+Guisando,510
+Ojós,510
+Castejón de Monegros,510
+Prádena,510
+Nulles,509
+Garbayuela,509
+Trucios-Turtzioz,509
+Cuzcurrita de Río Tirón,509
+Valle de las Navas,509
+Ontiñena,508
+Ituren,507
+Sant Joanet,507
+Bernedo,507
+Santiago de Alcántara,507
+Peraleda del Zaucejo,507
+Murla,507
+Villastar,507
+Mozárbez,507
+Geria,506
+Brea de Tajo,506
+San Xoán de Río,506
+Alatoz,506
+Carbajales de Alba,506
+Losa del Obispo,505
+Masllorenç,505
+Alesanco,504
+Pira,503
+La Puebla de Arganzón,502
+Pitillas,502
+Rabanales,501
+Sena,501
+Otsagabia,501
+Higueruelas,501
+Aldeanueva de Barbarroya,501
+Toral de los Guzmanes,501
+Santa Colomba de Somoza,501
+L'Albiol,500
+Almedina,500
+Pedrosa de Duero,500
+Cervera de los Montes,499
+Mengabril,498
+Valverde de Alcalá,498
+Sant Joan de Mollet,498
+El Valle Altu de Peñamellera,498
+Garínoain,498
+Chiprana,497
+Benimantell,497
+Nacimiento,496
+Cabañas de Ebro,496
+Horcajo de las Torres,496
+Vara de Rey,496
+Val de San Lorenzo,496
+Aldearrubia,495
+Fariza,495
+Carcelén,495
+Escalona del Prado,495
+Gabiria,495
+Villanueva de las Manzanas,494
+Pontedeva,494
+Rodonyà,494
+Anguiano,494
+Urdiales del Páramo,494
+Crespos,493
+l'Alqueria d'Asnar,493
+El Masroig,492
+San Vitero,492
+Quintana Redonda,492
+Els Plans de Sió,491
+Algar de Palancia,491
+Cevico de la Torre,490
+Botorrita,490
+Fuentenava de Jábaga,489
+Herrera de los Navarros,489
+Villabáñez,489
+Cespedosa de Tormes,488
+El Pont d'Armentera,488
+Sant Ramon,487
+Plasenzuela,487
+La Horcajada,486
+Sanzoles,486
+Cardenete,486
+Huécija,486
+Errigoiti,486
+Zarzuela del Monte,485
+Villahermosa del Río,484
+Torre de Don Miguel,484
+Montoliu de Lleida,483
+Valle de Santibáñez,483
+Lújar,483
+Serrato,482
+Benuza,482
+Alfambra,482
+Villaescusa de Haro,481
+Anue,481
+Culla,481
+Valle de Losa,481
+Riudaura,481
+Bohonal de Ibor,481
+Zirauki,480
+Langa,480
+Villafrechós,480
+Puebla del Prior,480
+Gaianes,479
+Ikaztegieta,479
+Ferreras de Abajo,479
+Fresno de la Vega,479
+La Parrilla,479
+Pozaldez,478
+Villa del Campo,478
+Badarán,477
+Ledrada,477
+San Pedro de Latarce,476
+Santa María de la Isla,476
+Tariego de Cerrato,476
+Aldeaquemada,476
+Alamillo,476
+Santa Ana la Real,475
+Hinojosa del Valle,475
+Sotillo de la Ribera,475
+Fogars de Montclús,475
+Cuevas del Valle,475
+Garcillán,474
+San Pedro del Romeral,474
+Larva,474
+Cabezarrubias del Puerto,473
+Munitibar-Arbatzegi Gerrikaitz,473
+Santa Colomba de Curueño,473
+Aduna,472
+Elo,472
+Chandrexa de Queixa,472
+Alicún de Ortega,471
+Robleda,471
+Barberà de la Conca,471
+Salobre,470
+Villafáfila,469
+Caravia,469
+Pozuelo,469
+Chera,469
+Montmajor,469
+Villalar de los Comuneros,468
+Pomar de Valdivia,467
+San Rafael del Río,466
+Fuentes de Valdepero,466
+Gallegos del Río,466
+Valverde de la Vera,465
+Manganeses de la Lampreana,465
+Castrogonzalo,465
+Bernardos,465
+Osa de la Vega,465
+Terrer,464
+Borredà,464
+Ajangiz,464
+Buenache de Alarcón,463
+Maià de Montcal,463
+Berantevilla,463
+Calzadilla,463
+Esponellà,463
+Valbuena de Duero,462
+Alcubillas,461
+Santa Fe de Mondújar,461
+Altzo,460
+Velilla de Cinca,460
+Samboal,460
+Beniflá,460
+Moriscos,459
+Destriana,459
+Aguilar del Río Alhama,459
+San Juan de la Nava,459
+Riaño,458
+Viladamat,458
+Saelices,458
+Alió,458
+Fuentes,458
+Poyales del Hoyo,458
+Cañamares,457
+Almuniente,457
+Valle de Valdebezana,456
+Jaraicejo,456
+Santibáñez de Béjar,456
+Forcall,456
+Guadasséquies,456
+Villaluenga del Rosario,455
+Murtas,455
+Boca de Huérgano,455
+Pozuelo de Zarzón,454
+Titaguas,454
+La Tallada d'Empordà,454
+Torrecilla en Cameros,453
+Yebra,453
+Andavías,452
+Arredondo,452
+Madridanos,452
+La Puebla de Valverde,451
+Garrigàs,451
+Villanúa,451
+Vinaixa,450
+Orihuela del Tremedal,450
+Ger,449
+Alfauir,449
+Santa Eulalia de Oscos,449
+Cimanes de la Vega,449
+Arnedillo,448
+Barruecopardo,448
+Bielsa,448
+Vezdemarbán,448
+Palol de Revardit,448
+Instinción,448
+Canencia,447
+Torrijo del Campo,447
+La Zaida,447
+Mediana de Aragón,447
+Castellfollit del Boix,447
+Santa María del Tiétar,447
+Ferreruela,446
+Carrocera,446
+Benarrabá,446
+Machacón,446
+Valderrey,446
+Peñarroya de Tastavins,446
+Benatae,445
+Cañizal,445
+Colera,445
+Los Rábanos,445
+Fuentes Claras,445
+Llardecans,444
+Villalba de la Sierra,444
+Arnes,444
+Vilaverd,443
+Benigembla,443
+La Fresneda,443
+Maqueda,443
+Somontín,443
+Pesquera de Duero,442
+Ráfol de Salem,442
+Donamaria,442
+Kortezubi,442
+La Ercina,441
+Arroyomolinos de la Vera,441
+Lagunilla,441
+Villanueva de la Sierra,441
+Miranda de Azán,440
+Torrecilla de Alcañiz,439
+La Granjuela,439
+Santervás de la Vega,439
+Cebrones del Río,439
+San Pedro de Ceque,438
+Vegaquemada,438
+Benalauría,438
+Fontanals de Cerdanya,437
+Castell de Castells,437
+Almeida de Sayago,437
+Garcihernández,437
+San Bartolomé de las Abiertas,437
+Retamal de Llerena,436
+Penelles,436
+Campo,436
+Villarroya de la Sierra,435
+Casas de los Pinos,435
+Cardeñosa,435
+Micereces de Tera,435
+Urrea de Jalón,435
+La Pera,435
+Villanueva de Huerva,434
+Milagros,434
+Tórtoles de Esgueva,433
+Canicosa de la Sierra,433
+Les Avellanes i Santa Linya,433
+Ribera d'Ondara,433
+Sotresgudo,432
+Benissoda,432
+Almonacid del Marquesado,432
+El Cubo de Don Sancho,432
+Cañizares,432
+Siete Iglesias de Trabancos,431
+Cisneros,431
+Navarredonda de Gredos,430
+Gomecello,430
+Imotz,430
+Benimeli,429
+Pancorbo,429
+Vilvestre,428
+Arcenillas,428
+Osor,428
+Cedillo,428
+Galinduste,428
+Urrea de Gaén,427
+Megeces,427
+Sagra,426
+Mañeru,426
+Cadalso,426
+Vinebre,425
+Alaraz,425
+Mascaraque,425
+Anguciana,425
+Mendexa,425
+Espinoso del Rey,425
+Carcedo de Burgos,424
+La Iglesuela del Tiétar,424
+Zarzuela del Pinar,424
+Cabañas del Castillo,424
+Porrera,424
+Hernán-Pérez,424
+Zotes del Páramo,423
+Villarta de los Montes,423
+Buenaventura,423
+Pozuelo del Páramo,423
+Ollaran,422
+Otos,422
+Dehesas de Guadix,422
+San Pedro del Arroyo,422
+Navasfrías,422
+Valle de Sedano,421
+Gesalatz,421
+San Tiso D'Abres,421
+Arroba de los Montes,421
+Villalmanzo,420
+Tírig,420
+Venialbo,420
+Soriguera,420
+Caleruega,420
+San Cebrián de Campos,420
+Vilada,419
+Candasnos,419
+Truchas,419
+Villalcampo,419
+Herradón de Pinares,419
+Hormilla,418
+Villarejo de Fuentes,418
+Amusco,418
+Preixens,418
+Salem,418
+Tornadizos de Ávila,418
+Larouco,417
+Bronchales,417
+el Camp de Mirra,417
+Bolulla,417
+Cabreros del Río,417
+Jarque de Moncayo,417
+Vespella de Gaià,417
+Zambrana,416
+Amoroto,416
+Miedes de Aragón,415
+Vilanova de Meià,415
+Posada de Valdeón,415
+Aldeanueva de San Bartolomé,414
+Berzocana,414
+Padules,414
+Marchal,414
+Alt Àneu,414
+Tardelcuende,414
+La Sentiu de Sió,414
+Villares del Saz,414
+Los Cerralbos,414
+Arratzu,413
+Merindad de Valdeporres,412
+Espolla,412
+Iturmendi,411
+Tordehumos,411
+Serrejón,410
+Conca de Dalt,410
+Albuñán,409
+Sot de Ferrer,409
+Cubillas de Rueda,409
+Buendía,408
+Pozo-Lorente,408
+L'Estany,408
+Arantzazu,408
+Martín de Yeltes,407
+Arlanzón,407
+Valdelosa,406
+Alfafara,406
+Gátova,405
+Povedilla,405
+Íllar,405
+Morga,405
+Perafita,405
+Monflorite-Lascasas,405
+Almadenejos,405
+Algerri,404
+Ziortza-Bolibar,404
+Hinojal,404
+Castañares de Rioja,404
+Abertura,404
+Valcabado,404
+Sanlúcar de Guadiana,403
+Izaba,403
+Cea,403
+Montferri,403
+Chimillas,402
+Gualta,402
+Torrebaja,402
+La Iglesuela del Cid,402
+Mombuey,401
+Huélago,401
+Almaraz de Duero,401
+Casares de las Hurdes,400
+Cinctorres,400
+Mohedas de la Jara,400
+Torrelobatón,400
+Torres del Carrizal,400
+Villamiel,400
+El Cerro,399
+Los Marines,399
+Villardeciervos,399
+Torre-serona,398
+Ulldemolins,398
+Vilallonga de Ter,398
+Villazanzo de Valderaduey,397
+El Ballestero,396
+Argelaguer,396
+Cañaveral de León,396
+Palomero,396
+Merindad de Sotoscueva,396
+Benimarfull,396
+El Grado,395
+Juncosa,395
+Ibdes,395
+Robleda-Cervantes,395
+Monegrillo,394
+Líjar,394
+Pareja,393
+Montesclaros,393
+Genalguacil,393
+Almodóvar del Pinar,393
+La Vecilla,393
+Capçanes,392
+Olaibar,392
+Parlavà,391
+Villarrodrigo,391
+Vencillón,390
+Manzaneque,390
+Villarrín de Campos,390
+Brunyola i Sant Martí Sapresa,389
+Palacios de Goda,389
+San Martín de Unx,389
+Santa María del Berrocal,388
+Navalvillar de Ibor,388
+Barbadillo,388
+Preixana,387
+Los Tojos,387
+Barrado,387
+Martín del Río,387
+Villanueva de las Cruces,387
+Jafre,387
+Navas de Riofrío,386
+Ansó,386
+Urroz-Villa,386
+Vilanant,386
+Leaburu,386
+Atienza,385
+Miranda del Castañar,385
+Sacramenia,385
+Kuartango,385
+Árchez,385
+Freginals,385
+Peñausende,384
+Villanueva de Sigena,384
+Sellent,384
+Beade,384
+Gorafe,383
+Palacios de la Valduerna,383
+Osera de Ebro,383
+Paradinas de San Juan,383
+Rubite,382
+Villarejo-Periesteban,382
+Viguera,382
+Blancafort,382
+Miera,381
+Rioseco de Tapia,381
+Casaseca de las Chanas,381
+Hinojosa de San Vicente,381
+Fayón,380
+Mendata,380
+Merindad de Valdivielso,380
+Pobladura de Pelayo García,379
+Sierro,379
+Sanaüja,379
+Ituero y Lama,379
+Jimera de Líbar,379
+El Frasno,379
+La Almarcha,378
+Guijo de Santa Bárbara,378
+Cáñar,377
+Garganta de los Montes,377
+La Puebla de Castro,377
+San Felices de los Gallegos,377
+Vilamacolum,377
+Robledo,376
+Alfara de Carles,376
+Villasbuenas de Gata,376
+Cumbres de San Bartolomé,376
+Ballesteros de Calatrava,376
+Gargantilla,376
+Fuentes de Ropel,376
+San Martín de Oscos,376
+Fresno de la Ribera,375
+Quintana y Congosto,375
+Villar de Cañas,375
+Bolvir,375
+Betelu,374
+Tricio,374
+Mingorría,373
+Hinojares,373
+Puerto de Béjar,373
+El Rourell,372
+Ciguñuela,371
+Bejís,371
+Murias de Paredes,371
+Villamor de los Escuderos,371
+Alkiza,371
+Aldehuela de Jerte,371
+Cabrillas,371
+Muñana,371
+Portaje,370
+Castronuevo de Esgueva,370
+Ergoiena,370
+Gea de Albarracín,370
+Malón,369
+Pórtugos,368
+Santa Llogaia d'Àlguema,368
+Santibáñez de Tera,368
+Hoyos del Espino,368
+Montán,368
+Villalba de los Alcores,368
+Celadas,367
+Magaz de Cepeda,367
+Santa Fe del Penedès,367
+Lucillo,367
+Conquista,366
+Galilea,366
+Melgar de Tera,366
+Sena de Luna,366
+Espot,366
+Farlete,366
+La Garganta,365
+Paterna del Río,365
+Antigüedad,365
+Gordoncillo,365
+Terque,365
+Luciana,364
+Rollán,364
+Alfarnatejo,364
+Montejo de la Sierra,364
+Munébrega,363
+Valle de Matamoros,363
+Alcubierre,362
+Sot de Chera,362
+Las Quintanillas,362
+Ordis,361
+Santibáñez el Alto,361
+Galisancho,361
+Pueyo,361
+L'Albagés,361
+Capella,360
+El Gordo,360
+Robledillo de Trujillo,360
+Bakaiku,360
+Quintanilla del Agua y Tordueles,360
+Gumiel de Mercado,359
+Collsuspina,359
+Los Pozuelos de Calatrava,359
+Aras de los Olmos,359
+Morcillo,358
+Sarroca de Lleida,358
+Manzanal de Arriba,358
+La Antigua,358
+Villanueva de Azoague,358
+Graja de Iniesta,358
+Aranzueque,358
+San Vicente de la Cabeza,357
+Malcocinado,356
+Urdax,356
+Odieta,355
+Totanés,355
+Calles,355
+Berlanga del Bierzo,354
+Muga de Sayago,353
+Rábano de Aliste,353
+Quintana del Marco,353
+Angüés,353
+Cardiel de los Montes,352
+El Guijo,352
+Belinchón,352
+Cabrejas del Pinar,352
+Montseny,351
+Torrejoncillo del Rey,351
+Ziordia,350
+Santa Ana de Pusa,350
+Urrácal,350
+Vall de Cardós,350
+Buenavista,350
+Mota del Marqués,349
+Driebes,348
+Rosinos de la Requejada,348
+Valdelacasa de Tajo,348
+Valsequillo,348
+Casas de Lázaro,348
+Ferreras de Arriba,348
+Sojuela,347
+Peramola,347
+Elantxobe,347
+Zarra,346
+Olmeda de las Fuentes,346
+Llavorsí,346
+Pedrosillo de los Aires,346
+San Esteban de la Sierra,345
+Domingo Pérez,345
+Casillas de Coria,345
+San Roque de Riomiera,345
+Mieres,345
+Sant Aniol de Finestres,345
+San Morales,345
+Vadocondes,345
+Villaviudas,345
+Lastras de Cuéllar,344
+Castrejón de la Peña,344
+San Miguel del Pino,344
+Cármenes,344
+Sestrica,344
+Puebla de Almenara,344
+Peñaparda,344
+Sunyer,343
+Villoldo,343
+Arabayona de Mógica,343
+Oliete,343
+Navas de San Antonio,343
+Lagunilla del Jubera,343
+Cabezamesada,343
+El Campillo de la Jara,342
+Jorquera,342
+Letux,342
+Sant Martí Sesgueioles,342
+Fuente la Lancha,342
+Erla,341
+Tudelilla,341
+Ojos Negros,341
+Pedraza,340
+Aberin,340
+Cabezabellosa,340
+Tordillos,340
+Fuenterrebollo,340
+Orbaneja Riopico,339
+Corduente,339
+Hontoba,339
+Viloria,339
+Navalmoral,338
+Villamayor de Campos,338
+Valjunquera,338
+Cubells,338
+Antzin,338
+Parrillas,338
+Murieta,338
+Terrades,338
+La Palma d'Ebre,338
+Higuera de Llerena,337
+Brazuelo,337
+San Pedro de la Nave-Almendra,337
+Almegíjar,337
+Cosuenda,337
+Valdecarros,337
+Mansilla Mayor,337
+Figueruela de Arriba,336
+Abadía,336
+Molló,336
+Tahal,336
+La Horra,335
+Lupiñén-Ortilla,335
+La Colilla,335
+Villaornate y Castro,334
+Moreruela de los Infanzones,334
+Tordómar,334
+Regumiel de la Sierra,334
+Palaciosrubios,333
+Cotes,333
+Peñascosa,333
+Eilao,333
+Lentegí,333
+Baños de Valdearados,333
+Vistabella del Maestrat,333
+Trabadelo,333
+Villel,333
+Villaconejos de Trabaque,332
+Pereña de la Ribera,332
+Monroyo,332
+El Soleràs,332
+Prioro,332
+Ivars de Noguera,332
+Villota del Páramo,332
+Santa Cruz del Valle,332
+Alcalá de la Selva,331
+Fiscal,331
+Cerdà,331
+Villaseco de los Reyes,331
+Pueyo de Santa Cruz,331
+Baix Pallars,331
+Millares,331
+Guarrate,331
+Sukarrieta,331
+Hinojales,330
+Herreruela,330
+Husillos,330
+Bilar ,330
+Herce,330
+Santiago Millas,330
+Valle de Valdelucio,330
+Viveros,329
+Paterna del Madera,329
+La Fregeneda,329
+Figuerola del Camp,329
+Las Berlanas,329
+L'Espluga Calba,329
+Cubillas de Santa Marta,329
+Beas de Guadix,329
+Vianos,329
+Villaverde y Pasaconsol,328
+Villarejo del Valle,328
+Cabrero,328
+Alcocer,328
+Dúdar,327
+Dos Aguas,327
+Berbegal,327
+Salàs de Pallars,327
+Alcolea del Pinar,327
+Estellencs,327
+Villoslada de Cameros,327
+Herreruela de Oropesa,327
+Muñogalindo,326
+Aliaga,326
+Santa Cruz de la Sierra,326
+Villademor de la Vega,325
+Medrano,325
+Garai,325
+Valdeprado del Río,325
+Villaverde de Guadalimar,325
+Calzada de los Molinos,324
+El Payo,324
+Loarre,323
+Valcarlos,323
+Canal de Berdún,323
+La Granja,323
+Almendral de la Cañada,323
+Vera de Moncayo,322
+La Herrera,322
+Tavèrnoles,322
+Codorniz,322
+El Cubo de Tierra del Vino,322
+Orís,322
+Valdastillas,321
+Vega de Tera,321
+Navahondilla,321
+Copons,321
+Morés,321
+Tabuenca,321
+Salillas de Jalón,321
+Poboleda,321
+Alàs i Cerc,320
+Valdefuentes del Páramo,319
+Faramontanos de Tábara,319
+Peñarrubia,319
+Los Balbases,319
+Juià,319
+La Codoñera,319
+Moros,319
+Murueta,319
+Tormos,318
+San Miguel de Valero,318
+Castromonte,318
+Abaltzisketa,318
+Salinas de Pisuerga,318
+Tagamanent,318
+Igúzquiza,318
+Piña de Esgueva,318
+Castillonroy,318
+La Pobla de Massaluca,317
+Urraul Bajo,317
+Navales,317
+Ocón,317
+Cornago,317
+Pampaneira,317
+La Pernía,316
+Santa Cruz de Paniagua,316
+Mahide,316
+Santa María de Ordás,315
+Otero,315
+Sangarcía,315
+A Teixeira,315
+Samaniego,315
+Martiherrero,314
+Solana del Pino,314
+Ezkaroze,314
+Aisa,313
+Muñopedro,313
+La Hiniesta,313
+Enguídanos,313
+Rueda de Jalón,312
+Vilanova de Sau,312
+Fuentelencina,312
+Castejón del Puente,312
+Encinillas,312
+Bayárcal,312
+Cabezarados,312
+Alquézar,312
+Corral-Rubio,311
+Lugros,310
+Zarza-Capilla,310
+Banastás,310
+Palau-sator,310
+Azuébar,310
+Wamba,310
+Santiago de la Puebla,309
+Gargantilla del Lozoya y Pinilla de Buitrago,309
+Cantallops,309
+Borrenes,309
+Pozorrubio de Santiago,308
+Plasencia de Jalón,308
+Arén,308
+Castielfabib,308
+Pujerra,308
+Andilla,308
+Olivares de Júcar,308
+Valdepiélago,307
+Los Barrios de Luna,307
+San Román de Hornija,307
+Pajares de la Lampreana,306
+Salas Altas,306
+Arauzo de Miel,306
+Boada,306
+Almatret,305
+Salvacañete,305
+Moreruela de Tábara,305
+Pelahustán,304
+Tendilla,304
+Puerto de Santa Cruz,304
+Remondo,304
+Planoles,304
+Buenavista de Valdavia,304
+Lubián,304
+Benegiles,304
+Trigueros del Valle,304
+Burón,303
+Sahún,303
+Berrocal,303
+Foixà,303
+Santa María del Cubillo,303
+Rágol,303
+Hernialde,303
+Hontalbilla,303
+Gotor,302
+Tarazona de Guareña,302
+Cabacés,302
+Zubieta,302
+Valero,302
+Peñaflor de Hornija,302
+Albiztur,302
+Pedrosa de la Vega,301
+Ferreira,301
+Mata de Alcántara,301
+Zabaltza,301
+Sobrado,301
+Armuña de Almanzora,300
+Cidones,300
+Peraleda de San Román,300
+Cubillos,300
+Villagarcía de Campos,300
+Navalosa,300
+Cortes de Arenoso,300
+Calzadilla de Tera,299
+Bellús,299
+Cortelazor,299
+Santa Marta de Magasca,299
+Salvatierra de Santiago,298
+Pampliega,298
+Alcalá del Obispo,298
+Chercos,298
+Talaveruela de la Vera,298
+Torla-Ordesa,298
+Mariana,298
+La Aldea del Obispo,298
+Bubión,298
+Alfés,297
+Luesia,297
+Valdorros,297
+Longida,297
+Laspuña,297
+Santa Croya de Tera,297
+Oliva de Plasencia,296
+Olivares de Duero,296
+Escarabajosa de Cabezas,296
+Flores de Ávila,295
+Basconcillos del Tozo,295
+Liédena,295
+Villamandos,295
+Anchuras,295
+Pesaguero,295
+la Granja de la Costera,295
+Atalaya,294
+Mañueta,294
+Lizoainibar-Arriasgoiti,294
+Gómara,294
+Robledollano,294
+Villalengua,293
+Vegas de Matute,293
+Cepeda,293
+Santa María de la Vega,293
+Navas de Estena,293
+Balboa,292
+Bobadilla del Campo,292
+Eneritz,292
+Fuensanta,291
+Merindad de Cuesta-Urria,291
+Mendaza,291
+Bañobárez,291
+Villanueva de San Carlos,291
+El Molar,291
+Moraleja de Sayago,291
+Azután,290
+San Miguel de la Ribera,290
+Pozoamargo,290
+Alberuela de Tubo,290
+Albentosa,289
+La Guingueta d'Àneu,289
+Pobladura del Valle,289
+Ayoó de Vidriales,289
+Bolaños de Campos,289
+Senés,289
+Hita,288
+Peleas de Abajo,288
+Madremanya,288
+Huerta,288
+Masarac,288
+Chóvar,288
+Almenara de Tormes,287
+Mandayona,287
+Isar,287
+Bellaguarda,287
+Beire,287
+San Mamés de Burgos,287
+Tiedra,287
+Villahoz,287
+El Madroño,287
+Abejar,286
+Pinós,286
+Ollauri,286
+Nuévalos,285
+Villafranca del Campo,285
+Báguena,285
+Masueco,285
+Bustillo de la Vega,285
+Checa,285
+Yesa,285
+Navafría,285
+Sotés,284
+Navès,284
+El Pego,284
+Martín Muñoz de las Posadas,284
+Las Veguillas,283
+Areso,283
+Metauten,283
+Matamala de Almazán,283
+Casas de Don Gómez,283
+Alcollarín,282
+Pozuelo de Aragón,282
+Cistella,282
+Fuentespalda,282
+Quintana del Puente,282
+Quicena,282
+Jaraba,282
+Bárboles,282
+Aguilar de Segarra,282
+Eulate,282
+Hoyocasero,281
+San Pedro de Rozados,281
+Isòvol,281
+Valdeltormo,281
+Fuentespreadas,280
+Lantadilla,280
+Fresno de Cantespino,280
+La Masó,280
+Saucelle,280
+Valverdón,280
+Tébar,279
+La Lapa,279
+Aldea Real,279
+Joarilla de las Matas,279
+Busquístar,279
+Talavera,279
+Cabeza del Caballo,279
+Peranzanes,279
+Tresjuncos,278
+Saldes,278
+Algadefe,278
+Puiggròs,278
+Els Guiamets,278
+Arándiga,278
+Puerto Moral,278
+Regueras de Arriba,277
+El Hornillo,277
+Regencós,276
+Morata de Jiloca,276
+Torrecilla de la Abadesa,276
+Maleján,276
+Lluçà,276
+Peleagonzalo,276
+Santurde de Rioja,275
+Peguerinos,275
+Casbas de Huesca,275
+Sebúlcor,274
+Valle de Villaverde,274
+Eskuernaga,274
+Poza de la Sal,274
+Ullastret,274
+Zarratón,274
+Anievas,274
+Herguijuela,274
+Alcañizo,274
+Santo Domingo de Silos,273
+Villanueva de Gumiel,273
+Santo Adriano,273
+Sotragero,273
+Rupià,273
+Padiernos,273
+Aldehuela de la Bóveda,273
+Plan,273
+Valverde de Burguillos,273
+Fanzara,273
+Bellmunt del Priorat,273
+Villarreal de Huerva,273
+Boadella i les Escaules,272
+Malla,272
+Villanueva de Oscos,272
+Nueva Villa de las Torres,272
+El Royo,272
+Alins,272
+Castroverde de Campos,272
+Granja de Moreruela,271
+San Pedro de Gaíllos,271
+Guimerà,271
+Villaflores,271
+Rupit i Pruit,271
+Lles de Cerdanya,270
+Oencia,270
+Fuenterroble de Salvatierra,270
+Redueña,270
+Zerain,270
+Iekora,270
+San Martín de la Virgen de Moncayo,270
+Sierra de Luna,270
+Villanázar,270
+Valdenuño Fernández,269
+Clavijo,269
+Penàguila,269
+Lamasón,269
+Mogarraz,268
+Fuentelespino de Haro,268
+Torrebesses,267
+Villafranca de Duero,267
+Las Omañas,267
+Vegacervera,267
+Cabanelles,267
+Marganell,266
+Mazuecos,266
+Zarza de Tajo,266
+Baterno,266
+Cervatos de la Cueza,265
+Sant Llorenç de la Muga,265
+Naval,265
+Almiserà,265
+Esguevillas de Esgueva,265
+Cantagallo,265
+Moyuela,265
+Belver de los Montes,265
+Gallegos de Argañán,264
+Villasur de Herreros,264
+Villar de Ciervo,264
+Soportújar,264
+Nieva,263
+Martiago,263
+Romangordo,263
+Riner,263
+Polícar,263
+Vall de Almonacid,263
+Montemayor del Río,263
+Alpandeire,263
+Peñacerrada-Urizaharra,262
+Benizalón,262
+Villavieja del Lozoya,262
+Algimia de Almonacid,262
+Artzi,262
+Linares de la Sierra,262
+Fresnedoso de Ibor,262
+Gavet de la Conca,261
+Cipérez,261
+Robledo del Mazo,261
+Confrides,261
+Faraján,261
+Quintanaortuño,261
+Bailo,261
+Alpens,261
+La Mata de los Olmos,261
+Agrón,260
+Villalazán,260
+Santo Tomé del Puerto,260
+Carriches,260
+Santa María de Huerta,260
+Cabañas de Yepes,260
+Rionegro del Puente,260
+Cervera de la Cañada,260
+Asturianos,260
+Higuera de las Dueñas,260
+Pontós,260
+Ereño,260
+Lupiana,259
+Palacios del Pan,259
+Villamesías,259
+Foz-Calanda,258
+Odèn,258
+El Brull,258
+La Nava,258
+Robledillo de la Vera,258
+Abiego,258
+El Bodón,258
+Brañosera,258
+Moral de Sayago,257
+Albalate de las Nogueras,257
+Aldeaseca de la Frontera,257
+San Esteban de Nogales,257
+Torrubia del Campo,257
+Cerecinos de Campos,257
+Cabezas del Villar,257
+Mesones de Isuela,257
+Corera,256
+Santa Ana,256
+El Campo de Peñaranda,256
+Navarrevisca,256
+Larraul,256
+Terrateig,256
+Used,256
+Villasrubias,256
+Bargota,255
+Santa Colomba de las Monjas,255
+Millanes,255
+Heras de Ayuso,255
+Ábalos,255
+Santiurde de Reinosa,255
+Mutiloa,255
+Es Bòrdes,255
+La Coma i la Pedra,255
+Crespià,254
+Santa Cristina de Valmadrigal,254
+Castiliscar,254
+Bardallur,254
+Aguilar de Campos,254
+Torregamones,253
+Mata de Cuéllar,253
+Lanestosa,253
+Fontanarejo,253
+Ambel,253
+Sorihuela,253
+Santiz,253
+Torreiglesias,252
+Morasverdes,252
+Parada de Arriba,252
+Bierge,252
+Izurtza,252
+Fuentelcésped,252
+Sant Martí Vell,251
+Chueca,251
+Florida de Liébana,251
+Torres de Barbués,251
+Serradilla del Arroyo,251
+Jaulín,251
+Quemada,250
+Aldeanueva de Figueroa,250
+Langayo,250
+Aljucén,250
+La Vid y Barrios,250
+Espino de la Orbada,250
+Vadillo de la Guareña,250
+Tragacete,250
+Bacares,250
+Casasola de Arión,250
+Revellinos,249
+Vallcebre,249
+Candín,249
+Codos,248
+San Martín y Mudrián,248
+Ibargoiti,248
+Pedrosa de Río Úrbel,248
+Sarracín,248
+Melgar de Yuso,248
+Villabrázaro,248
+Bovera,248
+Pajares de los Oteros,248
+Turrillas,248
+Torrecilla de la Orden,248
+Grañón,247
+San Juan de Gredos,247
+Barcial del Barco,247
+Las Peñas de Riglos,247
+Cañaveras,247
+Las Rozas de Valdearroyo,247
+Teresa,247
+Frías,247
+Parada de Rubiales,247
+Borobia,246
+Nabarniz,246
+Torrellas,246
+Aldea del Obispo,246
+Villaescusa,246
+Riumors,246
+Gordaliza del Pino,245
+Hontanaya,245
+Alcalá de Ebro,245
+Les Valls d'Aguilar,245
+El Maíllo,245
+Albaladejo del Cuende,245
+Aspariegos,245
+Puente la Reina de Jaca,245
+Guadalaviar,244
+Almedíjar,244
+Beleña,244
+Duesaigües,244
+Herguijuela de la Sierra,244
+Orellana de la Sierra,244
+Fígols i Alinyà,244
+Vallbona de les Monges,243
+La Granada de Río-Tinto,243
+Serranillos,243
+Santa Cilia,243
+Elduain,243
+Cañada Juncosa,243
+Marjaliza,243
+Belauntza,243
+L'Espunyola,242
+Molacillos,242
+Vecinos,242
+Cartajima,242
+Berge,241
+Gorga,241
+Biure,241
+Escurial de la Sierra,241
+Villamoronta,241
+Moralina,241
+El Toro,241
+Bentarique,240
+Herrera de Alcántara,240
+Millena,240
+Ogassa,240
+Alcalá de Gurrea,239
+Rubió,239
+Almendros,239
+Parauta,239
+Alcanó,238
+Cavia,238
+Canalejas de Peñafiel,238
+Lezaun,238
+Alacón,238
+Lladorre,237
+Caseres,237
+Gratallops,237
+Arenzana de Abajo,237
+San Cebrián de Castro,237
+Santiago del Campo,237
+La Portellada,236
+Perales del Alfambra,236
+Sant Ferriol,236
+Beteta,236
+Leiva,236
+Villalobos,235
+Santovenia,235
+Encinas de Arriba,235
+Cástaras,235
+Muruzábal,235
+Las Majadas,234
+Hoyales de Roa,234
+Maranchón,234
+Armuña,234
+Valseca,234
+Das,234
+Becilla de Valderaduey,234
+Mezalocha,233
+Villavicencio de los Caballeros,233
+Benadalid,233
+Olba,233
+Aguilón,233
+Fuentesaúco de Fuentidueña,233
+Las Ventas de San Julián,233
+Villar de Plasencia,233
+Cañada del Hoyo,232
+Sotalbo,232
+Almenar de Soria,232
+Sequeros,232
+El Piñero,232
+Bohoyo,232
+Turón,232
+Torás,232
+Lucena de Jalón,232
+Vinaceite,231
+La Recueja,231
+Isábena,231
+Valdelarco,231
+Navatalgordo,231
+Pedraza de Alba,231
+El Acebrón,231
+San Pedro Bercianos,231
+Encinas de Esgueva,231
+Yecla de Yeltes,230
+Palacios de Sanabria,230
+Almonacid de la Cuba,230
+Velefique,230
+La Torre,230
+La Unión de Campos,230
+Bañares,230
+Tobed,230
+Argujillo,230
+Campo de San Pedro,230
+Sant Julià de Cerdanyola,229
+Sant Miquel de Campmajor,229
+Armuña de Tajuña,229
+Gobernador,229
+Puigverd d'Agramunt,229
+San Millán de la Cogolla,229
+Fuentes de Jiloca,229
+Rabé de las Calzadas,229
+La Baronia de Rialb,229
+Castaño del Robledo,228
+Rodezno,228
+Grajera,228
+Rubí de Bracamonte,228
+Aldeaseca,228
+Cañizo,228
+Villaseco del Pan,228
+Orendain,227
+Maldà,227
+Villagonzalo de Tormes,227
+Sanchotello,227
+Burguete,227
+Martín Muñoz de la Dehesa,227
+Papatrigo,227
+Grajal de Campos,227
+Morille,226
+Prullans,226
+Monleras,226
+Navalacruz,226
+Alcocer de Planes,226
+Caldearenas,226
+Bóveda del Río Almar,225
+Sorzano,225
+Linares de Mora,225
+Espeja,225
+San Martín del Castañar,225
+Castronuevo,225
+Atetz,225
+Tella-Sin,225
+Santa María del Monte de Cea,225
+Ultramort,225
+Leotz,224
+Oseja de Sajambre,224
+el Castell de Guadalest,224
+Armiñón,223
+Matadeón de los Oteros,223
+Biurrun-Olcoz,223
+Serra de Daró,222
+Castromocho,222
+Añón de Moncayo,222
+Molinos,222
+Prats i Sansor,222
+Pedralba de la Pradería,222
+Berzosa del Lozoya,222
+Puente del Congosto,221
+Navalpino,221
+Espinelves,221
+Barillas,221
+Hoz y Costean,221
+Sangarrén,221
+Ortigosa de Cameros,221
+Polaciones,221
+La Yesa,221
+Hermisende,221
+Horcajo Medianero,221
+Castiello de Jaca,221
+Aspa,220
+Carrascalejo,220
+Villavaliente,220
+Bulbuente,220
+Elgorriaga,220
+Mura,220
+Nava de Roa,220
+Huélaga,219
+Veganzones,219
+Beniatjar,219
+Argençola,219
+Azofra,219
+Bello,219
+Viandar de la Vera,219
+Cervera del Llano,218
+la Vall d'Ebo,218
+Valle de Arana,218
+Calzada del Coto,218
+Villalba de la Lampreana,218
+Villanueva de Ávila,217
+Arcos de la Polvorosa,217
+Leintz-Gatzaga,217
+Pinilla de Toro,217
+Zugarramurdi,217
+Fuentecén,217
+Beintza-Labaien,217
+Villar de Peralonso,217
+Villangómez,217
+Bassella,217
+Deza,217
+Bayarque,216
+Navalonguilla,216
+San Muñoz,216
+Valdelacasa,216
+Autilla del Pino,215
+La Estrella,215
+Gema,215
+Rebollar,215
+Negueira de Muñiz,215
+Mesegar de Tajo,215
+Cuenca de Campos,215
+Castroverde de Cerrato,215
+Velayos,214
+Pozán de Vero,214
+Júzcar,214
+Alba de Yeltes,214
+Villas de la Ventosa,213
+Olmillos de Castro,213
+Puértolas,213
+Aldea de San Miguel,213
+Milles de la Polvorosa,213
+Huerto,213
+El Campillo,213
+Rágama,213
+Mazariegos,212
+Campo de Villavidel,212
+Les Llosses,212
+Arrabalde,212
+Tamurejo,212
+Sora,212
+Fuentes de Béjar,212
+Vilamaniscle,212
+Palenzuela,212
+Massoteres,212
+Uclés,212
+Villar de Domingo García,212
+Narros de Matalayegua,212
+Portezuelo,211
+La Bisbal de Falset,211
+Adanero,211
+Burbáguena,211
+Rocafort de Queralt,211
+Leza,211
+Moreda Araba,211
+Erronkari,211
+Martín Miguel,211
+Fuenllana,211
+Castillejo de Martín Viejo,211
+Capdesaso,211
+Cilleruelo de Abajo,210
+Les Piles,210
+Royuela,210
+Poleñino,210
+Endrinal,210
+Ituero de Azaba,210
+Nogueruelas,210
+Albillos,210
+Montanuy,210
+El Pedroso de la Armuña,210
+Peralta de Calasanz,210
+Pujalt,210
+Losacino,210
+Zazuar,210
+Ceinos de Campos,210
+Castejón de Valdejasa,209
+Peraltilla,209
+Talamanca,209
+Caleruela,209
+Unciti,209
+Rapariegos,208
+Ciutadilla,208
+Bretocino,208
+San Justo,208
+Escorca,208
+San Lorenzo de Calatrava,207
+Torrecilla de la Jara,207
+Santa Cruz de Moya,207
+Salvatierra de Esca,207
+Bureta,206
+Cirat,206
+Préjano,206
+Gósol,206
+Els Omellons,206
+Braojos,206
+Viladasens,206
+Carrascal del Obispo,206
+Piña de Campos,206
+El Cabaco,205
+Mancera de Abajo,205
+Santa María de Dulcis,205
+Estercuel,205
+Laspaúles,205
+Arens de Lledó,205
+Montejo,205
+Fresno Alhándiga,205
+Oloritz,204
+Pozoantiguo,204
+Alameda del Valle,204
+Villaherreros,204
+La Vilella Baixa,204
+Vilopriu,204
+Foradada,203
+Corcos,203
+Adrada de Haza,203
+Pinarejo,203
+Ossó de Sió,203
+Odón,203
+Velilla de Ebro,203
+Oliola,203
+Burgi,203
+Marchagaz,203
+Riofrío,203
+Sobradillo,203
+Garciotum,202
+Fortanete,202
+Robliza de Cojos,202
+Villar de Gallimazo,202
+Tornos,202
+Niharra,202
+Arama,202
+Valdemorales,202
+La Pesquera,202
+Valdeavellano de Tera,202
+Alicún,201
+Carataunas,201
+Tardáguila,201
+Beniardá,200
+Alerre,200
+Vilanova de l'Aguda,200
+Mamblas,200
+Villarrabé,199
+Santa Cruz de Marchena,199
+Valdenebro de los Valles,199
+Casas de Reina,199
+Poveda de las Cintas,199
+Fréscano,199
+Estada,199
+la Pobla de Benifassà,199
+Codo,199
+Coomonte,198
+Mieza,198
+Laroya,198
+Mollet de Peralada,198
+Juzbado,198
+Gizaburuaga,197
+Juarros de Voltoya,197
+Villadepera,197
+La Orbada,197
+Roda de Eresma,197
+Ilche,197
+La Ginebrosa,197
+Torrijo de la Cañada,197
+Torralba de Oropesa,197
+Carbajo,197
+Bercial de Zapardiel,197
+Urús,196
+Vallfogona de Ripollès,196
+Bercero,196
+San Juan del Molinillo,196
+Suflí,196
+Guijo de Coria,196
+Villayerno Morquillas,195
+Castrillo de Don Juan,195
+La Selva de Mar,195
+Zamayón,195
+Armenteros,194
+Navaridas,194
+Belmonte de Gracián,194
+Tinajas,194
+Loma de Ucieza,194
+Morón de Almazán,194
+Villaselán,194
+Olmos de Ojeda,194
+Mecerreyes,193
+Pinell de Solsonès,193
+Argente,193
+Valdeolivas,193
+Sieteiglesias de Tormes,193
+Gombrèn,192
+Torre Val de San Pedro,192
+Ladrillar,192
+Soto de Cerrato,192
+Orbaizeta,192
+Almajano,191
+Laluenga,191
+Villar del Humo,191
+Olula de Castro,191
+Garcibuey,191
+Pedret i Marzà,191
+Tortuera,191
+Becedas,191
+Villarrubio,191
+Collado de la Vera,191
+Garralda,191
+Olmedillo de Roa,191
+Cantaracillo,191
+Murillo de Gállego,191
+Rubena,191
+El Milà,190
+Pinilla del Valle,190
+Forfoleda,190
+Aldehuela de Yeltes,190
+Els Garidells,190
+Briñas,190
+Tierga,190
+La Pobla de Cérvoles,189
+Anaya de Alba,189
+Erustes,189
+Carenas,189
+Valdesamario,189
+Budia,189
+Valdefuentes de Sangusín,189
+Urueña,189
+Pueblica de Valverde,189
+Monreal de Ariza,189
+Llobera,188
+Altarejos,188
+Alcudia de Veo,188
+Queralbs,188
+Santa Cruz de la Serós,188
+Calonge de Segarra,188
+Portell de Morella,188
+Tarroja de Segarra,188
+Pozorrubielos de la Mancha,188
+Casasbuenas,187
+Pitiegua,187
+Montoliu de Segarra,187
+Puebla del Salvador,187
+Torresmenudas,187
+Bugedo,187
+Grávalos,187
+Fresno del Río,186
+Renedo de la Vega,186
+San Martín del Pimpollar,186
+Beuda,186
+Jaurrieta,186
+Valle de Valdelaguna,186
+Retortillo,186
+Leganiel,186
+Prádanos de Ojeda,186
+Colmenar de Montemayor,186
+Corbillos de los Oteros,185
+Benissuera,185
+Zalduondo,185
+Bercianos del Real Camino,185
+Lazagurría,185
+Olmos de Esgueva,185
+Bellmunt d'Urgell,185
+Salas Bajas,185
+Conquista de la Sierra,185
+Barromán,185
+Torres de Albarracín,185
+Málaga del Fresno,185
+Tirgo,185
+Trefacio,185
+Cevico Navero,185
+Ares del Maestrat,184
+Rabós,184
+Villalba de Guardo,184
+Santa Maria de Merlès,184
+Urroz,184
+Acebedo,184
+Los Altos,184
+Fresno de Río Tirón,184
+Presencio,184
+Pinarejos,184
+Casillas de Flores,184
+El Sahugo,183
+Cayuela,183
+Pino del Oro,183
+Gaià,183
+Villasbuenas,183
+Berlangas de Roa,183
+Mohernando,183
+Huerta del Marquesado,183
+Tosos,183
+Abella de la Conca,183
+Santa Cecília de Voltregà,182
+El Valle de Altomira,182
+Biscarrués,182
+Larrodrigo,182
+Ojacastro,182
+Blascomillán,181
+Villamartín de Campos,181
+Segura de Toro,181
+Orea,181
+Gaibiel,181
+Peñarandilla,181
+Quintanilla de Onsoña,181
+Sant Guim de la Plana,181
+Cubo de la Solana,181
+Saldaña de Burgos,180
+Adahuesca,180
+Terriente,180
+Lladurs,180
+Villasandino,180
+Benagéber,180
+Villanueva de los Caballeros,180
+La Hinojosa,180
+Santoyo,180
+Carbellino,179
+Los Barrios de Bureba,179
+Palazuelo de Vedija,179
+Campillo de Aranda,179
+Piñuécar-Gandullas,179
+Castellfort,179
+Alconaba,179
+Villel de Mesa,178
+Lomoviejo,178
+Encinacorba,178
+Altzaga,178
+Kripan,178
+Escariche,178
+Cóbdar,178
+Villarmayor,178
+Gabaldón,178
+Vilamòs,178
+Cihuri,177
+Prat de Comte,177
+Mayalde,177
+Ejulve,177
+Frades de la Sierra,177
+Canalejas del Arroyo,177
+Villavendimio,177
+Albornos,177
+Biosca,177
+Vidrà,177
+Trabanca,177
+El Maderal,177
+Navarredondilla,177
+Alcoleja,177
+Castrejón de Trabancos,177
+Sotillo del Rincón,176
+Fombellida,176
+Vertavillo,176
+Castrillo de la Reina,176
+Castellar del Riu,176
+Villamediana,176
+Almócita,176
+Ucar,176
+Gascones,176
+Muelas de los Caballeros,176
+Villafruela,176
+Poza de la Vega,176
+Monteagudo de las Vicarías,176
+Villaveza del Agua,176
+Sotillo de las Palomas,175
+Santa Eufemia del Barco,175
+Castrillo de Villavega,175
+San Agustín del Pozo,175
+Veciana,175
+Uxue,175
+Torrecilla del Pinar,175
+Hontoria de Valdearados,175
+Abusejo,175
+Rasueros,174
+Villanova,174
+Rugat,174
+Arenillas de Riopisuerga,174
+Colomers,174
+Villar de la Yegua,174
+Madrigalejo del Monte,174
+Navianos de Valverde,174
+Rábano,174
+Royuela de Río Franco,174
+El Vilosell,173
+Salares,173
+Santibáñez de la Sierra,173
+Blecua y Torres,173
+Castell de Mur,173
+Viver i Serrateix,172
+Barjas,172
+Capilla,172
+Pelarrodríguez,172
+Peral de Arlanza,172
+Valbona,172
+Samir de los Caños,172
+Izagaondoa,172
+Torremocha del Campo,172
+Bisaurri,171
+Villalcázar de Sirga,171
+Les Oluges,171
+Siurana,171
+Fuentearmegil,171
+Cabañas de Polendos,171
+Campillo de Ranas,171
+Botija,171
+Montejo de Arévalo,171
+Moradillo de Roa,171
+Romanzado,171
+Valdehúncar,171
+Villarluengo,171
+Setcases,170
+Abia de las Torres,170
+Enciso,170
+Palomar de Arroyos,170
+Fuente el Olmo de Fuentidueña,170
+Azanuy-Alins,170
+Santiago del Collado,170
+Gotarrendura,170
+Casas de Don Antonio,170
+Torrevelilla,170
+San Vicente de Arévalo,170
+Vega de Tirados,170
+Villalube,170
+Pino del Río,170
+Atajate,169
+Vilar de Canes,169
+Torralba de Ribota,169
+Pardines,169
+Pedrosa del Príncipe,169
+Zarzuela,169
+Irañeta,169
+Tubilla del Lago,169
+Toses,168
+Palacios del Arzobispo,168
+Espinosa de Villagonzalo,168
+Aldea en Cabo,168
+Pinilla Trasmonte,168
+Colldejou,168
+Barracas,168
+Navarredonda de la Rinconada,168
+Mara,168
+Valdemanco del Esteras,168
+Cirueña,168
+Mont-ral,168
+Santibáñez de Valcorba,168
+San Millán de los Caballeros,168
+La Carrera,167
+la Torre d'En Besora,167
+Garrigoles,167
+Gallifa,167
+Viñas,167
+Atapuerca,166
+Duruelo,166
+Sant Mori,166
+San Martín de la Vega del Alberche,166
+Hornillos de Eresma,166
+Velascálvaro,165
+Valle de Oca,165
+Escobar de Polendos,165
+Sancti-Spíritus,165
+Arakaldo,165
+Camprovín,165
+Alba,165
+Villamayor de los Montes,165
+Monasterio de Rodilla,165
+Bidaurreta,164
+Ubide,164
+Sepulcro-Hilario,164
+Matilla de Arzón,164
+Torrent,164
+Segart,164
+Gargüera,164
+Benafer,164
+Litago,164
+Mesas de Ibor,163
+Fresneda de Cuéllar,163
+Albalatillo,163
+Casas Bajas,163
+La Maya,163
+Morales de Valverde,163
+Castrillo-Tejeriego,163
+Peralejos de Abajo,163
+Villanueva del Conde,163
+Uterga,163
+Lana,163
+Foradada del Toscar,162
+Renau,162
+La Nou de Berguedà,162
+Villardefrades,162
+Cervera de Buitrago,162
+Lagrán,162
+Zucaina,162
+San Vicente del Palacio,162
+Viñuelas,162
+Castellfollit de Riubregós,162
+Quintanilla de Arriba,162
+Arandilla,162
+la Torre d'en Doménec,162
+Alocén,161
+Roales de Campos,161
+Santa Maria de Besora,161
+Villavaquerín,161
+Perilla de Castro,161
+Matanza,161
+Huérmeces,161
+El Pueyo de Araguás,161
+Clariana de Cardener,161
+Ventosa,161
+Casarejos,161
+Alhóndiga,161
+Castilruiz,161
+Cabezas de Alambre,161
+Izagre,161
+Villarroya de los Pinares,161
+Fresno de Sayago,161
+Cabañes de Esgueva,160
+Valle del Retortillo,160
+la Vall d'Alcalà,160
+la Mata de Morella,160
+Mainar,160
+Bretó,160
+Villar del Cobo,160
+Villaquirán de los Infantes,160
+Galve,160
+Aielo de Rugat,160
+Encinasola de los Comendadores,160
+Sant Andreu Salou,160
+Palomera,160
+Villar de Torre,160
+Collado de Contreras,160
+Santa Engracia del Jubera,160
+Zorita de la Frontera,160
+Fuente el Saúz,159
+Torrescárcela,159
+Cerezo,159
+Piñel de Abajo,159
+Villamartín de Don Sancho,159
+La Morera de Montsant,159
+Los Huertos,159
+Sales de Llierca,159
+Cristóbal,158
+Malaguilla,158
+Vilaür,158
+Pradell de la Teixeta,158
+Acered,158
+Villalba de Rioja,158
+Molinos de Duero,158
+Pedrosa del Rey,158
+El Oso,158
+Barbolla,158
+Santa Clara de Avedillo,158
+Torralba de los Sisones,157
+El Pino de Tormes,157
+Villatoro,157
+Azara,157
+Pinet,157
+Gajates,157
+Villaturde,157
+Goñi,157
+La Mudarra,157
+Porto,156
+Bufali,156
+Estaràs,156
+Quintana del Pidio,156
+Retortillo de Soria,156
+Casla,156
+Alarcón,156
+Castellar de n'Hug,156
+Benasau,156
+Herrera de Valdecañas,156
+Nava de Sotrobal,155
+Cubel,155
+Campillo de Azaba,155
+Passanant i Belltall,155
+Valverde-Enrique,155
+Hernansancho,155
+Albanyà,155
+Labuerda,155
+Biel,155
+Golpejas,155
+Anguita,155
+Lledó,155
+Alustante,155
+Anguix,155
+Palencia de Negrilla,155
+Castrillo de la Valduerna,155
+San Cebrián de Mudá,154
+Entrala,154
+Vallés,154
+Belmontejo,154
+Puebla de Azaba,154
+Castrodeza,154
+Itero de la Vega,154
+Gaztelu,154
+Villafeliche,154
+Sesa,154
+Pozuelo de Tábara,154
+Noviercas,154
+Untzue,154
+Baliarrain,153
+Santa Gadea del Cid,153
+Ayódar,153
+Neila,153
+Melgar de Arriba,153
+Cordovín,153
+Serradilla del Llano,153
+Calzada de Don Diego,153
+La Aldehuela,153
+Toril,153
+Ziritza,153
+Castillazuelo,153
+Horcajo de la Sierra-Aoslos,152
+El Redal,152
+Novales,152
+Peralejos de las Truchas,152
+Lumbreras de Cameros,152
+El Pont de Bar,152
+Lantz,152
+Torroja del Priorat,152
+Adiós,152
+Salduero,152
+Villamol,152
+Gemuño,152
+Alconada,152
+Puebla de Arenoso,152
+Frechilla,152
+Montmaneu,151
+Saelices el Chico,151
+Tapioles,151
+Monterrubio de la Sierra,151
+Narros del Castillo,151
+Congosto de Valdavia,151
+Respenda de la Peña,151
+Sant Pere Sallavinera,151
+Arañuel,151
+Montejo de Tiermes,151
+Granyena de Segarra,151
+Solana de Rioalmar,151
+Cabañas de Sayago,151
+Orpí,151
+El Cogul,151
+Castillejo de Iniesta,151
+Berceo,151
+Otero de Bodas,150
+Reina,150
+Jambrina,150
+San Juan de Plan,150
+San Martín de Rubiales,150
+Treviana,150
+Eratsun,150
+Fuente el Sol,150
+Espeja de San Marcelino,150
+Valdepeñas de la Sierra,149
+La Vansa i Fórnols,149
+Requejo,149
+San Juan del Monte,149
+Marrupe,149
+Arbancón,149
+Ludiente,149
+Añana,149
+Camporredondo,149
+La Torre del Valle,148
+Puerto de San Vicente,148
+Arellano,148
+Villanueva de Alcorón,148
+Bergasa,148
+Santa Cruz de Pinares,148
+San Miguel de Bernuy,148
+Pesoz,148
+La Frontera,148
+Moral de la Reina,148
+Villar de la Encina,148
+Puebla de Yeltes,148
+Cebanico,148
+Formiche Alto,148
+Atea,147
+Espejón,147
+Luelmo,147
+Madrigal del Monte,147
+Orotz-Betelu,147
+Aras,147
+Valdemaluque,147
+Gistaín,147
+Bañón,146
+Cantalojas,146
+Pescueza,146
+Sauquillo de Cabezas,146
+Olmedilla de Alarcón,146
+Beizama,146
+Revenga de Campos,146
+Llimiana,146
+Carrascal del Río,146
+Campillo de Aragón,146
+Fontanilles,146
+Aranda de Moncayo,145
+San Miguel de Aguayo,145
+Sagàs,145
+Arcones,145
+Seira,145
+Roelos de Sayago,145
+Hontoria de la Cantera,145
+Torrella,145
+El Rasillo de Cameros,145
+Fuendetodos,145
+Videmala,144
+Friera de Valverde,144
+Tartanedo,144
+Villaverde de Guareña,144
+Villar del Río,144
+Hacinas,144
+Valdunquillo,144
+Uztarroze,144
+Valderrodrigo,144
+Monterde,143
+Hornillos de Cerrato,143
+Muñoveros,143
+Granyanella,143
+Alcalá de Moncayo,143
+San Cristóbal de Cuéllar,143
+Basardilla,143
+Mantinos,143
+Iglesias,143
+Sinlabajos,143
+Torrelacárcel,143
+Gascueña,143
+Madroñal,142
+Villarta-Quintana,142
+San Pedro del Valle,142
+La Zarza de Pumareda,142
+Garde,142
+Montorio,142
+Quintanas de Gormaz,142
+Alcázar del Rey,142
+Yebra de Basa,142
+Almendra,142
+Todolella,141
+Algodre,141
+Castellonet de la Conquesta,141
+Morales de Campos,141
+Valsalabroso,141
+Peñacaballera,141
+Bayubas de Abajo,141
+Piedras Albas,141
+Maire de Castroponce,141
+Santa Cruz de la Salceda,140
+Barbadillo del Mercado,140
+La Floresta,140
+Campelles,140
+Secastilla,140
+Granyena de les Garrigues,140
+Salmerón,140
+Ribas de Campos,140
+Montclar,139
+Lascuarre,139
+Aldearrodrigo,139
+Senterada,139
+Cerralbo,139
+Noguera de Albarracín,139
+Boniches,139
+Abizanda,139
+Ráfales,139
+Santa Inés,139
+Sotobañado y Priorato,139
+Benafigos,138
+Els Torms,138
+Alcudia de Monteagud,138
+Pajares de Adaja,138
+Griegos,138
+Azlor,138
+Cobos de Cerrato,138
+Montejo de la Vega de la Serrezuela,138
+Castroponce,138
+Agón,138
+Monsagro,138
+Jarilla,138
+Ezkurra,138
+Tamajón,137
+Valpalmas,137
+Cuevas Labradas,137
+Guadramiro,137
+Alarilla,137
+Tenebrón,137
+Báscones de Ojeda,137
+Riocabado,137
+Maderuelo,137
+Urraul Alto,137
+Villasarracino,137
+Escorihuela,136
+Gallocanta,136
+Moya,136
+Paracuellos de la Ribera,136
+Cogeces de Íscar,136
+Villaseco de los Gamitos,136
+Hontanar,136
+Tubilla del Agua,136
+Arguisuelas,136
+Benifato,136
+El Hito,135
+Castejón,135
+San Miguel del Valle,135
+Matabuena,135
+Antillón,135
+Sada,135
+Tudanca,135
+Cubillas de los Oteros,135
+Villamoratiel de las Matas,135
+Juviles,135
+Espinosa de Cerrato,134
+Riodeva,134
+Valdezate,134
+Hormilleja,134
+Albeta,134
+Auñón,134
+Fonzaleche,134
+Autillo de Campos,134
+Castelnou,134
+Tírvia,134
+Henarejos,134
+Yernes y Tameza,133
+Tabanera de Cerrato,133
+Bogajo,133
+Los Ausines,133
+Busto de Bureba,133
+Baraona,133
+Lobras,133
+Camañas,133
+Peñalver,133
+Vallanca,133
+Villa del Rey,133
+La Vilella Alta,133
+Pedro-Rodríguez,133
+El Cañavate,132
+Alòs de Balaguer,132
+Albero Bajo,132
+Risco,132
+Pedrosillo de Alba,132
+Agallas,132
+San Martín del Río,132
+Fresno de la Polvorosa,132
+Guixers,132
+Tulebras,132
+Población de Campos,131
+Visiedo,131
+Migueláñez,131
+Balsa de Ves,131
+Castillo de Garcimuñoz,131
+Olmeda del Rey,131
+Fuentelahiguera de Albatages,131
+Pedrosillo el Ralo,131
+Los Fayos,131
+Salas de Bureba,131
+Fuentenebro,131
+Casas Altas,131
+Luquin,131
+La Torre de Fontaubella,131
+Uña de Quintana,131
+Castellar de la Ribera,131
+Almaluez,130
+Valgañón,130
+Cuevas de Provanco,130
+Castillejo de Mesleón,130
+Lascellas-Ponzano,130
+Brime de Sog,130
+Alfántega,130
+Els Omells de na Gaia,130
+Villalba de los Llanos,129
+Villafranca de la Sierra,129
+San Cebrián de Mazote,129
+Navarredonda y San Mamés,129
+Sajazarra,129
+Herreros de Suso,129
+Vega del Codorno,129
+Horcajo de Montemayor,129
+Cerezo de Arriba,128
+Serón de Nágima,128
+Balones,128
+Orrios,128
+Junta de Traslaloma,128
+Oiz,128
+Javier,128
+Dehesa de Montejo,127
+Arbolí,127
+Adrados,127
+Amavida,127
+Abaurrea Alta,127
+Peque,127
+Alcoroches,127
+Camporrélls,127
+Monteagudo de las Salinas,126
+Valdetórtola,126
+Cañaveruelas,126
+Nabaskoze,126
+Argelita,126
+Cozuelos de Fuentidueña,126
+Diego del Carpio,126
+Hervías,126
+Casas de Miravete,126
+Gusendos de los Oteros,126
+Bonilla de la Sierra,125
+Loscos,125
+Alsodux,125
+Prádena del Rincón,125
+Nuño Gómez,125
+Alfaraz de Sayago,125
+Albendea,125
+Romanos,125
+Yanguas de Eresma,125
+San Román de Cameros,125
+Legarda,125
+Vallecillo,125
+Estamariu,125
+Estubeny,125
+Anaya,125
+Huerta de Arriba,125
+Salmoral,125
+Valdescorriel,125
+Agüero,125
+Blancas,125
+Arguis,125
+Torres del Río,124
+Llocnou de la Corona,124
+Sando,124
+Bermellar,124
+Buenamadre,124
+Collado Hermoso,124
+Allepuz,124
+Éjeme,124
+Fuentes de Rubielos,124
+Rioseco de Soria,124
+Lagartos,124
+Cárdenas,124
+Lituénigo,123
+San Agustín,123
+Torrecilla del Rebollar,123
+Belmonte de San José,123
+Aín,123
+Nava de Francia,123
+Reyero,123
+Santa Cruz de Moncayo,123
+Sant Esteve de la Sarga,122
+Sesué,122
+Caracuel de Calatrava,122
+Valle de Manzanedo,122
+Muriel,122
+Tolva,122
+Langa del Castillo,122
+Lapoblación,122
+Herrín de Campos,122
+Pontils,122
+San Esteban del Molar,122
+Malva,122
+Torregalindo,121
+Boadilla del Camino,121
+Gaintza,121
+Arija,121
+Meneses de Campos,121
+Estopiñán del Castillo,121
+Centenera,121
+Pineda Trasmonte,121
+Manzanal del Barco,121
+Castro de Filabres,120
+Beires,120
+Puebla de Albortón,120
+Manzanal de los Infantes,120
+Fuentidueña,120
+Pertusa,120
+Albero Alto,120
+Olocau del Rey,120
+Villamayor de Monjardín,120
+Mozota,120
+Hueva,120
+La Cueva de Roa,120
+Arquillinos,119
+Granucillo,119
+Navacarros,119
+El Cubillo de Uceda,119
+Belascoáin,119
+Santa Maria de Miralles,119
+Pancrudo,119
+Cernadilla,119
+Villanueva de Campeán,119
+Manjarrés,119
+Curiel de Duero,118
+La Alamedilla,118
+Vega de Valdetronco,118
+Cuevas de Almudén,118
+El Mirón,118
+Quatretondeta,118
+Pardilla,118
+Cotillas,118
+Arcos de las Salinas,118
+Humada,118
+La Serrada,118
+Los Olmos,118
+Sotosalbos,118
+Tormantos,117
+Orexa,117
+Huerta de la Obispalía,117
+Puertomingalvo,117
+Peromingo,117
+Villán de Tordesillas,117
+El Bohodón,117
+Torre del Compte,117
+Aldeanueva de Santa Cruz,117
+L'Argentera,117
+Colungo,117
+Robledillo de Mohernando,117
+Castrillo de la Guareña,117
+Sarroca de Bellera,116
+Saldías,116
+Arano,116
+Salvador de Zapardiel,116
+Mirambel,116
+Cubo de Benavente,116
+Descargamaría,116
+Alarba,116
+Reíllo,116
+Brahojos de Medina,116
+Susinos del Páramo,116
+Gallegos de Hornija,115
+Alcubilla de Nogales,115
+Legaria,115
+Villalbarba,115
+Tejadillos,115
+Celada del Camino,115
+Cardeñuela Riopico,115
+Trasobares,115
+Villanueva de Gómez,115
+Morentin,115
+San Miguel de Serrezuela,115
+Melgar de Abajo,114
+La Figuera,114
+Poveda de la Sierra,114
+Santa Cecilia del Alcor,114
+Sant Martí d'Albars,114
+Villanueva de Argaño,114
+Santiago del Tormes,114
+Moneva,114
+Frumales,114
+Dios le Guarde,114
+Castrotierra de Valmadrigal,114
+Velilla,114
+Villardiegua de la Ribera,114
+Mediana de Voltoya,114
+Corrales de Duero,113
+Aldeanueva del Codonal,113
+Villafranca Montes de Oca,113
+Villar de los Navarros,113
+Olmedo de Camaces,113
+Ameyugo,113
+Martínez,113
+Boadilla de Rioseco,113
+Chalamera,113
+Ahigal de los Aceiteros,113
+Carpio de Azaba,113
+Torralba de Aragón,113
+Santervás de Campos,113
+Villaverde del Monte,112
+San Pablo de la Moraleja,112
+Gallegos de Solmirón,112
+Grijalba,112
+Cordovilla,112
+Maraña,112
+Valmadrid,112
+Hinojosa de Jarque,112
+Espinosa de los Caballeros,112
+Paredes de Escalona,112
+Salobral,112
+Velliza,112
+Zael,112
+Casas de Guijarro,112
+Páramo de Boedo,112
+Membribe de la Sierra,112
+Ciruelas,112
+Espadañedo,111
+Gimileo,111
+Condemios de Arriba,111
+Artazu,111
+Orera,111
+Pías,111
+Campazas,111
+Aragüés del Puerto,111
+Zorita del Maestrazgo,111
+Sargentes de la Lora,111
+Capafonts,111
+Cerecinos del Carrizal,111
+Castrillo de Cabrera,111
+Herramélluri,111
+Encina de San Silvestre,111
+Gallegos del Pan,111
+Torralba,111
+Villaflor,111
+La Zarza,110
+Quintanapalla,110
+Pina de Montalgrao,110
+Montealegre de Campos,110
+Laguna de Contreras,110
+Solana de Ávila,110
+Fuente de Santa Cruz,110
+Villodrigo,110
+Higuera,110
+Olvés,110
+Quintanilla de la Mata,110
+Vicién,110
+Zafra de Záncara,110
+Urones de Castroponce,110
+Castrillo de Duero,109
+Villares de Yeltes,109
+Muñomer del Peco,109
+Aldeanueva de la Sierra,109
+Bercial,109
+Pradosegar,109
+Villaferrueña,109
+Barrachina,109
+Almudaina,109
+Lagata,109
+Galve de Sorbe,109
+Puentedura,109
+Hiendelaencina,109
+Corbalán,109
+Villanueva del Aceral,109
+Jaitz,109
+Barbadillo de Herreros,109
+Villatoya,109
+Orés,109
+Víllora,109
+Candilichera,108
+Sediles,108
+Farrera,108
+El Pobo,108
+Valdemoro-Sierra,108
+Saelices de Mayorga,108
+Ivorra,108
+El Pobo de Dueñas,108
+La Atalaya,108
+Berrueces,108
+Zapardiel de la Ribera,107
+Población de Cerrato,107
+Pozo de Almoguera,107
+Torremocha de Jiloca,107
+Vilanova de Prades,107
+Coruña del Conde,107
+Fageca,107
+Puerto Castilla,107
+Fresnedilla,107
+Camarena de la Sierra,107
+El Losar del Barco,107
+Alborge,107
+Villarmentero de Esgueva,106
+Narros de Saldueña,106
+Fuentesoto,106
+Arruazu,106
+Mironcillo,106
+Xodos,106
+Margalef,106
+Valdecañas de Tajo,106
+Perarrúa,106
+Rebolledo de la Torre,106
+Cobeta,106
+Laguna de Cameros,106
+La Alberguería de Argañán,106
+Pajares de la Laguna,106
+Quintanilla de Urz,106
+Aldeacipreste,106
+Avellanosa de Muñó,106
+Manchones,106
+Villameriel,106
+Brime de Urz,106
+Villardondiego,106
+La Rinconada de la Sierra,105
+Ventosa del Río Almar,105
+Santa María del Arroyo,105
+Tavertet,105
+Eslava,105
+Villeguillo,105
+Constanzana,105
+San Llorente,105
+Bordón,105
+El Lloar,105
+Millana,105
+Pinedas,105
+Alcubilla de Avellaneda,105
+Valdeavellano,105
+Buenache de la Sierra,105
+Santa Cruz de Grío,105
+Hortigüela,105
+Gallegos,105
+Peñalba de Ávila,105
+Santa Eulalia Bajera,105
+Fuentelespino de Moya,104
+Coca de Alba,104
+Chodes,104
+Alfoz de Santa Gadea,104
+La Molsosa,104
+Fresnedoso,104
+Zaorejas,104
+Garvín,104
+Revilla Vallejera,104
+La Vídola,104
+Hontoria de Cerrato,104
+Frías de Albarracín,104
+Valdeande,104
+Mambrilla de Castrejón,104
+La Póveda de Soria,104
+Prado de la Guzpeña,104
+Campillos-Paravientos,104
+Ledanca,104
+Tramacastilla,104
+La Encina,104
+Benifallim,104
+Masegoso,104
+Castelflorite,103
+Josa i Tuixén,103
+Cordovilla la Real,103
+Tabera de Abajo,103
+Barca,103
+Retamoso de la Jara,103
+Benimassot,103
+Renieblas,103
+Tribaldos,103
+Yanguas,103
+Bahabón,103
+Redecilla del Camino,103
+Santurdejo,102
+Rabanera del Pinar,102
+Tarrés,102
+Munilla,102
+Riba de Saelices,102
+Cerezo de Abajo,102
+Fuente Encalada,102
+Amusquillo,102
+Villamalur,102
+Bárcabo,102
+Fulleda,102
+Cinco Olivas,102
+Urueñas,102
+Tejado,101
+Villanueva del Campillo,101
+Santa María del Mercadillo,101
+El Milano,101
+Quintanilla de Trigueros,101
+Castillejo de Robledo,101
+Labajos,101
+Muñopepe,101
+Castillo de Villamalefa,101
+Salmeroncillos,101
+Espronceda,101
+Matillas,101
+Vellisca,100
+La Revilla y Ahedo,100
+Cañizar del Olivar,100
+Aldeavieja de Tormes,100
+Cañada de Calatrava,100
+Villanueva de Aezkoa,100
+Santa María de Sando,100
+Samper del Salz,100
+Fanlo,100
+San Adrián del Valle,100
+Meranges,100
+Ibieca,100
+Revilla del Campo,100
+Libros,100
+Fompedraza,100
+Renera,100
+Villaescusa de Roa,100
+Mahamud,100
+Navalilla,100
+Benillup,100
+Muduex,100
+Piracés,100
+Moratilla de los Meleros,100
+Conesa,100
+Fuentemolinos,100
+Carrascosa de Haro,100
+Matilla de los Caños,100
+Saldeana,99
+Collazos de Boedo,99
+Villanueva de los Infantes,99
+Carrícola,99
+Montalbanejo,99
+Zúñiga,99
+Santa Cruz del Valle Urbión,99
+Cubillo del Campo,99
+Durón,99
+Cisla,98
+Golosalvo,98
+Villahán,98
+Santa Cecilia,98
+Marazoleja,98
+Cotanes del Monte,98
+Pineda de la Sierra,98
+Asín,98
+Atalaya del Cañavate,98
+Tramaced,98
+Cantiveros,98
+Plenas,98
+Castrillo de Onielo,98
+Sansol,97
+El Frago,97
+Gargallo,97
+Quintanilla del Monte,97
+Bernuy-Zapardiel,97
+Santa Eulalia de Gállego,97
+Villaldemiro,97
+Ciruelos de Cervera,97
+Berrocalejo,97
+Bozoó,97
+Atanzón,97
+Baélls,97
+Montornès de Segarra,96
+Caspueñas,96
+Malpartida de Corneja,96
+Blascosancho,96
+Torre la Ribera,96
+Moríñigo,96
+Toga,96
+Talveila,96
+Jasa,96
+Murero,96
+Las Hormazas,96
+Larraona,96
+Barbuñales,96
+Malpartida,96
+Ventosa de la Cuesta,96
+Umbrías,96
+Bobadilla,96
+Torralba del Río,96
+Villalba de Perejil,96
+Henche,96
+Mazuecos de Valdeginate,95
+Argavieso,95
+Cubo de Bureba,95
+La Puebla de Valdavia,95
+Barchín del Hoyo,95
+Casaseca de Campeán,95
+Anento,95
+La Serna,95
+Arcediano,95
+Pedraza de Campos,95
+Robledillo de la Jara,95
+la Serratella,95
+Valdevacas y Guijar,95
+Fuentes de Año,95
+Losacio,95
+Valdunciel,95
+Villadoz,95
+Romanones,95
+Santa María de las Hoyas,94
+Torre de Arcas,94
+La Sagrada,94
+El Tornadizo,94
+Mirueña de los Infanzones,94
+Bijuesca,94
+Alesón,94
+Sartajada,94
+Sardón de los Frailes,94
+Foncea,94
+Layana,94
+Valdenebro,94
+Fuenteliante,94
+Cimballa,94
+Garaioa,94
+Galipentzu,94
+Navacepedilla de Corneja,94
+Galoze,94
+Hornos de Moncalvillo,94
+Castellanos de Zapardiel,94
+Fresneda de la Sierra Tirón,94
+Puente de Montañana,93
+Susqueda,93
+Loscorrales,93
+Castel de Cabra,93
+Brieva,93
+Cabó,93
+Paracuellos,93
+Monleón,93
+San Cristóbal de la Vega,93
+Riu de Cerdanya,93
+Salce,93
+Azaila,93
+Valverde de los Arroyos,93
+Fuentes de Carbajal,93
+Cañas,93
+Camarillas,92
+La Mata de Ledesma,92
+Perales,92
+Navares de Enmedio,92
+Fuentelisendo,92
+Pinarnegrillo,92
+Vega de Villalobos,92
+Pinilla de los Barruecos,92
+Laperdiguera,92
+Abanto,92
+Valdelinares,92
+Piedrahita de Castro,92
+Santa María Rivarredonda,92
+La Cañada de Verich,92
+Blesa,92
+Fuentes Calientes,91
+Piñel de Arriba,91
+Medinilla,91
+San Pelayo de Guareña,91
+Villar de Argañán,91
+Robladillo,91
+Espinosa de Cervera,91
+Matute,91
+Santiuste de Pedraza,91
+Salillas,91
+La Calzada de Béjar,91
+Zapardiel de la Cañada,91
+Villabraz,91
+Casa de Uceda,91
+Santa Coloma,91
+Muñosancho,91
+Llorac,91
+Sopeira,91
+Barcial de la Loma,91
+Graja de Campalbo,91
+Valverde de Campos,91
+Alcalá de la Vega,90
+Robledillo de Gata,90
+Bocigas,90
+Palau de Santa Eulàlia,90
+La Yunta,90
+Montón,90
+El Atazar,90
+La Vid de Ojeda,90
+Nalec,90
+Chillarón del Rey,90
+San Juan del Olmo,90
+Zorraquín,90
+Mezquita de Jarque,89
+Vadillo,89
+Fuentelsaz,89
+Villanuño de Valdavia,89
+Gamones,89
+Sant Agustí de Lluçanès,89
+Horcajuelo de la Sierra,89
+Añover de Tormes,89
+Malanquilla,89
+Villegas,89
+Pedrosa del Páramo,89
+La Vajol,89
+Canejan,89
+Fuentes de Ayódar,89
+Torrechiva,89
+Vega de Ruiponce,89
+Sacecorbo,89
+Tejeda y Segoyuela,89
+Villarroya del Campo,89
+Aldealafuente,88
+Villar de Samaniego,88
+Castejón de Alarba,88
+La Peña,88
+Cedillo de la Torre,88
+La Cerollera,88
+Solanillos del Extremo,88
+Vallclara,88
+Valverdejo,88
+Los Villares de Soria,88
+Cillán,88
+Montalvos,88
+El Arco,88
+Trasmoz,88
+La Serna del Monte,87
+Piedratajada,87
+Miño de Medinaceli,87
+Somosierra,87
+Hontangas,87
+Membrillera,87
+Cervillego de la Cruz,87
+Ausejo de la Sierra,87
+Huélamo,87
+Junta de Villalba de Losa,87
+La Peraleja,87
+Urzainki,87
+Alba de Cerrato,87
+Calahorra de Boedo,87
+Cabredo,87
+Bonansa,87
+Cachorrilla,87
+Estollo,86
+Muñico,86
+Canales de la Sierra,86
+El Tejado,86
+Frandovínez,86
+Las Pedrosas,86
+Crivillén,86
+Barbués,86
+Aldeanueva de Guadalajara,86
+Nava de Béjar,86
+Zamarra,85
+Villalbilla de Gumiel,85
+Palazuelos de la Sierra,85
+Tordesilos,85
+Bidankoze,85
+El Carrascalejo,85
+Valle de Cerrato,85
+La Toba,85
+Condado de Castilnovo,85
+Villafuerte,85
+San Adrián de Juarros,85
+Vidayanes,85
+Alconchel de la Estrella,85
+Casas del Puerto,85
+Rillo,85
+Fuentepiñel,85
+Capolat,84
+Mudá,84
+Marracos,84
+Vegalatrave,84
+La Tala,84
+Donhierro,84
+Arancón,84
+Aveinte,83
+Torre los Negros,83
+Baños de Rioja,83
+Negrilla de Palencia,83
+Berrocal de Salvatierra,83
+Guirguillano,83
+Partido de la Sierra en Tobalina,83
+Nieva de Cameros,83
+Chía,83
+Singra,83
+Matet,83
+Sanchorreja,83
+Villahermosa del Campo,83
+Vita,83
+Peralejos,83
+Torres de Alcanadre,82
+Valtiendas,82
+Valle de Tabladillo,82
+Villerías de Campos,82
+Caballar,82
+Abáigar,82
+Vierlas,82
+Monasterio de Vega,82
+Fuencemillán,82
+Fuentepinilla,82
+Villanueva de San Mancio,82
+Villalgordo del Marquesado,82
+Arsèguel,81
+Bisimbre,81
+Pelayos,81
+La Hoz de la Vieja,81
+San Martín de Valvení,81
+Vallesa de la Guareña,81
+Moncalvillo,81
+Navalperal de Tormes,81
+Cuelgamures,81
+Velilla de Jiloca,81
+Huelves,80
+El Cuervo,80
+Rábanos,80
+Campillo de Dueñas,80
+Ruanes,80
+Padilla de Abajo,80
+Benquerencia,80
+Artieda,80
+Contreras,80
+Soto en Cameros,80
+Becedillas,80
+Ciadoncha,80
+Itero del Castillo,80
+Nestares,80
+Pedroso de Acim,80
+Bustillo del Oro,80
+Santaliestra y San Quílez,80
+Valde-Ucieza,80
+San Juan de la Encinilla,80
+Setiles,80
+Sigüés,79
+Fresno de la Fuente,79
+Hérmedes de Cerrato,79
+Santibáñez de Esgueva,79
+Muriel Viejo,79
+Villanueva de las Peras,79
+Valles de Palenzuela,79
+Quintanilla San García,79
+Pesquera,79
+Castigaleu,79
+Orísoain,79
+Ciria,79
+Padilla de Arriba,79
+Uña,79
+Nava del Barco,79
+Rebollo,79
+Pajarón,79
+Puertas,79
+Bahabón de Esgueva,79
+Cabizuela,79
+Martinamor,79
+Villaciervos,79
+Castejón de las Armas,78
+Dévanos,78
+Milmarcos,78
+La Matilla,78
+Valdearenas,78
+Sobremunt,78
+Cabezabellosa de la Calzada,78
+Cucalón,78
+Badules,78
+Tolbaños,78
+Valdemeca,77
+Coscurita,77
+Tiurana,77
+Vallfogona de Riucorb,77
+Vega de Santa María,77
+Ababuj,77
+Canillas de Abajo,77
+Arauzo de Torre,77
+Solarana,77
+Gúdar,77
+Peracense,77
+Donjimeno,77
+Terradillos de Esgueva,77
+Arcos de la Sierra,77
+Granera,77
+Ojos-Albos,76
+Desojo,76
+Torralba de los Frailes,76
+Ruesca,76
+Sant Sadurní d'Osormort,76
+Arévalo de la Sierra,76
+Támara de Campos,76
+Sanchón de la Ribera,76
+Alconchel de Ariza,76
+Cazurra,76
+Viniegra de Abajo,75
+Beranuy,75
+Guijo de Ávila,75
+Etxarri,75
+Revilla de Collazos,75
+Oco,75
+San García de Ingelmos,75
+Canillas de Esgueva,75
+Villar y Velasco,75
+Campillo de Deleitosa,75
+Peñalén,75
+La Hija de Dios,75
+Gimialcón,75
+Gutierre-Muñoz,75
+Alberite de San Juan,74
+Micieces de Ojeda,74
+Villaco,74
+Villacarralón,74
+Hontanas,74
+Chamartín,74
+Herguijuela del Campo,74
+Yélamos de Arriba,74
+Grisel,74
+Bustares,74
+San Andrés del Congosto,74
+Aldeaseca de Alba,74
+Cubillo,74
+Villaverde-Mogina,74
+Fórnoles,74
+Calomarde,74
+Mirabueno,74
+Villovieco,74
+Ardisa,74
+Quintanavides,74
+Salvatierra de Tormes,74
+Cepeda la Mora,74
+Villalonso,73
+Puebla de la Sierra,73
+Languilla,73
+Tamariz de Campos,73
+Chagarcía Medianero,73
+Velamazán,73
+Argañín,73
+Villárdiga,73
+Valdemora,73
+Pedroso,73
+Valdehijaderos,73
+Calcena,73
+Hoz de Jaca,73
+Casasola,73
+Mues,73
+Aldealengua de Pedraza,73
+Capillas,73
+San Millán de Lara,72
+Villasexmir,72
+Irueste,72
+Vivel del Río Martín,72
+Moronta,72
+Villacid de Campos,72
+Villanueva del Rebollar,72
+Monesma y Cajigar,72
+Úrbel del Castillo,72
+Santa Eufemia del Arroyo,72
+Torrecilla del Monte,72
+Añe,72
+Espartza Zaraitzu,72
+El Pedregal,72
+Narrillos del Álamo,72
+Vallejera de Riofrío,72
+Villoruebo,72
+Corral de Ayllón,72
+Bocos de Duero,72
+Valluércanes,71
+Cueva de Ágreda,71
+Cerezal de Peñahorcada,71
+Cabanabona,71
+Villaveza de Valverde,71
+La Redonda,71
+Villarejo de Montalbán,71
+Monforte de Moyuela,71
+Oncala,71
+Recuerda,71
+Villanueva de Cameros,71
+El Buste,71
+Ochánduri,71
+Muñogrande,70
+El Manzano,70
+Cabezas del Pozo,70
+Aranaratxe,70
+Herguijuela de Ciudad Rodrigo,70
+Zorita de los Canes,70
+Alfoz de Bricia,70
+Borau,70
+Miraveche,70
+Torrepadre,70
+Villasila de Valdavia,70
+Barbalos,70
+Luzón,69
+Valdeprados,69
+Rucandio,69
+El Olivar,69
+Orbita,69
+Mancera de Arriba,69
+Salvadiós,69
+Buitrago,69
+Huesa del Común,69
+Lagueruela,69
+Torrehermosa,69
+Espadilla,69
+Santo Domingo de las Posadas,69
+Arevalillo,69
+Aguilar del Alfambra,69
+Benafarces,69
+Pradillo,69
+Cendejas de Enmedio,68
+Berrocal de Huebra,68
+Santa María del Val,68
+Pavías,68
+La Acebeda,68
+Los Valdecolmenas,68
+Valderrodilla,68
+Ajamil de Cameros,68
+Villanueva de Guadamejud,68
+Tronchón,68
+La Alameda de Gardón,68
+Doñinos de Ledesma,68
+Pitarque,68
+San Torcuato,68
+Valleruela de Pedraza,68
+Fresneña,68
+Sayatón,68
+Triollo,68
+Magaña,68
+Olmeda de Cobeta,67
+Santo Tomé de Zabarcos,67
+Cascante del Río,67
+Tramacastiel,67
+Castell de l'Areny,67
+Melque de Cercos,67
+Rivilla de Barajas,67
+Carrascosa,67
+Castilfalé,67
+Bezas,67
+Galbárruli,67
+Matalebreras,67
+Clarés de Ribota,67
+Neila de San Miguel,67
+Valdelageve,67
+Luzaga,67
+Genevilla,66
+Villasayas,66
+Cabreros del Monte,66
+Gallegos de Altamiros,66
+Lagunaseca,66
+Redecilla del Campo,66
+Bularros,66
+Fuentelmonge,66
+Cereceda de la Sierra,66
+Aguilar de Codés,66
+Vallibona,66
+Ledigos,66
+Algora,66
+Santa Cruz de Yanguas,65
+Manzanares de Rioja,65
+Robregordo,65
+Torre de Esgueva,65
+Salinas del Manzano,65
+Monforte de la Sierra,65
+La Hiruela,65
+Alforque,65
+Valverde de Valdelacasa,65
+Rozalén del Monte,65
+Bustillo de Chaves,65
+Bubierca,65
+Justel,64
+Bellprat,64
+Esterri de Cardós,64
+Canredondo,64
+Torrubia de Soria,64
+Alobras,64
+Ferreruela de Huerva,64
+Santed,64
+Aldealengua de Santa María,64
+Baldellou,64
+Casafranca,64
+Villagómez la Nueva,64
+Valfermoso de Tajuña,64
+Valdemierque,64
+Castejón de Henares,64
+Rojas,63
+Santa María de los Caballeros,63
+Castil de Vela,63
+Fuentecantos,63
+Pajaroncillo,63
+Santa María del Invierno,63
+Pozuel del Campo,63
+Yélamos de Abajo,63
+Valdemorillo de la Sierra,63
+Barbadillo del Pez,63
+Valfarta,63
+La Vilueña,62
+Villafrades de Campos,62
+El Parral,62
+Masegosa,62
+Ródenas,62
+Retuerta,62
+Hurones,62
+Bustillo del Páramo de Carrión,62
+Monsalupe,62
+Jarque de la Val,62
+Lastras del Pozo,62
+Moratinos,62
+Sacañet,62
+Garcirrey,62
+Payo de Ojeda,62
+Retascón,62
+Almazul,62
+Villaconancio,62
+Talamantes,61
+Hoyorredondo,61
+Portilla,61
+Valtorres,61
+Torralba del Pinar,61
+San Román de la Cuba,61
+Calmarza,61
+Villamayor de Treviño,61
+Etayo,61
+Quintanilla del Molar,61
+Villagalijo,61
+Villar del Salz,61
+Villar del Pozo,61
+Val de San Martín,61
+Mengamuñoz,61
+Muro de Aguas,61
+Manquillos,61
+Guaza de Campos,61
+Villa de Ves,61
+Dehesa de Romanos,61
+Abia de la Obispalía,61
+Puebla de San Miguel,61
+Nigüella,61
+Fuentelsaz de Soria,61
+Los Llanos de Tormes,60
+Villalcón,60
+Castrillo de Riopisuerga,60
+Berberana,60
+Prados Redondos,60
+Medranda,60
+Bausen,60
+La Cabeza de Béjar,60
+Sartze,60
+Llano de Olmedo,60
+Gilbuena,60
+Las Aldehuelas,60
+Cortes de Aragón,60
+Campisábalos,60
+Arres,60
+Villanueva de Viver,60
+Fuertescusa,60
+Cubillas de Cerrato,60
+Fombuena,60
+Navalmoral de Béjar,59
+Las Casas del Conde,59
+Abezames,59
+Adradas,59
+Valdecasa,59
+Jabaloyas,59
+Torralbilla,59
+Puerto Seguro,59
+Puebla de Valles,59
+El Recuenco,59
+Argecilla,59
+Hornillos del Camino,59
+Tresviso,59
+Santa María de Valverde,59
+Fuentes de Magaña,59
+Paredes,58
+Chumillas,58
+Benitagla,58
+Las Inviernas,58
+Villaescusa la Sombría,58
+Monterrubio,58
+Alaminos,58
+Navalmoralejo,58
+Pineda de Gigüela,58
+Tajueco,58
+Muriel de la Fuente,58
+Muñotello,58
+Rada de Haro,57
+Bárcena de Campos,57
+Belbimbre,57
+Fontioso,57
+Nebreda,57
+Llano de Bureba,57
+Matarrubia,57
+Undués de Lerda,57
+Riofrío del Llano,57
+El Cardoso de la Sierra,57
+Villalaco,57
+Sorlada,57
+Campolara,57
+Yésero,57
+Mesegar de Corneja,57
+Aguilar de Bureba,57
+Aldeonte,57
+Jurisdicción de San Zadornil,57
+Villaprovedo,56
+Hontecillas,56
+Caltojar,56
+Torlengua,56
+Escamilla,56
+Aldeasoña,56
+Monterrubio de la Demanda,56
+Villaverde de Rioja,56
+Alpanseque,56
+Pastores,56
+Olvena,56
+Baides,56
+Monterde de Albarracín,56
+Aguas Cándidas,56
+Osornillo,56
+Villanueva de la Condesa,56
+Saúca,56
+Castrobol,56
+Mansilla de la Sierra,56
+Valdeolmillos,56
+Orejana,56
+Zafrilla,56
+La Huerce,56
+Fuente el Olmo de Íscar,55
+Algar de Mesa,55
+Barrios de Colina,55
+Riocavado de la Sierra,55
+Las Parras de Castellote,55
+Valdearcos de la Vega,55
+El Castellar,55
+Zarapicos,55
+Población de Arroyo,55
+Ablanque,55
+Cubla,55
+Moscardón,55
+Almadrones,55
+Cerratón de Juarros,55
+Castejón de Tornos,55
+Valdegrudas,55
+Tierzo,55
+Brincones,55
+La Bouza,55
+Honrubia de la Cuesta,55
+Orcajo,55
+Mirafuentes,55
+Mazuela,55
+Majaelrayo,55
+Jirueque,55
+Garaballa,55
+Villalobar de Rioja,55
+Nolay,55
+Torreadrada,55
+Brazacorta,54
+Oquillas,54
+Riberos de la Cueza,54
+Valdefinjas,54
+Montenegro de Cameros,54
+Castromembibre,54
+Manzanillo,54
+Reinoso de Cerrato,54
+Salinillas de Bureba,54
+Vadillo de la Sierra,54
+Gajanejos,54
+Lidón,54
+Armallones,54
+Arauzo de Salce,54
+Viana de Duero,54
+Quintanilla del Coco,54
+El Busto,54
+Huertahernando,54
+Zuñeda,53
+Olmos de Peñafiel,53
+Monreal del Llano,53
+Navares de Ayuso,53
+Savallà del Comtat,53
+Cardeñosa de Volpejera,53
+Aldehorno,53
+Villazopeque,53
+Pozanco,53
+Alcaine,53
+Cañizar,53
+Adalia,53
+Cabolafuente,53
+Prado,53
+San Miguel de Corneja,53
+Santo Domingo de Pirón,53
+Abánades,53
+Bayubas de Arriba,53
+Valle de Zamanzas,53
+Godojos,53
+Viñegra de Moraña,53
+Miedes de Atienza,53
+San Felices,53
+Poyatos,53
+San Pedro Palmiches,53
+Miralrío,53
+Berninches,52
+Alcubilla de las Peñas,52
+Valhermoso de la Fuente,52
+Piqueras,52
+Castilforte,52
+Armañanzas,52
+San Martín de Valderaduey,52
+Aladrén,52
+Cebrecos,52
+Bordalba,52
+Valleruela de Sepúlveda,52
+Escopete,52
+Navamorales,52
+Pozos de Hinojo,52
+Prádanos de Bureba,52
+Tosantos,52
+Villanueva de Jiloca,52
+Sienes,52
+San Miguel del Robledo,52
+Nepas,52
+Laguna del Marquesado,51
+Marañón,51
+Calatañazor,51
+Huérguina,51
+Fuente la Reina,51
+Marcilla de Campos,51
+Santibáñez de Ecla,51
+Cosa,51
+Cabra de Mora,51
+Valle de Lierp,51
+Cabrejas del Campo,51
+Villaeles de Valdavia,51
+Cumbres de Enmedio,51
+Vallat,51
+Navatejares,51
+Fresneda de la Sierra,51
+Aldehuela de Liestos,51
+Carabias,51
+Aria,51
+San Pelayo,50
+Palazuelos de Muñó,50
+Villavellid,50
+Molezuelas de la Carballeda,50
+Pozalmuro,50
+Ucero,50
+Plou,50
+Valderrábano,50
+Abejuela,50
+Bujalaro,50
+Castellanos de Castro,50
+Daroca de Rioja,50
+Villalba de la Loma,50
+Castrillo Mota de Judíos,50
+Albendiego,50
+Ayuela,50
+Masegoso de Tajuña,49
+Barbarin,49
+Pizarral,49
+Olejua,49
+Berrocalejo de Aragona,49
+Bueña,49
+Moraleja de Matacabras,49
+La Quar,49
+Monteagudo del Castillo,49
+Ortigosa de Pestaño,49
+Villar del Ala,49
+Santa Cruz de Boedo,49
+Grisaleña,49
+Tabanera la Luenga,49
+Moral de Hornuez,49
+Madarcos,49
+Lomas,49
+Rubiales,49
+Villamuriel de Campos,49
+Torre de Peñafiel,48
+Puendeluna,48
+Orontze,48
+Higueras,48
+Marazuela,48
+Cihuela,48
+Alcantud,48
+Vistabella,48
+Ventrosa,48
+Barruelo del Valle,48
+Hurtumpascual,48
+Piqueras del Castillo,48
+Villageriz,48
+Piérnigas,48
+Taroda,47
+Ribota,47
+Villacidaler,47
+Santibáñez del Val,47
+Arenillas,47
+Oseja,47
+Tordellego,47
+San Mamés de Campos,47
+Pinilla de Jadraque,47
+Liceras,47
+Arraya de Oca,47
+Prádena de Atienza,47
+Cilleruelo de Arriba,47
+Valbuena de Pisuerga,47
+Fuentelviejo,47
+Castroviejo,47
+Fuentebureba,47
+Narros,46
+Tórtoles,46
+Pozuelo de la Orden,46
+Anquela del Ducado,46
+Tolocirio,46
+Villaquirán de la Puebla,46
+Padrones de Bureba,46
+Lerga,46
+Lechón,46
+Altable,46
+La Gallega,45
+Yelo,45
+Mambrillas de Lara,45
+Famorca,45
+Fuentesecas,45
+Villavelayo,45
+Navaescurial,45
+Cava,45
+Sigeres,45
+Trévago,45
+Abarca de Campos,45
+Villar de Fallaves,44
+Riofrío de Riaza,44
+Villar del Infantado,44
+Villambistia,44
+Senan,44
+Tamarón,44
+El Pozuelo,44
+Fuentestrún,44
+San Bartolomé de Corneja,44
+Encío,44
+Quintanaélez,44
+Robledo de Corpes,44
+Villamiel de la Sierra,44
+Ezprogui,44
+Blacos,44
+Fresno de Rodilla,44
+Herbers,44
+Selas,44
+Taragudo,44
+Vizcaínos,44
+Viana de Jadraque,44
+El Vallecillo,44
+Torremormojón,43
+Fígols,43
+Pozondón,43
+Narrillos del Rebollar,43
+El Sotillo,43
+Forès,43
+Retiendas,43
+Villares de Jadraque,43
+Canillas de Río Tuerto,43
+Ramiro,43
+Puebla de Beleña,43
+Puras,43
+Puebla de Pedraza,43
+Pascualcobo,43
+Torrijas,43
+Monasterio de la Sierra,43
+Saceda-Trasierra,43
+La Cuba,43
+Tobía,43
+Brabos,43
+Pardos,43
+Moraleja de las Panaderas,43
+Barceo,43
+Marzales,43
+Urriés,43
+Valdelcubo,42
+Rebollar,42
+Matilla la Seca,42
+Rillo de Gallo,42
+Berzosilla,42
+Espinosa del Camino,42
+Villores,42
+Pelayos del Arroyo,42
+Tirapu,42
+Canales,42
+San Martín de Boniches,42
+Villanueva del Rebollar de la Sierra,42
+Vallejera,42
+Juarros de Riomoros,42
+Jaramillo de la Fuente,42
+Zarzuela de Jadraque,42
+Huérmeces del Cerro,41
+Polentinos,41
+Leza de Río Leza,41
+Segura de los Baños,41
+Cuevas de San Clemente,41
+Villanueva de Teba,41
+Tremedal de Tormes,41
+Nogal de las Huertas,41
+Cabezón de Valderaduey,41
+Las Cuerlas,41
+Castraz,41
+Encinas,41
+Olea de Boedo,41
+Senés de Alcubierre,40
+Aldeanueva de la Serrezuela,40
+Gallegos de Sobrinos,40
+Vallarta de Bureba,40
+La Sierpe,40
+Valle de Bardají,40
+Berdejo,40
+Valdarachas,40
+Pobladura de Valderaduey,40
+Cabezón de la Sierra,40
+San Esteban de Zapardiel,40
+Arconada,40
+Pálmaces de Jadraque,40
+Carcedo de Bureba,40
+San Andrés del Rey,40
+La Febró,40
+Hortezuela de Océn,40
+Mochales,40
+Rollamienta,40
+Castroserracín,40
+Rubielos de la Cérida,39
+Garganta del Villar,39
+Molinillo,39
+Villaseca de Uceda,39
+Seno,39
+San Bartolomé de Béjar,39
+Jatiel,39
+Ibrillos,39
+Quintanilla del Olmo,39
+Corporales,39
+Iglesiarrubia,39
+Utande,39
+La Mierla,39
+Villarmuerto,39
+Sanchón de la Sagrada,39
+Los Pintanos,39
+Fontihoyuelo,39
+Viloria de Rioja,39
+Poveda,39
+Beamud,39
+Saelices de la Sal,39
+Rueda de la Sierra,39
+San Pascual,39
+Gil García,38
+Miravete de la Sierra,38
+Torrubia del Castillo,38
+Torremocha del Pinar,38
+Peralveche,38
+Vozmediano,38
+Narboneta,38
+Villamuera de la Cueza,38
+Beratón,38
+Miño de San Esteban,38
+Brieva de Cameros,38
+Campillos-Sierra,38
+Santa Olalla de Bureba,37
+Morenilla,37
+Adrada de Pirón,37
+Fresneda de Altarejos,37
+Castro de Fuentidueña,37
+Tormellas,37
+Luesma,37
+Villatuelda,37
+Valdeconcha,37
+Villanueva de Argecilla,37
+Pinilla de los Moros,37
+Puebla de San Medel,37
+Itzaltzu,37
+Olmillos de Muñó,37
+Piedramillera,37
+Castilfrío de la Sierra,37
+La Hoya,37
+Viacamp y Litera,37
+Castildelgado,36
+Amayuelas de Arriba,36
+Cañada Vellida,36
+Fuenferrada,36
+Viniegra de Arriba,36
+Navardún,36
+Torrecilla de la Torre,36
+Gorza,36
+Taravilla,36
+Romanillos de Atienza,36
+Peralejos de Arriba,36
+Gejuelo del Barro,35
+Adobes,35
+Semillas,35
+Embid de Ariza,35
+Bergasillas Bajera,35
+Berceruelo,35
+Villar de Corneja,35
+Membibre de la Hoz,35
+Establés,35
+Hombrados,35
+Muro en Cameros,35
+Embid,35
+Mazarete,35
+Bañuelos de Bureba,35
+Sisamón,35
+Aldealices,35
+Junciana,35
+Tollos,35
+Torrelapaja,35
+La Parra de las Vegas,35
+Torrecilla sobre Alesanco,34
+Josa,34
+Cañamaque,34
+Escobar de Campos,34
+Palanques,34
+Tejada,34
+Terroba,34
+Obón,34
+Cerveruela,34
+San Millán de Yécora,34
+Fuente-Olmedo,34
+Valdegeña,34
+Sequera de Fresno,34
+Zarzosa de Río Pisuerga,34
+Tinieblas de la Sierra,34
+Hoyos del Collado,33
+Navas de Bureba,33
+Toril y Masegoso,33
+Valdehorna,33
+Nafría de Ucero,33
+Cascajares de la Sierra,33
+Cañada de Benatanduz,33
+Iruelos,33
+Reznos,33
+Santa Marta del Cerro,33
+Sordillos,33
+Leatxe,33
+Castrojimeno,33
+Borjabad,33
+Sotodosos,33
+Cobos de Fuentidueña,33
+Pleitas,33
+Cueva del Hierro,32
+Villalán de Campos,32
+Longás,32
+Copernal,32
+Gatón de Campos,32
+Villabasta de Valdavia,32
+Marlín,32
+Las Navas de Jadraque,32
+Berrueco,32
+Aribe,32
+Contamina,32
+Orbara,32
+Almarza de Cameros,32
+Buciegas,32
+La Zoma,32
+Valdecuenca,32
+Fuentecambrón,32
+Alcocero de Mola,32
+Esplegares,32
+Aldehuela de Periáñez,32
+Rabanera,32
+Purujosa,32
+Anadón,32
+Espadaña,32
+Nombrevilla,31
+Abaurrea Baja,31
+Barrio de Muñó,31
+Isuerre,31
+Mota de Altarejos,31
+Castroserna de Abajo,31
+Soliedra,31
+Collado del Mirón,31
+Buberos,31
+Petilla de Aragón,31
+Navadijos,31
+Maicas,31
+Bliecos,31
+Abajas,31
+Jurisdicción de Lara,31
+La Cierva,31
+Mantiel,31
+Castillejo-Sierra,31
+Cillaperlata,31
+La Vid de Bureba,31
+Cubilla,31
+Torrelara,31
+Cascajares de Bureba,30
+Santa Cruz de Nogueras,30
+Villabaruz de Campos,30
+Cilleruelo de San Mamés,30
+Carazo,30
+Portalrubio de Guadamejud,30
+Ujados,30
+Haza,30
+Donvidas,30
+Sempere,30
+Alentisque,30
+Nazar,30
+Galbarros,30
+Rublacedo de Abajo,30
+Sant Jaume de Frontanyà,30
+Gascueña de Bornova,29
+Aldealseñor,29
+Robres del Castillo,29
+Valdevacas de Montejo,29
+Castellar de la Muela,29
+Vizmanos,29
+Torre de las Arcas,29
+Casas de Garcimolina,29
+Ahigal de Villarino,29
+Megina,29
+Bea,29
+Belmonte de Campos,29
+Hinojosa del Campo,29
+Berzosa de Bureba,29
+Jorcas,29
+Somolinos,29
+Anquela del Pedregal,29
+Arenzana de Arriba,29
+Sotillo,28
+Baquerín de Campos,28
+Arahuetes,28
+Roturas,28
+El Ordial,28
+Cerbón,27
+Vileña,27
+Mamolar,27
+Villaespasa,27
+Solera de Gabaldón,27
+La Sequera de Haza,27
+San Lorenzo de Tormes,27
+Torrecuadradilla,27
+San Vicente del Valle,27
+Hoyos de Miguel Muñoz,27
+Villaseca de Arciel,27
+Mianos,27
+Tabanera de Valdavia,26
+Villanueva de Carazo,26
+Tajahuerce,26
+Lobera de Onsella,26
+Azuelo,26
+Gisclareny,26
+Calabazas de Fuentidueña,26
+La Miñosa,26
+Fonfría,26
+Alcohujate,26
+Villarejo,26
+Avellaneda,26
+Pazuengos,26
+Palo,26
+Villaverde de Montejo,26
+Carrias,25
+Valmala,25
+San Salvador,25
+Grandes y San Martín,25
+Castil de Peones,25
+Arrancacepas,25
+Cantabrana,25
+Villaseca de Henares,25
+Domingo García,25
+Montarrón,25
+Cendejas de la Torre,25
+Traíd,25
+Tormón,25
+La Bastida,25
+Manjabálago y Ortigosa de Rioalmar,24
+Riaguas de San Bartolomé,24
+Velilla de la Sierra,24
+Cogollor,24
+Cidamón,24
+Torreblacos,24
+Herrería,24
+Allueva,24
+Suellacabras,24
+Saldón,24
+Almochuel,24
+Palacios de Riopisuerga,24
+Algarra,24
+Bascuñana,23
+Narros del Puerto,23
+Iniéstola,23
+Alconada de Maderuelo,23
+Bascuñana de San Pedro,23
+Valderrebollo,23
+La Bodera,23
+Pozo de Urama,23
+Quintanabureba,23
+Frechilla de Almazán,23
+Aldehuela del Codonal,23
+San Esteban de los Patos,23
+Requena de Campos,22
+Villasdardo,22
+Paredes de Sigüenza,22
+Valsalobre,22
+Castell de Cabres,22
+Tobar,22
+Olmeda de la Cuesta,22
+Villarejo de la Peñuela,22
+Bercimuel,22
+Valhermoso,22
+Villar del Campo,22
+Lanzuela,22
+Valdesotos,22
+Bezares,22
+Terzaga,22
+Almenara de Adaja,22
+San Cristóbal de Boedo,22
+Cirujales del Río,22
+Pinilla del Campo,21
+Rezmondo,21
+Castillo-Albaráñez,21
+Torremocha de Jadraque,21
+Arroyo de las Fraguas,21
+Pomer,21
+Pozuel de Ariza,21
+Navares de las Cuevas,21
+Nogueras,21
+Jalón de Cameros,21
+Cigudosa,21
+Alpeñés,21
+Cilleros de la Bastida,21
+Pajarejos,21
+Veguillas de la Sierra,21
+Aldealcorvo,20
+Fago,20
+Barcones,20
+Aliud,20
+Gormaz,20
+Balconchán,20
+Carrascosa de Abajo,20
+Escobosa de Almazán,20
+Valacloche,20
+Torrubia,20
+Arbeteta,20
+Gallinero de Cameros,20
+Manciles,20
+Fresno de Caracena,20
+Pinillos,19
+Casas de San Galindo,19
+Bádenas,19
+Velilla de los Ajos,19
+Cincovillas,19
+Aguatón,19
+Arevalillo de Cega,19
+Centenera de Andaluz,19
+Ciruelos del Pinar,19
+Hijes,18
+Ocentejo,18
+Villarmentero de Campos,18
+Roncesvalles,18
+Torrecuadrada de Molina,18
+Aguasal,18
+Yémeda,18
+Momblona,18
+Baños de Tajo,18
+Valtajeros,18
+Chequilla,18
+Carrascosa de la Sierra,17
+Boada de Campos,17
+Negredo,17
+Ventosilla y Tejadilla,16
+Tortuero,16
+Hornillos de Cameros,16
+Bagüés,16
+Navaquesera,16
+Ledesma de la Cogolla,16
+Perosillo,15
+Barriopedro,15
+La Olmeda de Jadraque,15
+Villodre,15
+Aldealpozo,15
+Rello,15
+Portillo de Soria,15
+Zarzosa,15
+Reinoso,15
+Alcolea de las Peñas,14
+Cabezón de Cameros,14
+Blasconuño de Matacabras,14
+Alique,14
+Carabantes,14
+Estriégana,14
+Congostrina,14
+Olmedilla de Eliz,14
+Caracena,14
+Almohaja,14
+Valdelagua del Cerro,14
+Monasterio,14
+Santiuste,14
+Condemios de Abajo,13
+Castillonuevo,13
+Bañuelos,13
+La Losilla,13
+Fuembellida,12
+Cellorigo,11
+Tordelrábano,11
+Vindel,11
+Salcedillo,11
+La Riba de Escalote,11
+Villamedianilla,11
+Torre en Cameros,10
+Navajún,10
+Rebollosa de Jadraque,10
+Torremontalbo,10
+Jaramillo Quemado,10
+Maján,9
+Torremochuela,9
+Quiñonería,9
+Estepa de San Juan,9
+Herrera de Soria,9
+Pinilla de Molina,9
+Valdemadera,8
+Villanueva de Gormaz,8
+Arandilla del Arroyo,7
+Valdeprado,7
+Valtablado del Río,7
+Castilnuevo,7
+Angón,7
+Villarroya,5
+Illán de Vacas,3
